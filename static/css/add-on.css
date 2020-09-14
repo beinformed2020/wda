@@ -4,3 +4,23 @@
   is an official part of the theme (ex. Pull Requests) should be included in main.css
   and follow the formatting and style given.
 */
+#site-nav{
+    background-color:#00a39b;
+}
+#site-nav a{
+    color: #ffffff;
+}
+#site-nav a:hover {
+    color: #434faa;
+}
+#site-header .nav {
+    font-weight: bolder;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.flyout-menu {
+    background-color: #00a39b;
+}

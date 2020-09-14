@@ -1,0 +1,38 @@
+<section id="site-sidebar">
+  {{ if gt .Site.Params.sidebar.postAmount 0 }}
+    <section id="recent-posts">
+
+      <header>
+        <img class="center"src="ims/caduseus.png" width="86" height="85" alt="Caduseus">
+      </header>
+        <header>
+          <h5 style="text-align:center">First Do No Harm</h5>
+        </header>
+        
+              <header>
+       <h4 style="text-align:center">Sign up for seminar and mailing list</h4>
+       <p>REGISTER YOUR INTEREST TO JOIN THIS INITIAL PRIVATE VIEWING ON BRANDNEWTUBE AND JOIN OUR MAILING LIST.</p>
+      </header>
+        <header>
+          <h5 style="text-align:center">Form Here</h5>
+          <p>YOUR EMAIL ADDRESS AND PERSONAL DETAILS ARE STRICTLY CONFIDENTIAL FOR OUR MAILING LIST ONLY AND WILL NOT BE SHARED WITH ANY THIRD PARTY UNDER ANY CIRCUMSTANCES.</p>
+          <p>THIS SITE IS SECURE</p>
+          <p>INTEREST IN THIS CONFERENCE WILL NOT ALLY YOU WITH ANY CONTENT DISCUSSED.</p>
+        </header>
+        
+      {{ end }}
+    </section>
+
+
+  {{ if .Site.Params.sidebar.about }}
+    <section id="mini-bio">
+      <header>
+        <h1>{{ i18n "about" }}</h1>
+      </header>
+      <p>{{ .Site.Params.sidebar.about | safeHTML }}</p>
+      <footer>
+        <a href="{{ "about" | relLangURL }}" class="button">{{ i18n "learn_more" }}</a>
+      </footer>
+    </section>
+  {{ end }}
+</section>
