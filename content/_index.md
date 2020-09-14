@@ -9,7 +9,7 @@ draft = false
 
 ### AN INVITATION TO THE MOST IMPORTANT SEMINAR OF YOUR LIFE.
 
-![Did it save lives?](ims/LOCKDOWN_BASIC_FLYER.jpg#center)
+![Did it save lives?](/img/main/LOCKDOWN_BASIC_FLYER.jpg#center)
 
 
 

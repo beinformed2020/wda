@@ -3,7 +3,7 @@
     <section id="recent-posts">
 
       <header>
-        <img class="center"src="ims/caduseus.png" width="86" height="85" alt="Caduseus">
+        <img class="center"src="img/main/caduseus.png" width="86" height="85" alt="Caduseus">
       </header>
         <header>
           <h5 style="text-align:center">First Do No Harm</h5>
@@ -18,6 +18,8 @@
           <p>YOUR EMAIL ADDRESS AND PERSONAL DETAILS ARE STRICTLY CONFIDENTIAL FOR OUR MAILING LIST ONLY AND WILL NOT BE SHARED WITH ANY THIRD PARTY UNDER ANY CIRCUMSTANCES.</p>
           <p>THIS SITE IS SECURE</p>
           <p>INTEREST IN THIS CONFERENCE WILL NOT ALLY YOU WITH ANY CONTENT DISCUSSED.</p>
+          <p>YOUR INDEPENDENT OPINION IS OF VITAL INCLUSION AT THIS CRITICAL TIME IN MEDICAL HISTORY.</p>
+          <p>CONTACT US PRIVATELY AND SECURELY.</p>
         </header>
         
       {{ end }}

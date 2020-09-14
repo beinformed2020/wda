@@ -50,7 +50,7 @@ disableLanguages        = []
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "ims/logo.png"
+      src                 = "img/main/logo.png"
       shape               = "rectangle"
       width               = ""
       alt                 = "WORLD DOCTORS ALLIANCE"
@@ -62,7 +62,7 @@ disableLanguages        = []
     categoriesByCount   = true
 
   [params.footer]
-    rssFooter           = true
+    rssFooter           = false
     socialFooter        = true
 
   [params.staticman]
