@@ -5,14 +5,6 @@ draft = false
 
 +++
 
-# LOCKDOWN. DID IT SAVE LIVES?
-
-### AN INVITATION TO THE MOST IMPORTANT SEMINAR OF YOUR LIFE.
-
-![Did it save lives?](/img/main/LOCKDOWN_BASIC_FLYER.jpg#center)
-
-
-
 ## WHO ARE WE?
 
 ![Who are we?](/img/main/whoarewe.jpg#center)

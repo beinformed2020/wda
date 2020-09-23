@@ -2,7 +2,7 @@
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
 baseurl                 = "https://www.theworlddoctorsalliance.org"
 DefaultContentLanguage  = "en"
-title                   = "World Doctor's Alliance"
+title                   = "World Doctors Alliance"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 12
 pluralizeListTitles     = false
