@@ -5,11 +5,10 @@ draft = false
 
 +++
 
-## WHO ARE WE?
+**WORLD DOCTORS ALLIANCE is an independent non-profit alliance of thousands of doctors, nurses, healthcare professionals and staff around the world who have united in the wake of the Covid-19 response chapter to share experiences with a view to ending all lockdowns and related damaging measures and to re-establish universal health determinance of psychological and physical wellbeing for all humanity.**
 
 ![Who are we?](/img/main/whoarewe.jpg#center)
 
-We are an independent non-profit alliance of thousands of doctors, nurses, healthcare professionals and staff around the world who have united in the wake of the Covid-19 response chapter to share experiences with a view to ending all lockdowns and related damaging measures and to re-establish universal health determinance of psychological and physical wellbeing for all humanity.
 
 ### AN OPEN LETTER
 

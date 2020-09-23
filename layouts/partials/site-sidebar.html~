@@ -10,7 +10,29 @@
         </header>
         
               <header>
-       <h4 style="text-align:center">Sign up for seminar and mailing list</h4>
+       <h4 style="text-align:center">Sign up for our mailing list</h4>
+       <form
+  action="https://buttondown.email/api/emails/embed-subscribe/wda"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/wda', 'popupwindow')"
+  class="embeddable-buttondown-form">
+  <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email"></input>
+  <input type="hidden" value="1" name="embed"></input>
+  <input type="submit" value="Subscribe"></input>
+</form>
+      </header>
+      
+        <header>
+          <p>YOUR EMAIL ADDRESS AND PERSONAL DETAILS ARE STRICTLY CONFIDENTIAL FOR OUR MAILING LIST ONLY AND WILL NOT BE SHARED WITH ANY THIRD PARTY UNDER ANY CIRCUMSTANCES.</p>
+          <p>THIS SITE IS SECURE.</p>
+          <p>YOUR INDEPENDENT OPINION IS OF VITAL INCLUSION AT THIS CRITICAL TIME IN MEDICAL HISTORY.</p>
+          <p><a href="../../content/contact">CONTACT US PRIVATELY AND SECURELY.</a></p>
+        </header>
+    
+<!--              <header>
+       <h4 style="text-align:center">Download Event Poster</h4>
        <p>REGISTER YOUR INTEREST TO JOIN THIS INITIAL PRIVATE VIEWING ON BRANDNEWTUBE AND JOIN OUR MAILING LIST.</p>
       </header>
         <header>
@@ -20,8 +42,7 @@
           <p>INTEREST IN THIS CONFERENCE WILL NOT ALLY YOU WITH ANY CONTENT DISCUSSED.</p>
           <p>YOUR INDEPENDENT OPINION IS OF VITAL INCLUSION AT THIS CRITICAL TIME IN MEDICAL HISTORY.</p>
           <p>CONTACT US PRIVATELY AND SECURELY.</p>
-        </header>
-        
+        </header>  -->  
       {{ end }}
     </section>
 
