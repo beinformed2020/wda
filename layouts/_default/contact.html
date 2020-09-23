@@ -11,6 +11,7 @@
         <div class="contact-container">
           {{ if .Params.netlify }}
             <form name="contact" method="POST" action="thank-you" data-netlify-recaptcha="true" data-netlify="true" center width="300px">
+          {{ else }}
 
           {{ end }}
           <h4>{{ i18n "contact_replies" .Params.contactanswertime }}</h4>
