@@ -22,7 +22,7 @@ disableLanguages        = []
   readingTime           = true
   imageStretch          = ""
   removeBlur            = false
-  socialShare           = ["twitter", "facebook", "reddit", "linkedin", "pinterest", "email"]
+  socialShare           = ["twitter", "facebook", "reddit", "linkedin", "email"]
   hideEmptyStats        = false
 
   [params.meta]
@@ -79,19 +79,19 @@ disableLanguages        = []
 
 [menu]
 
-   [[menu.main]]
-    name              = "Home"
-    identifier        = "about"
-    url               = "/"
-    pre               = "<i class='fa fa-home'></i>"
-    weight            = 1
-
   [[menu.main]]
     name              = "News"
     identifier        = "blog"
     url               = "/blog/"
     pre               = "<i class='far fa-newspaper'></i>"
-    weight            = 3
+    weight            = 2
+
+  [[menu.main]]
+    name              = "About"
+    identifier        = "about"
+    url               = "/about/"
+    pre               = "<i class='far fa-address-card'></i>"
+    weight            = 4
 
 
   [[menu.main]]
