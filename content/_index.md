@@ -11,6 +11,8 @@ draft = false
 
 ## Open letter to the UK Government, Governments of the World and the Citizens of the World
 
+[Download PDF version here](ims/WDAOpenLetter.pdf)
+
 We the undersigned call upon the UK government, governments of the World and the Citizens of the World, to stop all lockdown measures immediately.
 
 #### Introduction
