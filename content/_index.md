@@ -5,7 +5,7 @@ draft = false
 
 +++
 
-**WORLD DOCTORS ALLIANCE is an independent non-profit alliance of thousands of doctors, nurses, healthcare professionals and staff around the world who have united in the wake of the Covid-19 response chapter to share experiences with a view to ending all lockdowns and related damaging measures and to re-establish universal health determinance of psychological and physical wellbeing for all humanity.**
+**WORLD DOCTORS ALLIANCE is an independent non-profit alliance of doctors, nurses, healthcare professionals and staff around the world who have united in the wake of the Covid-19 response chapter to share experiences with a view to ending all lockdowns and related damaging measures and to re-establish universal health determinance of psychological and physical wellbeing for all humanity.**
 
 ![Who are we?](/img/main/whoarewe.jpg#center)
 
@@ -38,37 +38,37 @@ There has been a catalogue of unscientific, non-sensical policies enacted which 
 - Covid has proved less deadly than previous influenza seasons – There were 50,100 flu deaths from December 2017 to March 2018 in England and Wales. There were 80,000 flu deaths in 1969. To date we have circa 42,000 covid related deaths in the UK.
 
 
- 
+
 
 - We have never locked down society for a respiratory virus before.
 
 
- 
+
 
 - The basis for lockdown was a mathematical model by Professor Neil Ferguson. His modelling which predicted half a million deaths in the UK has been roundly condemned as being not fit for purpose. His estimated death figures were clearly wrong by a factor of 10 or 12 times. (1)    
 
 
- 
+
 
 - Professor Ferguson’s modelling was not even peer reviewed before being acted upon by several nations. Eminent epidemiologists such as Professor Gupta from Oxford University were ignored, they estimated the death count would be far lower in the UK.  
 
 
- 
+
 
 - Professor Ferguson has a long track record of woeful modelling he was entirely wrong about sars, mers, mad cow’s disease (CJD), and swine flu. Why did the world listen to him again? (2)
 
 
- 
+
 
 - Countries which did not lock down Sweden, Japan, Taiwan, South Korea and Belarus have all done significantly better than us in terms of percentage of population deaths. They also have herd immunity and intact economies.
 
 
- 
+
 
 - Lockdown did not save lives, and this has been published in the Lancet ‘….in our analysis, full lockdowns and wide-spread COVID-19 testing were **not** associated with reductions in the number of critical cases or overall mortality.’ (3)
 
 
- 
+
 
 - The vast majority of deaths occurred in elderly and very elderly people
 
@@ -77,32 +77,32 @@ There has been a catalogue of unscientific, non-sensical policies enacted which 
 - The vast majority of deaths occurred in people with pre-existing serious health issues such as cancer, cardiovascular disease, Alzheimer’s, diabetes etc  
 
 
- 
+
 
 - Covid poses virtually zero risk to the under 45’s who have more chance of being struck by lightning than dying from covid.
 
 
- 
+
 
 - Covid poses a very small risk for healthy under 60 year olds who have a greater chance of accidental drowning than dying from covid.
 
 
- 
+
 
 - The entire nation was essentially placed under house arrest. We have never isolated the healthy before.  
 
 
- 
+
 
 - Isolating the sick and those who are immunocompromised makes sense. Isolating the healthy has hampered the establishment of herd immunity and makes no sense.
 
 
- 
+
 
 - To put it into perspective we had 115,000 smoking related deaths in the UK in 2015 compared to the 42,000 deaths from covid.  
 
 
- 
+
 
 - We usually have around 600,000 deaths every year in the UK, roughly 1600 deaths per day.  
 
@@ -113,27 +113,27 @@ There has been a catalogue of unscientific, non-sensical policies enacted which 
 - Placing the public under virtual house arrest has caused untold damage to both physical and mental health.(1)
 
 
- 
+
 
 - Ventilating patients instead of oxygenating patients proved to be a deadly policy and an unwarranted failure. Ventilation resulted in many unnecessary deaths. (2)
 
 
- 
+
 
 - Sending infected people from hospitals to care homes placed the elderly and frail under unnecessary risk and resulted in many unnecessary deaths. (3)
 
 
- 
+
 
 - Blanket Do Not Resuscitate (DNR) orders were imposed on thousands of people without their consent nor the consent of their families – this is both unlawful and immoral and lead to unnecessary deaths in care homes. (4)
 
 
- 
+
 
 - Hospitals became essentially ‘covid only’ centres vast numbers of patients were wilfully neglected, resulting in many thousands of unnecessary deaths. (5)
 
 
- 
+
 
 
  
@@ -141,7 +141,7 @@ There has been a catalogue of unscientific, non-sensical policies enacted which 
 - The government’s own report estimates that some two hundred thousand (200,000) people will die as a direct result of lockdown – not the virus. Hospitals being closed, suicide and poverty will result in more deaths than the virus. (6)
 
 
- 
+
 
 - The cure is worse than the disease!
 
@@ -152,27 +152,27 @@ There has been a catalogue of unscientific, non-sensical policies enacted which 
 - The majority of people who died had significant comorbidities, such as Alzheimer’s, cancer, cardiovascular disease and diabetes.  
 
 
- 
+
 
 - Counting death certificates with a ‘mention’ of covid as being a death caused by covid is a gross misrepresentation of the facts and has vastly over exaggerated the death toll.  
 
 
- 
+
 
 - The rules for the signing of death certificates have been changed solely for covid by the Coronavirus 2020 Act.
 
 
- 
+
 
 - Doctors do not even need to have physically seen the patient in order to sign death certificates.  
 
 
- 
+
 
 - The Act has removed the need for a confirmatory medical certificate for cremations.
 
 
- 
+
 
 
  
@@ -180,17 +180,17 @@ There has been a catalogue of unscientific, non-sensical policies enacted which 
 - Autopsies have virtually been banned, no doubt leading to misdiagnosis of the true cause of deaths; and also reducing our understanding of the disease itself.
 
 
- 
+
 
 - Worse still, care home staff who largely have no medical training are able to give a statement as to the cause of death.
 
 
- 
+
 
 - Covid was put on death certificates merely on the ‘suspicion’ of people having covid. This may well be unlawful, since it is a crime to falsify death certificates.
 
 
- 
+
 
 - People who die within 28 days of a positive pcr test are deemed to have died from covid, even if they die in a car crash or from a heart attack; clearly over inflating the death toll (2)
 
@@ -199,7 +199,7 @@ There has been a catalogue of unscientific, non-sensical policies enacted which 
 - Reports now estimate that as many as six and a half million (6,500,000) people in the UK will lose their jobs as a result of lockdown. (1)
 
 
- 
+
 
 -  It is well known that poverty directly adversely affects health, we can expect to see many people suffering with poor health and resulting in many premature deaths, as a direct result of lockdown.
 
@@ -208,12 +208,12 @@ There has been a catalogue of unscientific, non-sensical policies enacted which 
 - Government have acted maliciously in censoring doctors, nurses and NHS staff. The people have the perfect right to hear what is going on in hospitals, and the medical profession have a duty to look after the public and to reassure them. (1)
 
 
- 
+
 
 - The medical profession have not been allowed to let the public know that covid wards have been empty for months, nor that covid deaths have reached an all-time low for months, and this has unnecessarily added to the public’s distress and anxiety.
 
 
- 
+
 
 - Doctors and scientists with views that differ from the government narrative have had their videos and articles removed from the internet
 
@@ -222,42 +222,42 @@ There has been a catalogue of unscientific, non-sensical policies enacted which 
 - PCR tests cannot be verified for accuracy as there is no ‘gold standard’ against which to check them. The virus has not been purified. (1)
 
 
- 
+
 
 -  PCR tests cannot detect viral loads and are prone to false positives. (2)
 
 
- 
+
 
 - A positive PCR test does not mean that an individual is infected nor infective. (3)
 
 
- 
+
 
 - In fact approximately 90% of the PCR positive ‘cases’ are false positives. We therefore have no second wave and no pandemic. (4 , 5)
 
 
- 
+
 
 - The government’s report estimates a false positive rate of between 0.8 to 4.0 % using data from other viral infections – not from covid (6)
 
 
- 
+
 
 - Viral fragments may remain in people’s bodies for several weeks following recovery from infection. (7)
 
 
- 
+
 
 - The crisis will never end if we are waiting for zero positive tests. Everyone has probably had a cold caused by a coronavirus and will likely have a few viral fragments matching those of the cousin SARS-CoV-2 virus (8)
 
 
- 
+
 
 - Testing healthy asymptomatic individuals is non-sensical, unscientific and a colossal waste of money. The governments moon shot daily testing program will cost £100 Billion roughly two thirds of the annual NHS budget.  
 
 
- 
+
 
 - Antibody testing is not the gold standard as many people have T-cell immunity, and antibodies may not circulate following recovery from infection.
 
@@ -268,32 +268,32 @@ There has been a catalogue of unscientific, non-sensical policies enacted which 
 - The controversial drug Hydroxychloroquine (HCQ) has been unfairly smeared, by the WHO, CDC, NIH and the media.
 
 
- 
+
 
 - However HCQ has very firm support from, amongst others: Professor Harvey Risch epidemiologist from Yale, The American Association of Physicians and Surgeons (AAPS), American Frontline Doctors, the Henry Ford Health System and Professor Didier Raoult microbiologist and infectious disease specialist - to name but a few. (1)
 
 
- 
+
 
 - The Lancet was even forced to retract a study on HCQ after it was revealed by the Guardian newspaper that they had been completely fabricated and written by a sci-fi writer and a porn star. Even following this astounding revelation HCQ was still banned in most countries. (2)
 
 
- 
+
 
 -  HCQ according to AAPS has a ninety per cent (90%) cure rate when given early and alongside zinc (3)
 
 
- 
+
 
 - HCQ is safer than many over the counter drugs such as aspirin, Benadryl and Tylenol.
 
 
- 
+
 
 - The AAPS also point out that there has never been a vaccine as safe as HCQ. (4)
 
 
- 
+
 
 
  
@@ -301,17 +301,17 @@ There has been a catalogue of unscientific, non-sensical policies enacted which 
 - HCQ has been licensed for over sixty years and has been safely used by billions of people worldwide. There is a very small risk of arrythmia which is easily monitored.
 
 
- 
+
 
 - Why was HCQ banned then? Could it be that there are no huge profits to be made from this out-of-patent drug?
 
 
- 
+
 
 - HCQ was used to great effect in the Sars1 outbreak of 2005 (5)
 
 
- 
+
 
 - In short had HCQ been available then there would not have been a pandemic !
 
@@ -320,17 +320,17 @@ There has been a catalogue of unscientific, non-sensical policies enacted which 
 - Preventative measures such as hydroxychloroquine or vitamins D, C and zinc should have been recommended for the public. (1)
 
 
- 
+
 
 - Early calcifediol (25-hydroxyvitamin D) treatment to hospitalized COVID-19 patients significantly reduced intensive care unit admissions (2)
 
 
- 
+
 
 - Vit D reduces the severity of covid. (2,3)
 
 
- 
+
 
 - Voluntary isolation of the frail - should they so choose; in combination with preventative measures would have been a far better strategy. The rest of society could and should have continued as normal.
 
@@ -339,7 +339,7 @@ There has been a catalogue of unscientific, non-sensical policies enacted which 
 - A rushed vaccine is clearly not in the public’s best interest  
 
 
- 
+
 
 - Indemnifying vaccine manufacturers against all liability is also clearly not in the public’s best interest
 
@@ -348,12 +348,12 @@ There has been a catalogue of unscientific, non-sensical policies enacted which 
 - Chief Scientific Officer Sir Patrick Vallance has £600,000 worth of shares in GSK Glaxo Smith Klein. He has in recent years sold £5 million of shares in GSK which he ‘earned’ whilst chief of GSK (1)
 
 
- 
+
 
 -  Sir Chris Whitty, Chief Medical Officer UK, accepted over £30 million in funding from the Bill and Melinda Gates foundation to study malaria vaccines. (2)
 
 
- 
+
 
 
  
@@ -361,7 +361,7 @@ There has been a catalogue of unscientific, non-sensical policies enacted which 
 -  It has become clear that members of SAGE, Public Health England (PHE), World Health Organisation (WHO), Centre for Disease Control (CDC), National institute for Health (NIH) etc have many conflicts of interests. They all accept very large ‘donations’ from the pharmaceutical and vaccine industry. These conflicts of interests may well have effectively corrupted their integrity. (3)
 
 
- 
+
 
 -  It is also clear that governments are heavily lobbied by the pharmaceutical industry and the vaccine industry, again this may have compromised their integrity. (4)
 
@@ -370,12 +370,12 @@ There has been a catalogue of unscientific, non-sensical policies enacted which 
 - Vaccine manufacturers will make trillions from this, as will track and trace manufacturers, and the pharmaceutical industry stand to make trillions from covid testing.
 
 
- 
+
 
 -  Prime minister Boris Johnson announced the new ‘moon shot’ testing will cost £100 Billion, approximately two thirds of the annual NHS budget.  
 
 
- 
+
 
 
  
