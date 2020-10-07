@@ -415,7 +415,7 @@ NB the term ‘covid’ has been used to represent Sars-CoV-2 and Covid-19
 #### Introduction
 
 1. [BMJ](https://www.bmj.com/content/369/bmj.m1375)
-2. [CNN](https://edition.cnn.com/2020/06/08/health/coronavirus-asymptomatic-spread-who-bn/index.html)
+2. [CNN](https://edition.cnn.com/2020/06/08/health/coronavirus-asymptomatic-spread-who-bn/index.html) and [WBUR](https://www.wbur.org/npr/803158339/does-the-new-coronavirus-spread-silently)
 3. [NHS](https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2020/09/COVID-19-total-announced-deaths-28-September-2020.xlsx)
 
 #### Lockdown
