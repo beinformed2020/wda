@@ -1,13 +1,13 @@
 +++
-title = ""
+title = "WORLD DOCTORS ALLIANCE"
 date = "2020-06-15T19:57:09+05:30"
 draft = false
 
 +++
 
-**WORLD DOCTORS ALLIANCE is an independent non-profit alliance of doctors, nurses, healthcare professionals and staff around the world who have united in the wake of the Covid-19 response chapter to share experiences with a view to ending all lockdowns and related damaging measures and to re-establish universal health determinance of psychological and physical wellbeing for all humanity.**
+**An independent non-profit alliance of doctors, nurses, healthcare professionals and staff around the world who have united in the wake of the Covid-19 response chapter to share experiences with a view to ending all lockdowns and related damaging measures and to re-establish universal health determinance of psychological and physical wellbeing for all humanity.**
 
-![Who are we?](/img/main/whoarewe.jpg#center)
+![WDA - Who we are.](ims/whoweare.jpg#center)
 
 ## Open letter to the UK Government, Governments of the World and the Citizens of the World
 
@@ -105,8 +105,6 @@ There has been a catalogue of unscientific, non-sensical policies enacted which 
 
 
 - We usually have around 600,000 deaths every year in the UK, roughly 1600 deaths per day.  
-
-
 
 #### Collateral damage the cure is worse than the virus
 
@@ -416,75 +414,72 @@ NB the term ‘covid’ has been used to represent Sars-CoV-2 and Covid-19
 
 #### Introduction
 
-1. https://www.bmj.com/content/369/bmj.m1375
-2. https://edition.cnn.com/2020/06/08/health/coronavirus-asymptomatic-spread-who-bn/index.html   
-   www.ncbi.nim.nih.gov/pmc/articles/PMC7219423/
-3. https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2020/09/COVID-19-total-announced-deaths-28-September-2020.xlsx
-
-
+1. [BMJ](https://www.bmj.com/content/369/bmj.m1375)
+2. [CNN](https://edition.cnn.com/2020/06/08/health/coronavirus-asymptomatic-spread-who-bn/index.html)
+3. [NHS](https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2020/09/COVID-19-total-announced-deaths-28-September-2020.xlsx)
 
 #### Lockdown
 
-1. https://www.telegraph.co.uk/news/2020/05/23/lockdown-saved-no-lives-may-have-cost-nobel-prize-winner-believes/
-2. https://www.thetimes.co.uk/article/professors-model-for-coronavirus-predictions-should-not-have-been-used-z7dqrkzzd
-3. https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(20)30208-X/fulltext
+1. [Telegraph](https://www.telegraph.co.uk/news/2020/05/23/lockdown-saved-no-lives-may-have-cost-nobel-prize-winner-believes/)
+2. [Times](https://www.thetimes.co.uk/article/professors-model-for-coronavirus-predictions-should-not-have-been-used-z7dqrkzzd)
+3. [The Lancet](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(20)30208-X/fulltext)
 
 #### Collateral damage
 
-1. https://www.bmj.com/content/369/bmj.m1931
-2. https://time.com/5820556/ventilators-covid-19/
-3. https://drmalcolmkendrick.org/2020/05/11/how-to-make-a-crisis-far-far-worse/
-4. https://www.qni.org.uk/news-and-events/news/major-new-survey-of-care-home-leaders-confirms-severe-impact-of-covid-19/
-5. https://www.bbc.co.uk/news/health-53300784
-6. https://www.telegraph.co.uk/news/2020/07/19/lockdown-may-cost-200k-lives-government-report-shows/
+1. [BMJ](https://www.bmj.com/content/369/bmj.m1931)
+2. [Time](https://time.com/5820556/ventilators-covid-19/)
+3. [Dr Malcolm Kendrick](https://drmalcolmkendrick.org/2020/05/11/how-to-make-a-crisis-far-far-worse/)
+4. [QNI](https://www.qni.org.uk/news-and-events/news/major-new-survey-of-care-home-leaders-confirms-severe-impact-of-covid-19/)
+5. [BBC](https://www.bbc.co.uk/news/health-53300784)
+6. [BBC](https://www.telegraph.co.uk/news/2020/07/19/lockdown-may-cost-200k-lives-government-report-shows/)
 
 #### Death certificates 
 
-1. https://www.spectator.co.uk/article/the-way-covid-deaths-are-being-counted-is-a-national-scandal
-2. https://www.telegraph.co.uk/news/2020/09/18/almost-one-third-covid-deaths-july-august-primarily-caused-conditions/
+1. [Spectator](https://www.spectator.co.uk/article/the-way-covid-deaths-are-being-counted-is-a-national-scandal)
+2. [Telegraph](https://www.telegraph.co.uk/news/2020/09/18/almost-one-third-covid-deaths-july-august-primarily-caused-conditions/)
 
 #### Economic ruin 
 
-1. https://www.independent.co.uk/news/uk/home-news/coronavirus-lockdown-job-losses-unemployment-recession-university-essex-study-a9472966.html
+1. [Independent](https://www.independent.co.uk/news/uk/home-news/coronavirus-lockdown-job-losses-unemployment-recession-university-essex-study-a9472966.html)
 
 #### Censorship
 
-1. https://www.theguardian.com/society/2020/apr/09/nhs-staff-forbidden-speaking-out-publicly-about-coronavirus
+1. [Guardian](https://www.theguardian.com/society/2020/apr/09/nhs-staff-forbidden-speaking-out-publicly-about-coronavirus)
 
 #### Tests
 
-1. https://www.bmj.com/content/bmj/369/bmj.m1808.full.pdf
-2. https://www.spectator.co.uk/article/how-many-covid-diagnoses-are-false-positives-
-3. https://www.cebm.net/covid-19/infectious-positive-pcr-test-result-covid-19/
-4. https://lockdownsceptics.org/lies-damned-lies-and-health-statistics-the-deadly-danger-of-false-positives/  https://www.nytimes.com/2020/08/29/health/coronavirus-testing.html
-5.   https://www.anhinternational.org/news/why-your-positive-test-result-is-likely-wrong/ 
-6. https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/895843/S0519_Impact_of_false_positives_and_negatives.pdf
-7. https://www.thelancet.com/journals/lancet/article/PIISO-140-6736(20)30868-0/fulltext
-8.  https://aapsonline.org/covid-19-what-does-a-positive-pcr-test-mean/
+1. [BMJ](https://www.bmj.com/content/bmj/369/bmj.m1808.full.pdf)
+2. [Spectator](https://www.spectator.co.uk/article/how-many-covid-diagnoses-are-false-positives-)
+3. [CEBM](https://www.cebm.net/covid-19/infectious-positive-pcr-test-result-covid-19/)
+4. [Lockdown Sceptics](https://lockdownsceptics.org/lies-damned-lies-and-health-statistics-the-deadly-danger-of-false-positives/) and [DOI](https://doi.org/10.1016/j.jsbmb.2020.105751)
+5. [ANH International](https://www.anhinternational.org/news/why-your-positive-test-result-is-likely-wrong/)
+6. [Gov.UK](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/895843/S0519_Impact_of_false_positives_and_negatives.pdf)
+7. [Lancet](https://www.thelancet.com/journals/lancet/article/PIISO-140-6736(20)30868-0/fulltext)
+8. [Apps Online](https://aapsonline.org/covid-19-what-does-a-positive-pcr-test-mean/)
 
 #### HCQ
 
-1. https://www.newsweek.com/key-defeating-covid-19-already-exists-we-need-start-using-it-opinion-1519535https://www.ijidonline.com/article/S1201-9712(20)30534-8/fulltext
-2. https://www.theguardian.com/world/2020/jun/03/covid-19-surgisphere-who-world-health-organization-hydroxychloroquine
-3. https://www.thelancet.com/lancet/article/s0140673620313246
-4. https://aapsonline.org/hcq-90-percent-chance/
-5. https://aapsonline.org/patients-need-ability-to-choose-hydroxychloroquine-states-aaps/
-6. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1232869/
-7. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1232869/
+1. [Newsweek](https://www.newsweek.com/key-defeating-covid-19-already-exists-we-need-start-using-it-opinion-1519535https://www.ijidonline.com/article/S1201-9712(20)30534-8/fulltext)
+2. [Guardian](https://www.theguardian.com/world/2020/jun/03/covid-19-surgisphere-who-world-health-organization-hydroxychloroquine)
+3. [Lancet](https://www.thelancet.com/lancet/article/s0140673620313246)
+4. [Apps Online](https://aapsonline.org/hcq-90-percent-chance/)
+5. [Apps Online](https://aapsonline.org/patients-need-ability-to-choose-hydroxychloroquine-states-aaps/)
+6. [NIH.GOV](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1232869/)
+7. [NIH.GOV](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1232869/)
 
 #### Prevention
 
-1. https://www.bmj.com/content/368/bmj.m1101/rr-10
-2. https://doi.org/10.1016/j.jsbmb.2020.105751
-3. https://doi.org/10.1016/j.virusres.2020.198148
+1. [BMJ](https://www.bmj.com/content/368/bmj.m1101/rr-10)
+2. [DOI.ORG](https://doi.org/10.1016/j.jsbmb.2020.105751)
+3. [DOI.ORG](https://doi.org/10.1016/j.virusres.2020.198148)
 
 #### Conflicts of interests
 
-1. https://www.telegraph.co.uk/news/2020/09/23/revealed-sir-patrick-vallance-has-600000-shareholding-firm-contracted/
-2.  https://www.telegraph.co.uk/news/2020/03/13/chris-whitty-going-viral/
-3.  https://aapsonline.org/cdc-compromised-by-bias-and-conflicts-of-interest/
-4.  https://www.statnews.com/feature/prescription-politics/prescription-politics/
+1. [Telegraph](https://www.telegraph.co.uk/news/2020/09/23/revealed-sir-patrick-vallance-has-600000-shareholding-firm-contracted/)
+2. [Telegraph](https://www.telegraph.co.uk/news/2020/03/13/chris-whitty-going-viral/)
+3. [Apps Online](https://aapsonline.org/cdc-compromised-by-bias-and-conflicts-of-interest/)
+4. [Statnews](https://www.statnews.com/feature/prescription-politics/prescription-politics/)
 
 #### Conclusion
 
-1. https://www.express.co.uk/life-style/health/1320428/Coronavirus-news-lockdown-mistake-second-wave-Boris-Johnson
+1. [Express](https://www.express.co.uk/life-style/health/1320428/Coronavirus-news-lockdown-mistake-second-wave-Boris-Johnson)
