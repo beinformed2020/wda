@@ -7,7 +7,7 @@ draft = false
 
 **An independent non-profit alliance of doctors, nurses, healthcare professionals and staff around the world who have united in the wake of the Covid-19 response chapter to share experiences with a view to ending all lockdowns and related damaging measures and to re-establish universal health determinance of psychological and physical wellbeing for all humanity.**
 
-![WDA - Who we are.](ims/whoweare.jpg#center)
+![WDA - Who we are.]([/img/main/whoarewe.jpg#center)
 
 ## Open letter to the UK Government, Governments of the World and the Citizens of the World
 
