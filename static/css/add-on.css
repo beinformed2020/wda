@@ -24,3 +24,10 @@
 .flyout-menu {
     background-color: #00a39b;
 }
+a.here-button{
+    display: block;
+    padding: 6px;
+    color: #fff;
+    border-radius: 6px;
+    background-color:#434faa;
+}
