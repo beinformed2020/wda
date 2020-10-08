@@ -27,7 +27,7 @@ So-called asymptomatic cases have never in the history of respiratory disease be
 
 It is also abundantly clear that the ‘pandemic’ is basically over and has been since June 2020. (3)  
 
-We have reached ‘herd’ immunity and therefore have no need for a vaccine.  
+We have very highly likely reached herd immunity and therefore have no need for a vaccine.
 
 We have safe and very effective treatments and preventative treatments for covid, we therefore call for an immediate end to all lockdown measures, social distancing, mask wearing, testing of healthy individuals, track and trace, immunity passports, the vaccination program and so on.   
 
