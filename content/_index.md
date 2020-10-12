@@ -13,8 +13,9 @@ draft = false
 
 [Download PDF version here](ims/WDAOpenLetter.pdf)
 
-We the undersigned call upon the UK government, governments of the World and the Citizens of the World, to stop all lockdown measures immediately.
-
+              <header>
+       <h4 style="text-align:center"><a href="/contact" class="here-button">Sign our open letter: CLICK HERE</a></h4>
+      </header>
 #### Introduction
 
 We were told initially that the premise for lockdown was to ‘flatten the curve’ and therefore protect the NHS from being overwhelmed.   
