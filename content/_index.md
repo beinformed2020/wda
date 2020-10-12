@@ -495,7 +495,7 @@ NB the term ‘covid’ has been used to represent Sars-CoV-2 and Covid-19
 5. DR. ANDREW KAUFMAN, M.D
 6. DR. SCOTT JENSEN, M.D
 
-Updated daily.
+**Updated daily.**  
 12.10.2020
 
 ### Doctors
