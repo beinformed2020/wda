@@ -13,7 +13,8 @@ draft = false
 
 [Download PDF version here](ims/WDAOpenLetter.pdf)
 
-    {{< rawhtml >}}<p style="text-align:center"><a href="/contact" class="here-button">Sign our open letter: CLICK HERE</a></p>{{< /rawhtml >}}
+{{< rawhtml >}}<p style="text-align:center"><a href="/contact" class="here-button">Sign our open letter: CLICK HERE</a></p>{{< /rawhtml >}}
+
 #### Introduction
 
 We were told initially that the premise for lockdown was to ‘flatten the curve’ and therefore protect the NHS from being overwhelmed.   
