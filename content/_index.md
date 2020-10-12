@@ -13,7 +13,7 @@ draft = false
 
 [Download PDF version here](ims/WDAOpenLetter.pdf)
 
-{{< rawhtml >}}<p style="text-align:center"><a href="/contact" class="here-button">Sign our open letter: CLICK HERE</a></p>{{< /rawhtml >}}
+{{< rawhtml >}}<p style="text-align:center"><a href="/contact" class="here-button">SIGN OUR OPEN LETTER: CLICK HERE</a></p>{{< /rawhtml >}}
 
 #### Introduction
 
