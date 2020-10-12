@@ -483,3 +483,142 @@ NB the term ‘covid’ has been used to represent Sars-CoV-2 and Covid-19
 #### Conclusion
 
 1. [Express](https://www.express.co.uk/life-style/health/1320428/Coronavirus-news-lockdown-mistake-second-wave-Boris-Johnson)
+
+
+
+## Signed by:
+
+1. DR MOHAMMAD ADIL
+2. PROFESSOR DOLORES CAHILL
+3. DR. R. ZAC COX, BDS
+4. DR. HEIKO SCHÖNING
+5. DR. ANDREW KAUFMAN, M.D
+6. DR. SCOTT JENSEN, M.D
+
+Updated daily.
+12.10.2020
+
+### Doctors
+
+| Mr M Ulhaq         |
+| James Lucas        |
+| Dr Lukasz Luczaj   |
+| Malika Vogelsang   |
+| Ellen Dean-Mcshane |
+
+### Holistic Health Practitioners
+
+| Catherine Marshall |
+| Siobhan Compton    |
+| Sally Ann Westcott |
+| Carole McKenzie    |
+| A.stepien          |
+| Annelise Franck    |
+| Vivienne Moses     |
+| Angela Ross        |
+
+### General Public
+
+| Anders Ståhl               |
+| Gordon Richards            |
+| Phoebe Gale                |
+| Lisa Harkin                |
+| Lorena                     |
+| Lynne Jones                |
+| David hilliard             |
+| jayne allison              |
+| Jennifer Hulme             |
+| Dean                       |
+| Stuart Fuller              |
+| M. Finch                   |
+| David Keogh                |
+| Fred Wells                 |
+| Emily Press                |
+| Olli Aittoniemi            |
+| Sarah hodgson              |
+| Katie Jackson              |
+| Andrew Radley              |
+| nel birch                  |
+| Mary E McCann     |
+| CecilB                     |
+| Glenn Conroy               |
+| James collins              |
+| Ross McDonald              |
+| Dave vickers               |
+| Beryl Williams             |
+| Paul Burkhardt             |
+| Alison Quinn               |
+| Tamar                      |
+| Mandy                      |
+| Christine Ferrin           |
+| wesley jackson             |
+| Jacqueline Robinson Turner |
+| Mari Hincks                |
+| Tina Hussain               |
+| Lee dawson                 |
+| Jakey Zee                  |
+| Charlie Pondriche          |
+| Cheryl Penn                |
+| Melissa                    |
+| Charlotte                  |
+| Michelle Sullivan          |
+| Polly Davies               |
+| Guy                        |
+| Gill Low                   |
+| Kevin Watson               |
+| Lisa Tamburini             |
+| Tina Simpson               |
+| Tracey Eydmann             |
+| Karen Taylor               |
+| A McCallum                 |
+| Karen McDonald             |
+| Janet Whincup              |
+| Gavin Davis                |
+| T Hall                     |
+| Jack Cavanagh              |
+| Daniel Osborn              |
+| Marcia Gannon              |
+| Sarah                      |
+| John hay                   |
+| Michael Tecleab            |
+| Tracy                      |
+| Mark Lawrence              |
+| David Wales                |
+| Julie Thomson              |
+| Susan Benson               |
+| Helen Smith                |
+| shirley davis              |
+| glynis keens               |
+| Jordan Kidby               |
+| Sarah Raison               |
+| Carly main                 |
+| Mark Harper                |
+| Tim Smith I                |
+| Alan Turner                |
+| Alison westall             |
+| Maragaret Hamilton         |
+| Angalica Brown             |
+| Katriona Williamson        |
+| Julie Keogh                |
+| Jan Robberts               |
+| Megen White                |
+| Ms Alena Turner            |
+| Chandler Peterson          |
+| Linzi Hearns               |
+| Lesley McEwan              |
+| Karon Riley                |
+| Karon Gleave               |
+| Karon Davey                |
+| Heather Foster             |
+| June Walsh                 |
+| Jan                        |
+| Pamela Gintoff             |
+| Eleanor Burnett            |
+| Rebecca Large              |
+| Sharon Sharp               |
+| Elisabeth Robyn            |
+| kim henderson              |
+| Shannon                    |
+| Jacqueline McCormack       |
+| Martin Stockton            |
+| Vivienne Burke             |
