@@ -496,10 +496,55 @@ NB the term ‘covid’ has been used to represent Sars-CoV-2 and Covid-19
 6. DR. SCOTT JENSEN, M.D
 
 **Updated daily.**  
-12.10.2020
+Last update 13.10.2020
+
+### Total signatures so far: 1138
 
 ### Doctors
 
+| Catriona Howie                 |
+| Nediljka                       |
+| Hilde De Smet                  |
+| Johan Denis                    |
+| Aoife Keogh                    |
+| Paul Walsh                     |
+| Jean Anderson                  |
+| Sandra                         |
+| Lisa Henderson                 |
+| Jackie Magennis                |
+| Grainne Kelly                  |
+| Siobhan Flood MA(Bio Sci), NLC |
+| Caoimhe Dardis                 |
+| Dawn cavarra                   |
+| Damian headford                |
+| Denise Burrill                 |
+| Dorothee Dr. med. Fietzek      |
+| Marge Murphy                   |
+| Janet shillitto                |
+| Wendy Gibney                   |
+| Amanda whyte                   |
+| Deborah Williams               |
+| Teresa McDowell                |
+| Carmel Hanly                   |
+| Graham Doyle                   |
+| Christine Padgham              |
+| Jennifer meikle                |
+| Annabella Bell                 |
+| Helen Towill                   |
+| danny lane                     |
+| Sharon McGinty                 |
+| Anne Gomez                     |
+| Declan                         |
+| Mary O' Shea-Barry             |
+| Liam Anderson-Porter MVB       |
+| Jamie Clabburn                 |
+| Deborah Eiffe                  |
+| Evelyn                         |
+| Iwona                          |
+| Kim Wallace                    |
+| Shona Brown                    |
+| Susannah Dunne                 |
+| Kelvin Smith                   |
 | Mr M Ulhaq         |
 | James Lucas        |
 | Dr Lukasz Luczaj   |
@@ -508,6 +553,109 @@ NB the term ‘covid’ has been used to represent Sars-CoV-2 and Covid-19
 
 ### Holistic Health Practitioners
 
+| Maedbh Ni Mhuireain           |
+| Debbie Williams               |
+| Katie De-Mouilpied            |
+| Laura Vaughan                 |
+| Gabriele Arnold               |
+| Tara Miller                   |
+| Teresa Farrell                |
+| Sinead O Neill                |
+| Joanne Bohan                  |
+| Diane Walker                  |
+| Rhoda Kingston                |
+| Tricia fFrost                 |
+| Grace O’Riordan               |
+| Jean Melia                    |
+| Celise Crossman               |
+| Janine Michael                |
+| Marzena Kolano                |
+| Lorraine Kabacinski           |
+| Gill Perry                    |
+| Jaime Tanna                   |
+| Angela Ferns                  |
+| Tricia Murray                 |
+| Jacqui Summerfield            |
+| Jonathan Reid                 |
+| Petra Stampfer                |
+| Jennifer Macleod              |
+| Anita                         |
+| Yvonne Curran                 |
+| Tonya Hountingwolf Billington |
+| Kieran Watson                 |
+| CARINE LUCARELLI              |
+| Stevie Kolar                  |
+| Ruth-Ann Moriarty             |
+| Stella McCole                 |
+| Richard                       |
+| Frank plunkett                |
+| Tracy                         |
+| Pauline Mccallion             |
+| Alan Hamilton                 |
+| Eileen Flynn                  |
+| Grit Glass                    |
+| Niamh                         |
+| Agnieszka Lloyd               |
+| Sara Biondi                   |
+| Alen                          |
+| sarah                         |
+| Johanna Treacy                |
+| Jackie                        |
+| Siobhan Docherty              |
+| Norman Duncan                 |
+| Siobhan Hencher               |
+| Simon King                    |
+| Ada                           |
+| Sofie Collette                |
+| Catherine McGowam             |
+| David McCollum                |
+| Kathryn Ashdown               |
+| Veronika Leskova              |
+| Samantha Singh                |
+| Lynn                          |
+| Debbie Miller                 |
+| Craig Hollyoake               |
+| Lisa mullin                   |
+| Anne Dahmen                   |
+| Janet E Spence ND             |
+| Stacey Quin                   |
+| Elaine Carmon                 |
+| Baibre Ni Dhuill              |
+| Carrie Bowes                  |
+| Sammy                         |
+| Trish Sheridan                |
+| Adrian Byrne                  |
+| Michelle Connolly             |
+| Fran Cline                    |
+| Peneleapaí                    |
+| Lara                          |
+| Georgina Haim                 |
+| Barbara Jardine               |
+| Megan Hunter                  |
+| Carole Henderson              |
+| Claire Knifton                |
+| Aude Hayes                    |
+| Iveta                         |
+| Christine                     |
+| Stephen Duncan                |
+| Geraldine Mc Weeney           |
+| Mari Ne                       |
+| Selina Smyth                  |
+| Linda Knott                   |
+| Ian Leahy                     |
+| Heather Boland                |
+| Helen Mckenzie                |
+| Marj Massie                   |
+| Mags Rasmussen                |
+| Lorna McLean                  |
+| Jayne                         |
+| Malcolm Griffin               |
+| Sharon Bissett                |
+| Paula Sloan                   |
+| Joanne Dunsmore               |
+| Mary Hopkins                  |
+| Katharine                     |
+| Margaret Glancy               |
 | Catherine Marshall |
 | Siobhan Compton    |
 | Sally Ann Westcott |
@@ -519,6 +667,871 @@ NB the term ‘covid’ has been used to represent Sars-CoV-2 and Covid-19
 
 ### General Public
 
+| Zora McNally                 |
+| Fran Adams                   |
+| Mandy cox                    |
+| Joyce                        |
+| Grace smith                  |
+| Lindsay Simmons              |
+| Anne Mc Ateer                |
+| Maria Blanco-Alvarez         |
+| Anne Mustafa                 |
+| Belinda Rea                  |
+| Shaun Michael Williamson     |
+| Josh wright                  |
+| Dominika                     |
+| Mark Straughton              |
+| Natasha                      |
+| Teresa Maxwell               |
+| Carol                        |
+| Wendy                        |
+| Esther Morrison              |
+| Yvonne Chase                 |
+| G. Richards                  |
+| Elaine Cottenham             |
+| Paul Blighe                  |
+| John O’Regan                 |
+| Simon Fuller                 |
+| Alex Humphreys               |
+| Michelle carroll             |
+| Kevin Little                 |
+| Caroline Brennan             |
+| Vince Daly                   |
+| Vineta Pitkevica             |
+| Emma Wellens                 |
+| JP Atsma                     |
+| Alan                         |
+| Tina Ralph                   |
+| Leanne                       |
+| Jo Davies                    |
+| Andrew Thomas                |
+| Christina Wright             |
+| Aisling Heatherington        |
+| Maria Marcaigh               |
+| Maria Marcaigh               |
+| Josine Atsma                 |
+| Natasha Flood                |
+| Dearbhla Quinn               |
+| Siana Schofield              |
+| Gerard Kennedy               |
+| Richard Madden               |
+| Alex getelman                |
+| Nils Almquist                |
+| John Boyle                   |
+| Daniel Heasley               |
+| Paul Hughes                  |
+| Lee steel                    |
+| Lindsay Kinloch              |
+| Lorrie Williams              |
+| Ruta                         |
+| Joy Bermingham               |
+| Sniedze Pupola               |
+| Elizabeth Brown              |
+| Lois Stevenson               |
+| Merry Edwards                |
+| Victoria Richardson          |
+| DIANE Cleary                 |
+| Heather Lawson               |
+| Sylwia Rachwal               |
+| Julia McKeivor               |
+| Victoria Koning              |
+| Valentina Ecimović           |
+| Lawrence O'Mahony            |
+| Michelle Mason               |
+| Mandi                        |
+| Samuel Howard                |
+| Jamie Michael                |
+| John                         |
+| Karina Cox                   |
+| Richard Aaron                |
+| S Stewart                    |
+| Steven McMullen              |
+| Clive Williams               |
+| Youcef EL-Bouhairi           |
+| Angela Smith                 |
+| Marius Morkunas              |
+| Dylan Mclachlan              |
+| Ann Marie Kelly              |
+| Brendan O Donnell            |
+| Dean Cronin                  |
+| Elaine J Graham              |
+| Mary                         |
+| Amy Bird                     |
+| Paul Murphy                  |
+| Ann                          |
+| Karen Ingram                 |
+| Sheila                       |
+| Robert Williams              |
+| Lisa Andrews                 |
+| Marie Berkery                |
+| Laura Hindle                 |
+| Stephen Cross                |
+| Chris Brown                  |
+| Margaret Mc Donagh           |
+| Mark                         |
+| Marion Duffy                 |
+| Marion Duffy                 |
+| Melanie Oxbrow               |
+| Sam Wilcox                   |
+| Joan Giddings                |
+| Lee                          |
+| Tina Laloo                   |
+| Geoffrey Foot                |
+| Dan Atkinson                 |
+| Christina Sherratt           |
+| Andrew Tilley                |
+| Julie Graham                 |
+| Stacey Hagerty               |
+| John                         |
+| Beverley                     |
+| Calum macdonald              |
+| S Boothroyd                  |
+| Andrea Steiner               |
+| Iveta                        |
+| Milena Skaloudova            |
+| Áine McLaughlin              |
+| Christina Maksimovic         |
+| Judith Saxon                 |
+| Patrick Dempsey              |
+| Erika                        |
+| Elitsa                       |
+| Marcin Kudla                 |
+| Hazel French                 |
+| Rory Lester                  |
+| Linda O Callaghan            |
+| Jillian                      |
+| Karen Morgan                 |
+| Christopher Ruan             |
+| Bev Friel                    |
+| Susan mckay                  |
+| Ann Marie Kelly              |
+| Emily Willmott               |
+| Christopher cox              |
+| Marie                        |
+| Karen McFarlane              |
+| ty mills                     |
+| E Kelly                      |
+| Ciara Butler                 |
+| David Patrick                |
+| Angela McCadden              |
+| Christina Leckie             |
+| Richard peters               |
+| Tobylee                      |
+| Pat Wilson                   |
+| Sian Nickels                 |
+| Rhonda Robson                |
+| Sarah Meredith               |
+| Carol Jones                  |
+| Janine lee                   |
+| Jason Eccleston              |
+| Margaret Gilbert             |
+| Lynn Longman                 |
+| Elizabeth Kenny              |
+| Darren Stephen               |
+| David Carson                 |
+| Tracy ivins                  |
+| Piers Whitley                |
+| kate e                       |
+| Gemma Cusack                 |
+| Claire Knowles               |
+| Martin Janowski              |
+| Stephen Murphy               |
+| Jennifer Maclean             |
+| Rosemary Onstwedder          |
+| Kim Dunn                     |
+| Cheryl                       |
+| Paulina                      |
+| Raimond                      |
+| Jade                         |
+| Kathleen Byrne               |
+| Karina Bowen ms              |
+| Matt Caldwell                |
+| Lee                          |
+| Annette Davies               |
+| Francis Devlin               |
+| Corinne                      |
+| Kelly George                 |
+| Grace                        |
+| Judith Morris                |
+| Michaela Rodgers             |
+| Catherine Casey              |
+| Louis Kirkwood               |
+| Martine Sands                |
+| Ronald Bartholomew           |
+| Ronald Bartholomew           |
+| Chloe Mc                     |
+| Elizabeth Fleminh            |
+| Elaine gregory               |
+| 7                            |
+| Adrienne Donaghy             |
+| :drew                        |
+| Elizabeth Gillon             |
+| Val Pitt                     |
+| Catherine Walsh              |
+| Mary Kitt                    |
+| Rosalie Burr                 |
+| Damien                       |
+| Mary O Neill                 |
+| Jill white                   |
+| Mr Michael Costello          |
+| Paul Carr                    |
+| Roisin mc kenna              |
+| Denise                       |
+| Bronagh                      |
+| Natalie white                |
+| Lyndsey Richards             |
+| Carolyn                      |
+| Roy Jones                    |
+| Louise H                     |
+| Jane Smith                   |
+| Gabrielle Tims               |
+| Angela Myles                 |
+| MICHAEL HINCHLIFFE           |
+| Kevin cunningham             |
+| Ani Benson Campbell          |
+| Fiona                        |
+| Zdzislaw Cwynar              |
+| Saulius Norkus               |
+| sara-lea small               |
+| Kay                          |
+| Izabella Allen               |
+| Ann                          |
+| Deborah Rycroft              |
+| June Hamilton                |
+| Melanie Rodgers              |
+| LILIAN L BASON               |
+| Isobel Kendrick              |
+| Lorraine Caldwell Clarke     |
+| Monika Mårtensson            |
+| Graham Lacey                 |
+| Miss Susan Perkinton         |
+| Sarah Mackinnon              |
+| Alison Lawlor                |
+| Sharon Davey                 |
+| Shirley Morris               |
+| Tony Dunne                   |
+| Fiona Graham                 |
+| Teresa white                 |
+| Rita Niehorster              |
+| Dana                         |
+| Kristiana Gotzsche-Robertson |
+| colleen sutton               |
+| Urszula Kulakowska           |
+| James Principe               |
+| Sandra                       |
+| Paul Graham                  |
+| Nicola                       |
+| Elia                         |
+| Marion Kerr                  |
+| Barbara Sligo                |
+| Tania                        |
+| Denise                       |
+| Adil                         |
+| Angela Doherty               |
+| Ron Cane                     |
+| Camille C Dillon             |
+| Anish Raja                   |
+| Glenn Fitzpatrick            |
+| Yvonne Maclean               |
+| Jack Bourne                  |
+| Jan Blythe                   |
+| Teresa McCormack             |
+| alysia jane                  |
+| Jillian                      |
+| Julie Moxham                 |
+| Stacey Parbery               |
+| Catherine Kendall            |
+| anna                         |
+| John Allan                   |
+| Tina                         |
+| Ciaran Casey                 |
+| Sabrina joyce                |
+| Keith Chalmers               |
+| Oonagh McCartney             |
+| Aaliyah Litt                 |
+| Nicholas Hortin              |
+| Mark McCallum                |
+| Mirriam                      |
+| Julie Tudor                  |
+| Sharon Rice                  |
+| Sean paul                    |
+| Diana Kostyra                |
+| Marc Wright                  |
+| Marjorie                     |
+| Polly High                   |
+| Clare Bett                   |
+| Margaret kelly               |
+| Audrey                       |
+| Tracy nicholas               |
+| Angela                       |
+| Haridas Thakur Das           |
+| Mary Toye                    |
+| Hilary Snellgrove            |
+| Tessa                        |
+| Natalia                      |
+| Ana oxley                    |
+| maggie carmichael            |
+| Liehsja Blaxland-de Lange    |
+| Anne Hinde                   |
+| Ian Manners                  |
+| Carla                        |
+| caroline duncan              |
+| Michelle McCormick           |
+| Louise Cunningham            |
+| Mary Smith                   |
+| Kirsty Wilkins               |
+| Rosalie morrissey            |
+| Matthew Bennett              |
+| Donna                        |
+| Margaret Cummins             |
+| Louise Donnellan             |
+| Geraldine                    |
+| Aideen                       |
+| Lidija                       |
+| Billy                        |
+| Katarzyna Szumna             |
+| Gemma McGuinness             |
+| Georgina Molloy              |
+| :Hilde :Cruysweegs           |
+| John wood                    |
+| sara wellman                 |
+| Hannah Elizabeth Rowbottom   |
+| Andrea Erling                |
+| Christine Desmond Cleary     |
+| ina                          |
+| Lou grass                    |
+| George Graham                |
+| Kathleen                     |
+| Andrea Mihalyi               |
+| Claire o neill               |
+| Paulina                      |
+| Stephenie Amey               |
+| Claire o neill               |
+| Priscilla Gallagher          |
+| Wanda Gillies                |
+| Patrick O Keeffe             |
+| Mirjana Blazevic             |
+| Claire o Neill               |
+| Kieran McBride               |
+| Linn Garden                  |
+| Linn Garden                  |
+| Liam                         |
+| Linda Mcbain                 |
+| Nigel Fenwick                |
+| Catherine Campbell           |
+| Claire                       |
+| Monica                       |
+| John Bowler                  |
+| Dave Price                   |
+| Ann Logue                    |
+| Andrea Gannon                |
+| Bernadette McCluskey         |
+| Lisa cross                   |
+| Amanda Gallagher             |
+| Paul thornton                |
+| Caroline                     |
+| Michael Forrest              |
+| Pauline Westaway             |
+| Tracey Wilkinson-Hoy         |
+| Sue                          |
+| Robert Stirling              |
+| Martin Quinn                 |
+| Angela Hearn                 |
+| Svitlana                     |
+| Frances Murphy               |
+| Martin Quinn                 |
+| Stephanie Wright             |
+| david gilmartin              |
+| Dawn Rooney                  |
+| leanne bolochoweckyj         |
+| Serena Milan                 |
+| Moira Sally                  |
+| Ergo Kannikka                |
+| Phillip James                |
+| Debbie Hamilton              |
+| Sandra Loxley                |
+| Marc Sloley                  |
+| Samantha Brady               |
+| Marguerite Walker            |
+| Linda Taylor                 |
+| Stephanie Edwards            |
+| Lynn Stirling                |
+| B Wysoczanska                |
+| Linda                        |
+| Kim Lee                      |
+| Maggie mckinney              |
+| Michelle Hemmings            |
+| Angela                       |
+| Catherine Rodgers            |
+| Grace Moore                  |
+| Linda Scoular                |
+| Edythe Padilla               |
+| Pamela Taylor                |
+| Karen Mckenzie               |
+| Maureen                      |
+| James reilly                 |
+| Lindsay Carmody              |
+| Linda Faul                   |
+| william rossborough          |
+| Michelle O callaghan         |
+| Samantha toye                |
+| Andrew Ruthven               |
+| Pauline Bruce                |
+| Dale Kvedariene              |
+| Patrick Gaughran             |
+| Siave                        |
+| Barbara Laszcz               |
+| Jannyne Holmes               |
+| Linda Mather                 |
+| Elie lawrence                |
+| Stephen Allen                |
+| Leon Sim                     |
+| Valentina Scognamiglio       |
+|                              |
+| Michael Seymour              |
+| Cara                         |
+| Catherine Kirwan             |
+| Rebecca massue               |
+| Catherine Bradley            |
+| Paul Dunne                   |
+| Jenny Cosh                   |
+| Elizabeth Fleming            |
+| Dawn Shirlaw-Duff            |
+| Jerome o kanejeep            |
+| Julie                        |
+| Gabi Gabi                    |
+| John Carroll                 |
+| Julie sim                    |
+| Ann-Marie McCann             |
+| Jacqueline McMonagle         |
+| Victoria Beattie             |
+| Julita Narkowicz             |
+| Kirstie Brown                |
+| Susan Sandles1               |
+| Barry Robinson               |
+| Dermot O'Brien               |
+| Emma Ryan                    |
+| Hayley Clarke                |
+| Helle Gaardboe Folden        |
+| David Cowderoy               |
+| Leanne                       |
+| Andrea Robinson              |
+| Kerry Differ                 |
+| Euan Stein                   |
+| Pawel Cyman                  |
+| Shelly                       |
+| Joanna Shilson               |
+| Paul Leonard                 |
+| Terry mcguiness              |
+| stephen verner               |
+| Rovena lacey                 |
+| Kim Moran                    |
+| Alex                         |
+| Nic K                        |
+| REDA GAURONSKIENE            |
+| Rachael Foster               |
+|                              |
+| Ivana Syed                   |
+| Dave Walsh                   |
+| Caroline White               |
+| James Connolly               |
+| Bev Hilton                   |
+| Sinead Johnston              |
+| Jessica farrell              |
+| Diana                        |
+| Carole                       |
+| Niall doherty                |
+| Carmen Fernandez             |
+| Wendy DSouza                 |
+| Nina Rasmussen               |
+| Sinead Conlon                |
+| Robert Mcfall                |
+| Damian martin                |
+| Sourav Ghosh                 |
+| Alan finlay                  |
+| Laura Craig                  |
+| Gill O’Connell               |
+| Aine NI Bheig                |
+| Julie Evans                  |
+| Eilish                       |
+| Stephen Fairclough           |
+| Justyna                      |
+| Jacqueline Heddle            |
+| Veronica Bartolini           |
+| Cheryl Drake                 |
+| Lorna Gibson                 |
+| Mark Ritchie                 |
+| :cherry :hanna               |
+| Irena                        |
+| Thomas Loughnane             |
+| Dawn Mcleod                  |
+| Kerstin Endres               |
+| Karen Love                   |
+| Jutta Steckeweh              |
+| Eamonn Gallagher             |
+| Angela McGovern              |
+| Margaret DELANEY             |
+| S                            |
+| lesli smith                  |
+| Eileen Dochetty              |
+| Jacqueline Simpson           |
+| Bernie Reilly                |
+| Nicola Peden                 |
+| Karen Sanderson              |
+| Ophelia Dorrian              |
+| Denise                       |
+| Kirsty wilson                |
+| Tony Crilly                  |
+| David Cunningham             |
+| Shane Henry                  |
+| Sarah Orchard                |
+| Ann Mc Govern                |
+| BOZENA JANUCHOWSKA           |
+| June Byrne                   |
+| Siofra                       |
+| stacey murray                |
+| Przemysław Tkacz             |
+| Caroline hutton              |
+| Elinor gilchrist             |
+| Catherine O Connell          |
+| Susan                        |
+| Gerry Griffin                |
+| Anastasia                    |
+| Helen Dewar                  |
+| Duana Mullan                 |
+| Julija                       |
+| Hugh                         |
+| Sharon ross                  |
+| Gillian O neill              |
+| Carolyn Glennie              |
+| Derek Kehoe                  |
+| Dermot Shanks                |
+| Linda Smyth                  |
+| Stacey                       |
+| Stephen Potter               |
+| Paul Edward Kelly            |
+| mitchell barron              |
+| Anna Zuziak                  |
+| Aidan Dunne                  |
+| Sinead                       |
+| Orla O’Ryan                  |
+| Tony                         |
+| Lesley Gorrie                |
+| Joanne Donegan               |
+| Sharon Gallagher             |
+| mary sherry                  |
+| Sabrina                      |
+| Jacqueline Ross              |
+| William Maher                |
+| Pauline Faherty              |
+| Marianna Alaberdova          |
+| Gillian Mccullagh            |
+| Terri Murray                 |
+| Isabella Rodgers             |
+| Annie Taaffe                 |
+| Marieann Cleere              |
+| margaret mcmullen            |
+| John Cawley                  |
+| Dara Cunningham              |
+| John Cawley                  |
+| Richard                      |
+| Sara hogan                   |
+| Elayne Broadley              |
+| Martina Cartwright           |
+| Susan Hogan                  |
+| Laura Duggan                 |
+| Zita Macerniece              |
+| Breda Smyth                  |
+| Sarah Louise Kallen          |
+| Eddie Brady                  |
+| Gail O'Rorke                 |
+| Yvonne Patterson             |
+| Jeni Ryan                    |
+| Kenneth Russell              |
+| Melanie Brown                |
+| Sebastian Radziwanowski      |
+| Paula Casey                  |
+| Kay Barclay                  |
+| Orla brady                   |
+| Ralph Cummings               |
+| James Christie               |
+| Stephanie Ryan               |
+| Christopher Spoorenberg      |
+| Mark Doyle                   |
+| Ben Jackson                  |
+| Margarette Crawford          |
+| Rosaleen McDonnell           |
+| Terence Mc Donnell           |
+| Heather Toye Clucas          |
+| Stephen Gilligan             |
+| Hugh Finn                    |
+| Gordon Curry                 |
+| Michael Reid                 |
+| Colleen McCrone              |
+| Michael Daly                 |
+| Mary Maxwell                 |
+| Sean O'Connor                |
+| Karina Stokes                |
+| Amanda Armstrong             |
+| Deirdre Callaghan            |
+| Ana                          |
+| Daniele                      |
+| Thomas Keogh                 |
+| Aneta                        |
+| Maria Z                      |
+| Janette Docherty             |
+| Emma Smith                   |
+| James REILLY                 |
+| Karen Morgan                 |
+| Josephine Keyes              |
+| Christopher Shoer            |
+| Paula McGuinness             |
+| Tina                         |
+| Kerrie Rafferty              |
+| Joe Butler                   |
+| Shirley W Anthony            |
+| Stephen Wright               |
+| Geraldine Reddy              |
+| Catherine Sunshine           |
+| Donald Gardiner              |
+| Jim Morrissey                |
+| Jantien Vandenberg           |
+| Agnieszka Currie             |
+| Alexander Klassen            |
+| Ian Moffat                   |
+| Andrea Whelan                |
+| Deirdre Anderson             |
+| Kate Bradish                 |
+| Egidijus                     |
+| Marion Sulivan               |
+| Sue Phelps                   |
+| Cath Daly                    |
+| Liga Ruse                    |
+| Ann Gornall                  |
+| Rachel Leith                 |
+| Ross Deuchar                 |
+| SaraJane Lynch               |
+| Sharon Downey                |
+| Julie Toms                   |
+| Noeleen murphy               |
+| Andrew Ryan                  |
+| Laura Stevens                |
+| John Kay                     |
+| Elisabeth Wuppermann         |
+| F. Ferguson                  |
+| J. John                      |
+| P Reynolds                   |
+| Bridget Spalding             |
+| Dermott Treanor              |
+| Audrey                       |
+| Lucie Tinsdale               |
+| Joanne Addie                 |
+| Carol Callaghan              |
+| Deirdre                      |
+| Caroline Debhal              |
+| Mary Tierney                 |
+| Jacqueline McAnallen         |
+| Chris Moran                  |
+| Cristina Ungur               |
+| Juanita mahon                |
+| Seiko Kamiide                |
+| Lisa Finnegan                |
+| Kathleen Brady               |
+| John Rice                    |
+| Gary Robinson                |
+| Edward Kelly                 |
+| Shane McCann                 |
+| Katherine Kennedy            |
+| Louise mupfupi               |
+| Laura jane rice              |
+| D Walker                     |
+| Dermot I Neill               |
+| Linda Cunningham             |
+| Jessica Bingham              |
+| Jennifer                     |
+| Heloiza Nery                 |
+| T Hogan                      |
+| Teresa Heavey                |
+| Lynda Gorman                 |
+| Milada Bresler               |
+| Caroline Smyth               |
+| Karen Leavy                  |
+| Shane Murphy                 |
+| Grace Kelly                  |
+| Bronwen Rodgers              |
+| Michelle Moore               |
+| Gunita Spirge                |
+| Laura Duncan                 |
+| Shiori McCann                |
+| Louise Finlay                |
+| Jennifer Maguire             |
+| Diana Kane                   |
+| Rachel                       |
+| Michelle Moore               |
+| Kathleen MacPherson          |
+| Christine Dunne Bazigou      |
+| Gillian                      |
+| Chris Kendellen              |
+| Stella Codona                |
+| Claire Bennett               |
+| Katie Nolan                  |
+| Catriona Farrell             |
+| Karen Millar                 |
+| Sandra Barry                 |
+| Amy Higgins                  |
+| Marcin Kot                   |
+| Julie Mcnamara               |
+| Catriona Dunne               |
+| CAROLINE COX                 |
+| Christine Lausmann           |
+| Sarah caley                  |
+| Michael Farrell              |
+| Dawn Mutch                   |
+| Liga Pupele                  |
+| Geraldine McLynn             |
+| Lisa Kinsella                |
+| june Reed                    |
+| Alice Corbett                |
+| Longer booboo                |
+| Carrie Anderson              |
+| Kej                          |
+| Allyson Scott                |
+| Linda Cameron                |
+| Annmarie McCafferty          |
+| Anita Ward                   |
+| James                        |
+| Rachel Osbourne              |
+| Paudie O Gorman              |
+| Danica Baotic                |
+| Garrett Quinn                |
+| andrea Mcdaid                |
+| Bernie Kinsella              |
+| Liz                          |
+| Ian Kane                     |
+| Rosaria                      |
+| Patricia Mee                 |
+| Aleksandra                   |
+| Ger Daly                     |
+| Roxana Boldizsar             |
+| Karen Russell                |
+| Nanette                      |
+| Alan Thornton                |
+| Jacqueline Ryan              |
+| Miss Elaine Willock          |
+| Elaine Boylan                |
+| Olivia kealy                 |
+| Suzie Combe                  |
+| Laura Reid                   |
+| Theresa Bushe                |
+| Ger Lawlor                   |
+| Louise Young                 |
+| Patricia Kelly               |
+| Romey                        |
+| Ailish Malone                |
+| Lorna McLean                 |
+| Julita                       |
+| Beth Kirkpatrick             |
+| Michelle o Brien             |
+| Catherine Quinlan            |
+| Jade Gray                    |
+| Emma Bird                    |
+| Ena Dixon                    |
+| Mick connolly                |
+| Dawn Hawkins                 |
+| Hugh                         |
+| Ingrid                       |
+| Lorraine Doyle               |
+| Jennifer Ronsberg            |
+| Nicola Mc Gahon              |
+| Gerry Daly                   |
+| Brian Flynn                  |
+| Diane Stobie                 |
+| Pamela Simpson               |
+| Lesley Kirkland              |
+| mrs carla l jamieson         |
+| Sandra                       |
+| Radoslaw Jablonski           |
+| Deirdre Collins              |
+| Shelby Baxter                |
+| Pat Kenna                    |
+| Siu Ying Wat                 |
+| Marie Kiernan                |
+| Martin Miles                 |
+| Marc Mcgrath                 |
+| Janet Gallagher              |
+| Lisa                         |
+| Sandra Murphy                |
+| James Healy                  |
+| Ivica Vlahovic               |
+| Angela Brown                 |
+| Lorna Roberts                |
+| Elisabeth Barnes             |
+| Kenny Hounslea               |
+| Mary Bartholomew             |
+| Margaret Brady               |
+| Laimutis                     |
+| Joanne Walsh                 |
+| Julie Smyth                  |
+| Marie                        |
+| Jeannette williams           |
+| Angela Quirie                |
+| Karen Jackson                |
+| Tiffany Stephens             |
+| Paul Humphreys               |
+| James Noyce                  |
+| Michelle Ndreu               |
+| Kirsty Noyce                 |
+| Heather Hall                 |
+| Joanne Fletcher              |
+| Simon Barnes                 |
+| Anne McLean                  |
+| Victoria Gallego             |
+| S. Hardie                    |
+| Diane pomroy                 |
+| David Thompson               |
+| A Mitchell                   |
+| Steve Spencer                |
+| Miranda Morland              |
+| Katie                        |
+| Helen Browne                 |
+| Mel Eves                     |
+| Nicole Larmour               |
+| Celia Graves                 |
+| Nelly Gardiner               |
+| Paul Mitchell                |
+| Fiona Veale                  |
+| Isabel Odriozola             |
+| Glynis Gray                  |
+| Susan Abraham                |
+| Shirley Morgan               |
+| Helen Clough                 |
+| Barbara                      |
+| Chris Mulholland             |
+| Lynne                        |
+| Lynn                         |
+| barbara wray                 |
+| Chris Quine                  |
+| Jean                         |
+| Kirsty Ashcroft              |
+| Geof Hughes                  |
+| Sarah Launchbury             |
+| Kate                         |
+| Samuel Wort                  |
+| John Canning                 |
+| Nelson Rawlins               |
+| John Canning                 |
+| Nicolette keizer             |
+| Karina Keogh                 |
+| Izabela                      |
+| Marina Peerman               |
+| Elayne Derbyshire            |
+| Angela                       |
+| Felix                        |
+| Hannah                       |
+| jayne cullen                 |
+| Michaela Glaad Ståhl         |
+| Rogerio Feitor               |
+| John reynolds                |
 | Anders Ståhl               |
 | Gordon Richards            |
 | Phoebe Gale                |
