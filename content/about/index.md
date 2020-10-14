@@ -51,7 +51,7 @@ As a holistic dentist he combines the knowledge and findings of traditional dent
 
 ===========================================================================
 
-### Dr. Heiko Schöning
+### Dr. Heiko Schöning, M.D.
 
 Managing Director at MedCooling GmbH  
 
