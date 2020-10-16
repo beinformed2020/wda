@@ -35,6 +35,7 @@
 
 # Post
 [reading_time]
+  one = "One minute read"
   other = "{{ .Count }}-Minute Read"
 [read_more]
   other = "Read More"
