@@ -502,6 +502,269 @@ Last update 16.10.2020
 
 ### Doctors
 
+| Paul Banks                                                |
+| Cindy Terry-Hardie                                        |
+| Jasper Van der Donck                                      |
+| Dr Arunkumar Patel                                        |
+| Dr Arunkumar Patel                                        |
+| Chris Walton                                              |
+| Carol Wetherington                                        |
+| Rhonda                                                    |
+| Karen Moxham                                              |
+| Amy                                                       |
+| Jeremy Rodrock                                            |
+| Gina Guerrero                                             |
+| gitte dam                                                 |
+| Juho Sinnemäki                                            |
+| Sophia Seifert                                            |
+| Vicky Deigman                                             |
+| Michaela Frankman                                         |
+| Serge Margel                                              |
+| Dr Chris Hamon                                            |
+| Jayne Watkins                                             |
+| Adam Stutzer                                              |
+| Mikael Nordfors                                           |
+| Lynn Ogilvie                                              |
+| Koeda Vidson                                              |
+| Karen Rogers                                              |
+| Irene Jacoba Hadjidakis - van Schagen                     |
+| Manish Plaha                                              |
+| Maree Batchelor                                           |
+| Ela Lewis                                                 |
+| Dr Christina Barker                                       |
+| Sebastien Lomas                                           |
+| Meenakshi Dinesh                                          |
+| kathleen anderson                                         |
+| Magdalena Visanescu                                       |
+| Dana Thompson                                             |
+| Farah Ali                                                 |
+| Dympna Garrity                                            |
+| James O'Donovan                                           |
+| Judi Venten                                               |
+| Marian Doody                                              |
+| Margaret Ngu                                              |
+| Lynnette Mathias                                          |
+| Mandy Cameron                                             |
+| Ursula Pretzlik                                           |
+| Cheryl Hilton                                             |
+| Dr Jayne LM Donegan                                       |
+| Rachel Rau                                                |
+| Anne Nivukoski                                            |
+| Brian Keim                                                |
+| Dr. C. Evers Whyte                                        |
+| Marjorie Brown                                            |
+| Dr Rohaan Seth                                            |
+| Evana Vidovic                                             |
+| Fiona Nation                                              |
+| Carol McHale                                              |
+| Laurie Lehey                                              |
+| cindy campbell                                            |
+| Chrystal Torgerson                                        |
+| Christine DuPont, R.N.                                    |
+| Sandra Ewing MT, ASCP                                     |
+| Merry McIntyre                                            |
+| diana leaf                                                |
+| Blaine                                                    |
+| Gwendolen A Trevathan - Samama       |
+| Andreas Seifert                                           |
+| Renee van der Heijden                                     |
+| Kealey Worthen                                            |
+| Thord Theodorsson                                         |
+| Ruth Lamb                                                 |
+| Karen Kaufman                                             |
+| Leanda Denton                                             |
+| Jane                                                      |
+| Elena Nemeth                                              |
+| Dr Camellia Kojouri                                       |
+| Adeleh sasansara Sasansara                                |
+| dave chown                                                |
+| gilly bee                                                 |
+| Ruth Lamb                                                 |
+| Sandy Sorokan                                             |
+| Anisoara Ursachi                                          |
+| Michael Coulas                                            |
+| Nick Jansen                                               |
+| Suzette Davies                                            |
+| Leen Albrecht                                             |
+| Gemma                                                     |
+| Debo kalley                                               |
+| Asa Holfve                                                |
+| Cristina terrado                                          |
+| Marisol Estrems                                           |
+| Dr.Dejan Helajzen                                         |
+| Dr.Dejan Helajzen                                         |
+| Gemma S                                                   |
+| Patricia Bourne                                           |
+| Linda Burke                                               |
+| Julia Wilkens                                             |
+| charlie clayton                                           |
+| Ilse                                                      |
+| Ewa Lundberg                                              |
+| Michaela Tietze                                           |
+| Nina Tapper                                               |
+| Josée Houle                                               |
+| Elisabeth Friedrich                                       |
+| Colette Gray                                              |
+| Slobodan Antonijevic                                      |
+| Dr. Walter Surböck                                        |
+| Robert Tobias                                             |
+| Dr Ty Hunter PhD h.c                                      |
+| Mary Mazur                                                |
+| F.W.G Wolbert                                             |
+| June Bertram                                              |
+| Hanna Maxon                                               |
+| Anna Smit                                                 |
+| Cavanagh Debbie                                           |
+| Jennifer Luna-Repose                                      |
+| Suzanne Walton                                            |
+| Stephen Malthouse, MD                                     |
+| Sebastian Brands                                          |
+| Sebastian Brands                                          |
+| Sara                                                      |
+| Anne Conway                                               |
+| Wendy HIll                                                |
+| Stephen Malthouse                                         |
+| Sarah McMillan                                            |
+| France-Marie Montbrun Martikonis ND                       |
+| Jonathan Wright                                           |
+| Rebecca Floer                                             |
+| Dr Darko Matić, orthopedic surgeon                        |
+| Schmidt B.                                                |
+| sharon lawrence                                           |
+| Melissa crawford                                          |
+| Haitz Gabrielle                                           |
+| Margaret Hibbs                                            |
+| Susan Hay                                                 |
+| Janine Patching                                           |
+| Georg Abelen                                              |
+| Kathryn Scott-Young, PhD                                  |
+| Susan Baker                                               |
+| Yvonne mitchell                                           |
+| Janet Hibbs                                               |
+| Lucie Wilk                                                |
+| Dan Hearn                                                 |
+| ken mason parks                                           |
+| neil sheppard                                             |
+| Gunnvor Felland                                           |
+| Sharon Clarke                                             |
+| Colton Hall                                               |
+| Dr Maria Elinor Delfino                                   |
+| Gabriella                                                 |
+| Alaina                                                    |
+| Pasha Lynch                                               |
+| Raquel Molina                                             |
+| Kimberly Cabe                                             |
+| Rita Darby                                                |
+| Carol Jones                                               |
+| Jean Staben                                               |
+| Dorien van Beusekom                                       |
+| Heike Sorge                                               |
+| Sorel Matthews                                            |
+| Ciara Nulud                                               |
+| Dr Do Littel                                              |
+| Juliet McCrossan                                          |
+| Manigreeva Krishnatreya                                   |
+| jo waller                                                 |
+| Adriana Sangers                                           |
+| Sandra Burns                                              |
+| Huib Kraaijeveld                                          |
+| Aleksandra Kica                                           |
+| Hila Moscovich                                            |
+| Ginny                                                     |
+| BORDEI HELENE                                             |
+| Louise Garnier                                            |
+| Anna Julia Medesi                                         |
+| Courant                                                   |
+| Dr George Todorov M.D.                                    |
+| Andy wood                                                 |
+| Anna Nielsen-Scott                                        |
+| Miriam van der Heijden                                    |
+| richard lewis                                             |
+| Alana Bateman                                             |
+| Marilena DiFrancesco                                      |
+| Dr Leah Remeika-Dugan                                     |
+| Rachel Hall                                               |
+| Neli Fialkovska                                           |
+| Julie Ellis-Gowland                                       |
+| Tony Gorman                                               |
+| ROTH Tiffany                                              |
+| Dr Tommy John                                             |
+| Dr Andrew Rollinson                                       |
+| Dr. Matthew Anthony                                       |
+| Russell Needham                                           |
+| Jan Khan PhD Researcher                                   |
+| Jan Khan PhD Researcher                                   |
+| Gabrielle Hinton                                          |
+| Mohammad Adil                                             |
+| Saffron Chapman                                           |
+| Paul Mcilroy                                              |
+| Nazan Ibis                                                |
+| Canan Alkan                                               |
+| Mary Mc Sherry                                            |
+| Canan Alkan                                               |
+| Katie Wust                                                |
+| Nichola Rockliffe                                         |
+| Matt James                                                |
+| Dr Marlier Magali                                         |
+| Alan Sweeney                                              |
+| michael motteram                                          |
+| Dr V                                                      |
+| Kameliya Ilieva                                           |
+| CAROLINE BOEHME                                           |
+| Anurag Kota                                               |
+| Erin O'Brien                                              |
+| Joachim Van Dijk                                          |
+| Chad Massey                                               |
+| Luciya Whyte                                              |
+| Lontie Anne-Marie                                         |
+| Maria Manuela Costa Tavares                               |
+| Espen Haram                                               |
+| Mohammad Adil                                             |
+| Judy Goatley                                              |
+| Miss Aimee Smith                                          |
+| Sarah walker                                              |
+| Dr Angela Musso                                           |
+| Samantha Coe                                              |
+| Dr. Mirjana Duvnjak                                       |
+| Dan Capper                                                |
+| Haris Dedeic                                              |
+| Lisa Shaw                                                 |
+| Velko Kalaydjiev                                          |
+| Dobrin Popov, MD                                          |
+| Jellie De Boer                                            |
+| Jellie De Boer                                            |
+| Damien Cominos                                            |
+| Damien Cominos                                            |
+| Coudenys Hein                                             |
+| Paul Mcilroy                                              |
+| Peter Wollaert                                            |
+| Dr John Harrison                                          |
+| Dr.Ruth Bosshard                                          |
+| Deborah Hobdell                                           |
+| Dorota Sienkiewicz                                        |
+| Lindsey Haydon                                            |
+| Dr Carl Victor Campbell                                   |
+| Dr Jennine Taylor BSc MBChB  |
+| Carolyn Scott                                             |
+| Jasmijn Blijenbergh                                       |
+| Lindsey Haydon                                            |
+| Dr Gilles van Delft                                       |
+| Karen Tanner                                              |
+| marieleeen                                                |
+| marieleeen                                                |
+| Stephen Rea                                               |
+| Becky                                                     |
+| Orla McLoughlin                                           |
+| mary murphy                                               |
+| Ruth Jane                                                 |
+| Shaun Weaver                                              |
+| CATHERINE NUGENT                                          |
+| Julia Camp                                                |
+| David Bourke                                              |
+| May Ward                                                  |
+| Pamela Dawson                                             |
+| Andrew Nelson                                             |
+| Vinko Radonic                                             |
 | Catriona Howie                 |
 | Nediljka                       |
 | Hilde De Smet                  |
@@ -553,6 +816,375 @@ Last update 16.10.2020
 
 ### Holistic Health Practitioners
 
+| Moira Young                        |
+| Dian Dossias                       |
+| Elizabeth Pang                     |
+| Sophina                            |
+| Judith Thomas                      |
+| Mohamed Caffoor                    |
+| Jeff lee                           |
+| Moragh Lippert                     |
+| Debbie Rubino                      |
+| Helena Wenninger                   |
+| Liina Jaarmann                     |
+| Ai Kamoda                          |
+| Hilary Hampel                      |
+| Anne Devine                        |
+| Emma Caldwell                      |
+| CAROLIN COMBERTI                   |
+| Renee                              |
+| Cheri Palmer                       |
+| Nadege Caslin                      |
+| Zoë Alexandra                      |
+| Abbie Cloherty                     |
+| Karen                              |
+| yve dietz                          |
+| Jane Coleman                       |
+| Celeste Santos                     |
+| Julie McKie                        |
+| Caroline Jack                      |
+| Alexandra                          |
+| Sandy Weinberg                     |
+| Sylvie Bochatay Delvoye            |
+| Dr. Brendan McLaughlin             |
+| Richard Healy                      |
+| KATARINA PISKOR                    |
+| ShamanaTara Obrien                 |
+| Karen Gault                        |
+| Dr Tanya Bagrij                    |
+| Dr Dom Burke                       |
+| Ulrike Schade                      |
+| Stefanie S.                        |
+| Isabelle Bourrat                   |
+| Alexandra Mann                     |
+| Jo H                               |
+| a.van reek                         |
+| Kim Quance                         |
+| Fiona parnell                      |
+| Rebecca Lindesmith DC              |
+| Ajnira Laurie Bloom                |
+| Lace                               |
+| Kusa Anthonia                      |
+| Abigail Mumba                      |
+| Jane King-Nicholls                 |
+| Marian Byham                       |
+| Monica Porter                      |
+| Simone Zimmer                      |
+| Carla Varella                      |
+| Alexia Stevenson                   |
+| Elly                               |
+| Amethyst Freeman                   |
+| Katherine                          |
+| Oswaldo Diaz                       |
+| Lene petersson                     |
+| Lakhmi                             |
+| Ilma                               |
+| Ute Bronner                        |
+| Aurora Cavalcante                  |
+| Stephanie Lowe                     |
+| carmel vowles                      |
+| Emma Schade-Stylli                 |
+| Cheryl Toyofuku                    |
+| Janine Regan-Sinclair              |
+| Jeanne Thompson                    |
+| Gunilla Carlberg                   |
+| senya                              |
+| Benjamin Coxon                     |
+| Polly Goodyear                     |
+| Louise                             |
+| Stephanie Gregory                  |
+| Patty Warren                       |
+| Antoinette Weston                  |
+| sonam targee                       |
+| Julie Sherwood                     |
+| Bryan D Olson                      |
+| Mary-Louise Chandler               |
+| Shelly Coles                       |
+| Renata Krajnovic                   |
+| Jayn Lee-Miller                    |
+| Louise Hammond                     |
+| Josie                              |
+| Sarah Summers                      |
+| D                                  |
+| Dr Kirsten Fulton                  |
+| Helen Hughes                       |
+| Bozena Rossy                       |
+| Jennifer Tribe                     |
+| Keith Hughes                       |
+| Lyndon                             |
+| Dawn Dowsett                       |
+| Lars van Hemmen                    |
+| Alicia Sawaya                      |
+| Natasa Peric                       |
+| Sharon Mazer                       |
+| Ruth Lomax                         |
+| Martin Speake                      |
+| Martin Speake                      |
+| Logan Christopher                  |
+| Dr Linda Lancaster                 |
+| Jo O'Connor                        |
+| Paddy Patterson                    |
+| Magali BROSSAUD                    |
+| Ksenija                            |
+| Tony Neale                         |
+| Elizabeth Azcarraga                |
+| Anders TOKE NIELSEN                |
+| Joanne Beophy                      |
+| Rikke Sømod                        |
+| Henriette Burns                    |
+| Magnus Mulliner                    |
+| Wendy McCartney                    |
+| Tatiana Hughes                     |
+| Sarah Traill                       |
+| Michelle Foster                    |
+| Regine Kohler                      |
+| Sandra Vankessel                   |
+| Jayne Roberts                      |
+| katie sedgwick                     |
+| Gabriele Aigner                    |
+| Kiyono Moss                        |
+| Emma Hill                          |
+| CHRYSONA LAURA S. PHILLIPS         |
+| julie santall                      |
+| James Jefferies                    |
+| Irina Stojjanovic                  |
+| Shannon                            |
+| Jules                              |
+| Will                               |
+| Deborah Benson                     |
+| Lisa Kerman                        |
+| Dogon Irish                        |
+| Janice Petitjean                   |
+| Leaha R Mattinson                  |
+| Paula                              |
+| naema sinclair                     |
+| Susan Locke                        |
+| Nicola Kafula                      |
+| Jennifer Ansell                    |
+| Margaret Flint                     |
+| Vicki Stacey                       |
+| Steve Smith                        |
+| Diego Maggip                       |
+| Steve Smith                        |
+| Charlie Canzano                    |
+| MRS P BLAXLAND DE LANGE            |
+| Daniele de Winter                  |
+| Susanne Wiechert                   |
+| Michael                            |
+| Kathy Ebanda                       |
+| Krishna Murphy                     |
+| Howard Dwight                      |
+| Breer Ute                          |
+| Jannine Oberg                      |
+| Odette                             |
+| Annelise Franck                    |
+| Kathryn Lyons                      |
+| Karen Hanna                        |
+| Ivy Amar                           |
+| Ivy Amar                           |
+| Mary Scott                         |
+| Lucy Maher                         |
+| melinda Perlman                    |
+| Bron Lancaster                     |
+| Quinn Blue                         |
+| Eric keogh                         |
+| Melissa Wright                     |
+| Rebecca                            |
+| Jeanette Primost                   |
+| jo de morgan                       |
+| Darren Mckenna                     |
+| Nicky                              |
+| Alan Ward                          |
+| Jill Kirby                         |
+| JONATHAN DELANEY                   |
+| Carrie Grace, aka Carol Fexa       |
+| Sara Wells                         |
+| Sheila Crouch                      |
+| Drs Michelle and Steven Handwerker |
+| David                              |
+| Christine Davies                   |
+| Alison Leyland                     |
+| Ramnath                            |
+| LaLonnie Wood                      |
+| Kirsten Klaus                      |
+| Bethan Coaker                      |
+| Nancy Addison                      |
+| Rosalind Paxman                    |
+| Kathryn Way                        |
+| Angela Cottle                      |
+| Michael Dalu                       |
+| Gideon Seth Ries                   |
+| Violet van Hees                    |
+| Maria Howard                       |
+| Željka                             |
+| jennifer mckinstry                 |
+| jennifer mckinstry                 |
+| Lise Sand Mellem                   |
+| Gloria                             |
+| Claire                             |
+| Angela Crossland                   |
+| Lindsay Smith                      |
+| Leiah                              |
+| Antoine bowes                      |
+| Ushka Devi                         |
+| Meryl Hool                         |
+| Alison Lane                        |
+| Grace Weithers                     |
+| Asha Andrasdottir Lakebrink        |
+| Laura Uplinger                     |
+| Maria Soledad Encina Lavanderos    |
+| Nancy C Navarra                    |
+| Sylvie Lenoir                      |
+| Natalia Williams                   |
+| Adrienne Halliday                  |
+| Mary Freebairn                     |
+| Naomi Olson                        |
+| Brandi Kegley                      |
+| sharon sage                        |
+| John Scott                         |
+| Andrea McNinch                     |
+| Elizabeth Chandler                 |
+| Peter Lancett                      |
+| JoAnna Stid                        |
+| Gaye Bennett                       |
+| Blagoj Trifunov-Furmanek           |
+| Morven Bryce                       |
+| Ravenne Freeman                    |
+| Alexandra Mackenzie-Smith          |
+| Destini                            |
+| Ralph Nimmann                      |
+| Ben Michael Wilton                 |
+| Martin Bernstein                   |
+| Gilles Berthet                     |
+| Charlotte Blackwell                |
+| Georgina McLean                    |
+| Bathsheba Cumming                  |
+| Sarah Linsley                      |
+| Petra Johns                        |
+| Maggie Potter                      |
+| Kaja Karu                          |
+| Danuta Molecki                     |
+| Karen Bashford                     |
+| ruud meulenbroek                   |
+| Ger Scheeve                        |
+| Renate Hovius                      |
+| Paula                              |
+| Anne                               |
+| Jean Blaise                        |
+| Stephan van de Mortel              |
+| Petra Vesna Kump                   |
+| Corina                             |
+| Salwa Moujir                       |
+| Marika Walker                      |
+| Cristina Bari                      |
+| Anne Healy                         |
+| Selma Arain                        |
+| Hazel Jackson                      |
+| Kamura De Silva                    |
+| Sarah waters                       |
+| Andrea Lockhart                    |
+| Sheri Dixon                        |
+| Donna still                        |
+| Mito Kodera                        |
+| Hazel Raven                        |
+| Yordanka Plamenova Margaritova     |
+| Maha Conyers                       |
+| Panda van Proosdij                 |
+| JACQUELINE STANLEY                 |
+| Patrick Wright                     |
+| Julie wade                         |
+| Darinka Bertović                   |
+| Tony Carroll                       |
+| josie sonnier                      |
+| Michael Viola                      |
+| alberto fariñas lopez              |
+| Diane Nicholas                     |
+| Catherine Pourreau                 |
+| Annabelle Morgand                  |
+| Julie                              |
+| Claire Bangma                      |
+| Sharon Delaport                    |
+| E Kelly                            |
+| Jessica                            |
+| Natasa Peric                       |
+| Ciara                              |
+| Domagoj Draganić                   |
+| Caron Stuchbury                    |
+| Patris Angel                       |
+| Jean knight                        |
+| Anne van Remortel                  |
+| Elsa Hamaz                         |
+| Vanda                              |
+| Mara Doljak                        |
+| Linda Harrington                   |
+| Pete Morris                        |
+| Carol                              |
+| Jakub Zajac                        |
+| Lydie Vachon                       |
+| maria cornelia vermeiren           |
+| Anne M Evans MA. CHHC.             |
+| Sandra                             |
+| Anna                               |
+| Claire Zarb                        |
+| Anne Ligthart                      |
+| Susan Joy Coombes                  |
+| AnetteÅkerlund                     |
+| Lawrence Parnis                    |
+| Phil G                             |
+| Paola                              |
+| Beverley Sankey                    |
+| Fleur Bailey                       |
+| Helen                              |
+| Sabrina Ginesi                     |
+| Maria Olsen                        |
+| Andrea Johnstone                   |
+| Jerro Mac                          |
+| Julie Reed                         |
+| Peter Kane                         |
+| Carmel Clark                       |
+| Hana                               |
+| Gijsje Baarsma                     |
+| Shirley Kay                        |
+| Susan                              |
+| Paz Ricosi                         |
+| Susan Neighbour                    |
+| Inbar                              |
+| Carmel Mooney                      |
+| Rhonda Stockil                     |
+| Margie                             |
+| Simone                             |
+| G Scarrott-Jones                   |
+| Clo kel                            |
+| Naomy Raven                        |
+| Ad Flinterman                      |
+| Stefan Podolczuk                   |
+| Maria Di Benedetto                 |
+| Napier Marten                      |
+| Sinead Loftus                      |
+| Roisin Mc Manus                    |
+| Sheila Olive kay                   |
+| Jason Miles                        |
+| Dr. Marlier Magali                 |
+| Sian Wintle                        |
+| Nigel Hudson                       |
+| Alandra Rayner                     |
+| Maya Wild                          |
+| Angie                              |
+| Chiara Pavan                       |
+| Chiara Pavan                       |
+| Marie Fitzgerald                   |
+| Catarina                           |
+| Lisa Steel                         |
+| Correana White                     |
+| Maria Mc Menamin                   |
+| Linda Carney                       |
+| Catherine Vaioleti                 |
+| Alex Stauber                       |
+| Ciaran Ryan                        |
+| Martin Julich                      |
+| Lynn Meadowcroft                   |
+| Julie Guest                        |
+| Elizabeth Slingsby                 |
 | Maedbh Ni Mhuireain           |
 | Debbie Williams               |
 | Katie De-Mouilpied            |
@@ -667,6 +1299,375 @@ Last update 16.10.2020
 
 ### General Public
 
+| Moira Young                        |
+| Dian Dossias                       |
+| Elizabeth Pang                     |
+| Sophina                            |
+| Judith Thomas                      |
+| Mohamed Caffoor                    |
+| Jeff lee                           |
+| Moragh Lippert                     |
+| Debbie Rubino                      |
+| Helena Wenninger                   |
+| Liina Jaarmann                     |
+| Ai Kamoda                          |
+| Hilary Hampel                      |
+| Anne Devine                        |
+| Emma Caldwell                      |
+| CAROLIN COMBERTI                   |
+| Renee                              |
+| Cheri Palmer                       |
+| Nadege Caslin                      |
+| Zoë Alexandra                      |
+| Abbie Cloherty                     |
+| Karen                              |
+| yve dietz                          |
+| Jane Coleman                       |
+| Celeste Santos                     |
+| Julie McKie                        |
+| Caroline Jack                      |
+| Alexandra                          |
+| Sandy Weinberg                     |
+| Sylvie Bochatay Delvoye            |
+| Dr. Brendan McLaughlin             |
+| Richard Healy                      |
+| KATARINA PISKOR                    |
+| ShamanaTara Obrien                 |
+| Karen Gault                        |
+| Dr Tanya Bagrij                    |
+| Dr Dom Burke                       |
+| Ulrike Schade                      |
+| Stefanie S.                        |
+| Isabelle Bourrat                   |
+| Alexandra Mann                     |
+| Jo H                               |
+| a.van reek                         |
+| Kim Quance                         |
+| Fiona parnell                      |
+| Rebecca Lindesmith DC              |
+| Ajnira Laurie Bloom                |
+| Lace                               |
+| Kusa Anthonia                      |
+| Abigail Mumba                      |
+| Jane King-Nicholls                 |
+| Marian Byham                       |
+| Monica Porter                      |
+| Simone Zimmer                      |
+| Carla Varella                      |
+| Alexia Stevenson                   |
+| Elly                               |
+| Amethyst Freeman                   |
+| Katherine                          |
+| Oswaldo Diaz                       |
+| Lene petersson                     |
+| Lakhmi                             |
+| Ilma                               |
+| Ute Bronner                        |
+| Aurora Cavalcante                  |
+| Stephanie Lowe                     |
+| carmel vowles                      |
+| Emma Schade-Stylli                 |
+| Cheryl Toyofuku                    |
+| Janine Regan-Sinclair              |
+| Jeanne Thompson                    |
+| Gunilla Carlberg                   |
+| senya                              |
+| Benjamin Coxon                     |
+| Polly Goodyear                     |
+| Louise                             |
+| Stephanie Gregory                  |
+| Patty Warren                       |
+| Antoinette Weston                  |
+| sonam targee                       |
+| Julie Sherwood                     |
+| Bryan D Olson                      |
+| Mary-Louise Chandler               |
+| Shelly Coles                       |
+| Renata Krajnovic                   |
+| Jayn Lee-Miller                    |
+| Louise Hammond                     |
+| Josie                              |
+| Sarah Summers                      |
+| D                                  |
+| Dr Kirsten Fulton                  |
+| Helen Hughes                       |
+| Bozena Rossy                       |
+| Jennifer Tribe                     |
+| Keith Hughes                       |
+| Lyndon                             |
+| Dawn Dowsett                       |
+| Lars van Hemmen                    |
+| Alicia Sawaya                      |
+| Natasa Peric                       |
+| Sharon Mazer                       |
+| Ruth Lomax                         |
+| Martin Speake                      |
+| Martin Speake                      |
+| Logan Christopher                  |
+| Dr Linda Lancaster                 |
+| Jo O'Connor                        |
+| Paddy Patterson                    |
+| Magali BROSSAUD                    |
+| Ksenija                            |
+| Tony Neale                         |
+| Elizabeth Azcarraga                |
+| Anders TOKE NIELSEN                |
+| Joanne Beophy                      |
+| Rikke Sømod                        |
+| Henriette Burns                    |
+| Magnus Mulliner                    |
+| Wendy McCartney                    |
+| Tatiana Hughes                     |
+| Sarah Traill                       |
+| Michelle Foster                    |
+| Regine Kohler                      |
+| Sandra Vankessel                   |
+| Jayne Roberts                      |
+| katie sedgwick                     |
+| Gabriele Aigner                    |
+| Kiyono Moss                        |
+| Emma Hill                          |
+| CHRYSONA LAURA S. PHILLIPS         |
+| julie santall                      |
+| James Jefferies                    |
+| Irina Stojjanovic                  |
+| Shannon                            |
+| Jules                              |
+| Will                               |
+| Deborah Benson                     |
+| Lisa Kerman                        |
+| Dogon Irish                        |
+| Janice Petitjean                   |
+| Leaha R Mattinson                  |
+| Paula                              |
+| naema sinclair                     |
+| Susan Locke                        |
+| Nicola Kafula                      |
+| Jennifer Ansell                    |
+| Margaret Flint                     |
+| Vicki Stacey                       |
+| Steve Smith                        |
+| Diego Maggip                       |
+| Steve Smith                        |
+| Charlie Canzano                    |
+| MRS P BLAXLAND DE LANGE            |
+| Daniele de Winter                  |
+| Susanne Wiechert                   |
+| Michael                            |
+| Kathy Ebanda                       |
+| Krishna Murphy                     |
+| Howard Dwight                      |
+| Breer Ute                          |
+| Jannine Oberg                      |
+| Odette                             |
+| Annelise Franck                    |
+| Kathryn Lyons                      |
+| Karen Hanna                        |
+| Ivy Amar                           |
+| Ivy Amar                           |
+| Mary Scott                         |
+| Lucy Maher                         |
+| melinda Perlman                    |
+| Bron Lancaster                     |
+| Quinn Blue                         |
+| Eric keogh                         |
+| Melissa Wright                     |
+| Rebecca                            |
+| Jeanette Primost                   |
+| jo de morgan                       |
+| Darren Mckenna                     |
+| Nicky                              |
+| Alan Ward                          |
+| Jill Kirby                         |
+| JONATHAN DELANEY                   |
+| Carrie Grace, aka Carol Fexa       |
+| Sara Wells                         |
+| Sheila Crouch                      |
+| Drs Michelle and Steven Handwerker |
+| David                              |
+| Christine Davies                   |
+| Alison Leyland                     |
+| Ramnath                            |
+| LaLonnie Wood                      |
+| Kirsten Klaus                      |
+| Bethan Coaker                      |
+| Nancy Addison                      |
+| Rosalind Paxman                    |
+| Kathryn Way                        |
+| Angela Cottle                      |
+| Michael Dalu                       |
+| Gideon Seth Ries                   |
+| Violet van Hees                    |
+| Maria Howard                       |
+| Željka                             |
+| jennifer mckinstry                 |
+| jennifer mckinstry                 |
+| Lise Sand Mellem                   |
+| Gloria                             |
+| Claire                             |
+| Angela Crossland                   |
+| Lindsay Smith                      |
+| Leiah                              |
+| Antoine bowes                      |
+| Ushka Devi                         |
+| Meryl Hool                         |
+| Alison Lane                        |
+| Grace Weithers                     |
+| Asha Andrasdottir Lakebrink        |
+| Laura Uplinger                     |
+| Maria Soledad Encina Lavanderos    |
+| Nancy C Navarra                    |
+| Sylvie Lenoir                      |
+| Natalia Williams                   |
+| Adrienne Halliday                  |
+| Mary Freebairn                     |
+| Naomi Olson                        |
+| Brandi Kegley                      |
+| sharon sage                        |
+| John Scott                         |
+| Andrea McNinch                     |
+| Elizabeth Chandler                 |
+| Peter Lancett                      |
+| JoAnna Stid                        |
+| Gaye Bennett                       |
+| Blagoj Trifunov-Furmanek           |
+| Morven Bryce                       |
+| Ravenne Freeman                    |
+| Alexandra Mackenzie-Smith          |
+| Destini                            |
+| Ralph Nimmann                      |
+| Ben Michael Wilton                 |
+| Martin Bernstein                   |
+| Gilles Berthet                     |
+| Charlotte Blackwell                |
+| Georgina McLean                    |
+| Bathsheba Cumming                  |
+| Sarah Linsley                      |
+| Petra Johns                        |
+| Maggie Potter                      |
+| Kaja Karu                          |
+| Danuta Molecki                     |
+| Karen Bashford                     |
+| ruud meulenbroek                   |
+| Ger Scheeve                        |
+| Renate Hovius                      |
+| Paula                              |
+| Anne                               |
+| Jean Blaise                        |
+| Stephan van de Mortel              |
+| Petra Vesna Kump                   |
+| Corina                             |
+| Salwa Moujir                       |
+| Marika Walker                      |
+| Cristina Bari                      |
+| Anne Healy                         |
+| Selma Arain                        |
+| Hazel Jackson                      |
+| Kamura De Silva                    |
+| Sarah waters                       |
+| Andrea Lockhart                    |
+| Sheri Dixon                        |
+| Donna still                        |
+| Mito Kodera                        |
+| Hazel Raven                        |
+| Yordanka Plamenova Margaritova     |
+| Maha Conyers                       |
+| Panda van Proosdij                 |
+| JACQUELINE STANLEY                 |
+| Patrick Wright                     |
+| Julie wade                         |
+| Darinka Bertović                   |
+| Tony Carroll                       |
+| josie sonnier                      |
+| Michael Viola                      |
+| alberto fariñas lopez              |
+| Diane Nicholas                     |
+| Catherine Pourreau                 |
+| Annabelle Morgand                  |
+| Julie                              |
+| Claire Bangma                      |
+| Sharon Delaport                    |
+| E Kelly                            |
+| Jessica                            |
+| Natasa Peric                       |
+| Ciara                              |
+| Domagoj Draganić                   |
+| Caron Stuchbury                    |
+| Patris Angel                       |
+| Jean knight                        |
+| Anne van Remortel                  |
+| Elsa Hamaz                         |
+| Vanda                              |
+| Mara Doljak                        |
+| Linda Harrington                   |
+| Pete Morris                        |
+| Carol                              |
+| Jakub Zajac                        |
+| Lydie Vachon                       |
+| maria cornelia vermeiren           |
+| Anne M Evans MA. CHHC.             |
+| Sandra                             |
+| Anna                               |
+| Claire Zarb                        |
+| Anne Ligthart                      |
+| Susan Joy Coombes                  |
+| AnetteÅkerlund                     |
+| Lawrence Parnis                    |
+| Phil G                             |
+| Paola                              |
+| Beverley Sankey                    |
+| Fleur Bailey                       |
+| Helen                              |
+| Sabrina Ginesi                     |
+| Maria Olsen                        |
+| Andrea Johnstone                   |
+| Jerro Mac                          |
+| Julie Reed                         |
+| Peter Kane                         |
+| Carmel Clark                       |
+| Hana                               |
+| Gijsje Baarsma                     |
+| Shirley Kay                        |
+| Susan                              |
+| Paz Ricosi                         |
+| Susan Neighbour                    |
+| Inbar                              |
+| Carmel Mooney                      |
+| Rhonda Stockil                     |
+| Margie                             |
+| Simone                             |
+| G Scarrott-Jones                   |
+| Clo kel                            |
+| Naomy Raven                        |
+| Ad Flinterman                      |
+| Stefan Podolczuk                   |
+| Maria Di Benedetto                 |
+| Napier Marten                      |
+| Sinead Loftus                      |
+| Roisin Mc Manus                    |
+| Sheila Olive kay                   |
+| Jason Miles                        |
+| Dr. Marlier Magali                 |
+| Sian Wintle                        |
+| Nigel Hudson                       |
+| Alandra Rayner                     |
+| Maya Wild                          |
+| Angie                              |
+| Chiara Pavan                       |
+| Chiara Pavan                       |
+| Marie Fitzgerald                   |
+| Catarina                           |
+| Lisa Steel                         |
+| Correana White                     |
+| Maria Mc Menamin                   |
+| Linda Carney                       |
+| Catherine Vaioleti                 |
+| Alex Stauber                       |
+| Ciaran Ryan                        |
+| Martin Julich                      |
+| Lynn Meadowcroft                   |
+| Julie Guest                        |
+| Elizabeth Slingsby                 |
 | Zora McNally                 |
 | Fran Adams                   |
 | Mandy cox                    |
@@ -862,7 +1863,6 @@ Last update 16.10.2020
 | Chloe Mc                     |
 | Elizabeth Fleminh            |
 | Elaine gregory               |
-| 7                            |
 | Adrienne Donaghy             |
 | :drew                        |
 | Elizabeth Gillon             |
@@ -1087,7 +2087,6 @@ Last update 16.10.2020
 | Stephen Allen                |
 | Leon Sim                     |
 | Valentina Scognamiglio       |
-|                              |
 | Michael Seymour              |
 | Cara                         |
 | Catherine Kirwan             |
@@ -1130,7 +2129,6 @@ Last update 16.10.2020
 | Nic K                        |
 | REDA GAURONSKIENE            |
 | Rachael Foster               |
-|                              |
 | Ivana Syed                   |
 | Dave Walsh                   |
 | Caroline White               |
