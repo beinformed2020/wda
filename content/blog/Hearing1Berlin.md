@@ -10,7 +10,7 @@ draft: false
 
 **The first Hearing of the World Doctors Alliance, hosted by Heiko Schöning in Berlin, Germany on 10th October 2020.**  
 
-https://www.youtube.com/watch?v=c5dvOkIRMfU&feature=share
+https://brandnewtube.com/v/yEwIaF
 
 Speakers in order of appearance are:  
 
