@@ -72,3 +72,7 @@ draft: false
 - Redress:
   - A class action lawsuit must be filed in the USA or Canada, with all affected parties worldwide having the opportunity to join
   - Companies and self-employed people must be compensated for damage
+
+
+
+[VIDEO HERE](https://youtu.be/kr04gHbP5MQ)
