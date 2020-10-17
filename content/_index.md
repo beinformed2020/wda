@@ -499,10 +499,3 @@ NB the term ‘covid’ has been used to represent Sars-CoV-2 and Covid-19
 Last update 17.10.2020
 
 ### Total signatures so far: 7487
-
-### Doctors: 
-
-### Holistic Health Practitioners:
-
-### General Public:
-
