@@ -498,4 +498,4 @@ NB the term ‘covid’ has been used to represent Sars-CoV-2 and Covid-19
 **Updated daily.**  
 Last update 19.10.2020
 
-### Total signatures so far: 13130
+### Total signatures so far: 13500
