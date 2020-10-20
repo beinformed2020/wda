@@ -5,6 +5,8 @@ draft = false
 
 +++
 
+Spanish
+
 **An independent non-profit alliance of doctors, nurses, healthcare professionals and staff around the world who have united in the wake of the Covid-19 response chapter to share experiences with a view to ending all lockdowns and related damaging measures and to re-establish universal health determinance of psychological and physical wellbeing for all humanity.**
 
 ![WDA - Who we are.](/img/main/whoarewe.jpg#center)
@@ -496,6 +498,6 @@ NB the term ‘covid’ has been used to represent Sars-CoV-2 and Covid-19
 6. DR. SCOTT JENSEN, M.D
 
 **Updated daily.**  
-Last update 20.10.2020
+Last update 19.10.2020
 
-### Total signatures so far: 15892
+### Total signatures so far: 13500
