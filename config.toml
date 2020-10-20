@@ -36,7 +36,7 @@ disableLanguages        = []
 
   [params.header]
     navbarTitle         = "WELCOME TO THE WORLD DOCTORS ALLIANCE"
-    dynamicTitles       = true
+    dynamicTitles       = false
     searchMenu          = true
     shareMenu           = true
     languageMenu        = false

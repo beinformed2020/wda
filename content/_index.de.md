@@ -362,6 +362,6 @@ NB: Der Begriff "Covid" wurde verwendet, um Sars-CoV-2 und Covid-19 zu repräsen
 6. DR. SCOTT JENSEN, M.D
 
 **Täglich aktualisiert.**  
-Letzte Aktualisierung 19.10.2020
+Letzte Aktualisierung 20.10.2020
 
-### Gesamtzahl der bisherigen Unterschriften: 13500
+### Gesamtzahl der bisherigen Unterschriften: 15892

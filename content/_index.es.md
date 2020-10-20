@@ -1,175 +1,134 @@
 +++
-title = "WORLD DOCTORS ALLIANCE"
+title = "ALIANZA MUNDIAL DE MÉDICOS"
 date = "2020-06-15T19:57:09+05:30"
 draft = false
 
 +++
 
-Spanish
-
-**An independent non-profit alliance of doctors, nurses, healthcare professionals and staff around the world who have united in the wake of the Covid-19 response chapter to share experiences with a view to ending all lockdowns and related damaging measures and to re-establish universal health determinance of psychological and physical wellbeing for all humanity.**
+**Una alianza independiente sin fines de lucro de médicos, enfermeras, profesionales de la salud y personal de todo el mundo que se han unido a raíz del capítulo de respuesta de Covid-19 para compartir experiencias con el fin de poner fin a todos los cierres y las medidas perjudiciales conexas y restablecer la determinación universal de la salud del bienestar psicológico y físico de toda la humanidad**.
 
 ![WDA - Who we are.](/img/main/whoarewe.jpg#center)
 
-## Open letter to the UK Government, Governments of the World and the Citizens of the World
+## Carta abierta al gobierno del Reino Unido, a los gobiernos del mundo y a los ciudadanos del mundo
 
 [Download PDF version here](ims/WDAOpenLetter.pdf)
 
-{{< rawhtml >}}<p style="text-align:center"><a href="/contact" class="here-button">SIGN OUR OPEN LETTER: CLICK HERE</a></p>{{< /rawhtml >}}
+{{< rawhtml >}}<p style="text-align:center"><a href="/contact" class="here-button">FIRME NUESTRA CARTA ABIERTA: HAGA CLIC AQUÍ</a></p>{{< /rawhtml >}}
 
-#### Introduction
+#### Introducción
 
-We were told initially that the premise for lockdown was to ‘flatten the curve’ and therefore protect the NHS from being overwhelmed.   
+Se nos dijo inicialmente que la premisa para el bloqueo era "aplanar la curva" y por lo tanto proteger al NHS de ser abrumado.   
 
-It is clear that at no point was the National Health Service (NHS) in any danger of being overwhelmed, and since May 2020 covid wards have been largely empty; and crucially the death toll from covid has remained extremely low.  
+Está claro que en ningún momento el Servicio Nacional de Salud (NHS) estuvo en peligro de ser abrumado, y desde mayo de 2020 los pabellones de covid han estado en gran parte vacíos; y crucialmente el número de muertes por covid ha permanecido extremadamente bajo.  
 
-We now have hundreds of thousands of so-called ‘cases’, ‘infections’ and ‘positive tests’ but hardly any sick people. Recall that four fifths (80%) of ‘infections’ are asymptomatic (1)  Covid wards have been by and large empty throughout June, July, August and September 2020. Most importantly covid deaths are at an all-time low. It is clear that these ‘cases’ are in fact not ‘cases’ but rather they are normal healthy people.  
+Ahora tenemos cientos de miles de los llamados "casos", "infecciones" y "pruebas positivas", pero casi ningún enfermo. Recordemos que cuatro quintas partes (80%) de las "infecciones" son asintomáticas (1) Los pabellones de los covid han estado prácticamente vacíos durante junio, julio, agosto y septiembre de 2020. Lo más importante es que las muertes de los cobardes están en su punto más bajo. Está claro que estos "casos" no son de hecho "casos", sino que son personas sanas normales.  
 
-So-called asymptomatic cases have never in the history of respiratory disease been the driver for spread of infection. Rather it is symptomatic people who spread respiratory infections - not asymptomatic people.(2)   
+Los llamados casos asintomáticos nunca han sido en la historia de las enfermedades respiratorias el motor de la propagación de la infección. Más bien son las personas sintomáticas las que propagan las infecciones respiratorias, no las personas asintomáticas.(2)   
 
-It is also abundantly clear that the ‘pandemic’ is basically over and has been since June 2020. (3)  
+También está muy claro que la "pandemia" está básicamente terminada y lo ha estado desde junio de 2020. (3)  
 
-We have very highly likely reached herd immunity and therefore have no need for a vaccine.
+Es muy probable que hayamos alcanzado la inmunidad de manada y por lo tanto no tenemos necesidad de una vacuna.
 
-We have safe and very effective treatments and preventative treatments for covid, we therefore call for an immediate end to all lockdown measures, social distancing, mask wearing, testing of healthy individuals, track and trace, immunity passports, the vaccination program and so on.   
+Tenemos tratamientos seguros y muy eficaces y tratamientos preventivos para la covid, por lo que pedimos el fin inmediato de todas las medidas de encierro, el distanciamiento social, el uso de máscaras, las pruebas de individuos sanos, el seguimiento y la localización, los pasaportes de inmunidad, el programa de vacunación y así sucesivamente.   
 
-There has been a catalogue of unscientific, non-sensical policies enacted which infringe our inalienable rights, such as - freedom of movement, freedom of speech and freedom of assembly. These draconian totalitarian measures must never be repeated.   
+Ha habido un catálogo de políticas no científicas, no sensatas, promulgadas que infringen nuestros derechos inalienables, tales como - la libertad de movimiento, la libertad de expresión y la libertad de reunión. Estas medidas totalitarias draconianas no deben repetirse nunca.   
 
-#### Lockdown
+#### Cierre
 
-- Covid has proved less deadly than previous influenza seasons – There were 50,100 flu deaths from December 2017 to March 2018 in England and Wales. There were 80,000 flu deaths in 1969. To date we have circa 42,000 covid related deaths in the UK.
-
-
-
-
-- We have never locked down society for a respiratory virus before.
+- El Covid ha demostrado ser menos mortal que las temporadas de gripe anteriores - Hubo 50.100 muertes por gripe desde diciembre de 2017 hasta marzo de 2018 en Inglaterra y Gales. Hubo 80.000 muertes por gripe en 1969. Hasta la fecha tenemos alrededor de 42.000 muertes relacionadas con la Covid en el Reino Unido.
 
 
 
 
-- The basis for lockdown was a mathematical model by Professor Neil Ferguson. His modelling which predicted half a million deaths in the UK has been roundly condemned as being not fit for purpose. His estimated death figures were clearly wrong by a factor of 10 or 12 times. (1)    
+- Nunca antes habíamos cerrado la sociedad por un virus respiratorio.
 
 
 
 
-- Professor Ferguson’s modelling was not even peer reviewed before being acted upon by several nations. Eminent epidemiologists such as Professor Gupta from Oxford University were ignored, they estimated the death count would be far lower in the UK.  
+- La base del bloqueo fue un modelo matemático del profesor Neil Ferguson. Su modelo, que predijo medio millón de muertes en el Reino Unido, ha sido condenado rotundamente como no apto para el propósito. Sus cifras de muerte estimadas estaban claramente equivocadas por un factor de 10 o 12 veces. (1)    
 
 
 
 
-- Professor Ferguson has a long track record of woeful modelling he was entirely wrong about sars, mers, mad cow’s disease (CJD), and swine flu. Why did the world listen to him again? (2)
+- El modelo del profesor Ferguson ni siquiera fue revisado por pares antes de que varias naciones tomaran medidas al respecto. Eminentes epidemiólogos como el profesor Gupta de la Universidad de Oxford fueron ignorados, estimaron que el conteo de muertes sería mucho más bajo en el Reino Unido.  
 
 
 
 
-- Countries which did not lock down Sweden, Japan, Taiwan, South Korea and Belarus have all done significantly better than us in terms of percentage of population deaths. They also have herd immunity and intact economies.
+- El profesor Ferguson tiene un largo historial de modelos lamentables, estaba totalmente equivocado sobre los sarmientos, los mers, la enfermedad de las vacas locas (CJD) y la gripe porcina. ¿Por qué el mundo lo escuchó de nuevo? (2)
 
 
 
 
-- Lockdown did not save lives, and this has been published in the Lancet ‘….in our analysis, full lockdowns and wide-spread COVID-19 testing were **not** associated with reductions in the number of critical cases or overall mortality.’ (3)
+- Los países que no cerraron Suecia, Japón, Taiwán, Corea del Sur y Belarús lo han hecho mucho mejor que nosotros en términos de porcentaje de muertes de la población. También tienen inmunidad de grupo y economías intactas.
 
 
 
 
-- The vast majority of deaths occurred in elderly and very elderly people
+- El cierre no salvó vidas, y esto ha sido publicado en la revista Lancet '....en nuestro análisis, los cierres totales y las pruebas generalizadas de COVID-19 no estuvieron **no** asociados con reducciones en el número de casos críticos o en la mortalidad general'. (3)
+
+
+
+
+- La gran mayoría de las muertes se produjeron en personas mayores y muy mayores
 
  
 
-- The vast majority of deaths occurred in people with pre-existing serious health issues such as cancer, cardiovascular disease, Alzheimer’s, diabetes etc  
+- La gran mayoría de las muertes se produjeron en personas con problemas de salud graves preexistentes como el cáncer, enfermedades cardiovasculares, Alzheimer, diabetes, etc.  
 
 
 
 
-- Covid poses virtually zero risk to the under 45’s who have more chance of being struck by lightning than dying from covid.
+- El covidio no supone prácticamente ningún riesgo para los menores de 45 años, que tienen más posibilidades de ser alcanzados por un rayo que de morir por el covidio.
 
 
 
 
-- Covid poses a very small risk for healthy under 60 year olds who have a greater chance of accidental drowning than dying from covid.
+- Covid representa un riesgo muy pequeño para los menores de 60 años sanos que tienen más posibilidades de ahogarse accidentalmente que de morir por covid.
 
 
 
 
-- The entire nation was essentially placed under house arrest. We have never isolated the healthy before.  
+- La nación entera fue esencialmente puesta bajo arresto domiciliario. Nunca antes hemos aislado a los sanos.  
 
 
 
 
-- Isolating the sick and those who are immunocompromised makes sense. Isolating the healthy has hampered the establishment of herd immunity and makes no sense.
+- Aislar a los enfermos y a los inmunocomprometidos tiene sentido. Aislar a los sanos ha obstaculizado el establecimiento de la inmunidad de la manada y no tiene sentido.
 
 
 
 
-- To put it into perspective we had 115,000 smoking related deaths in the UK in 2015 compared to the 42,000 deaths from covid.  
+- Para ponerlo en perspectiva, tuvimos 115.000 muertes relacionadas con el tabaquismo en el Reino Unido en 2015, comparadas con las 42.000 muertes por covid.  
 
 
 
 
-- We usually have around 600,000 deaths every year in the UK, roughly 1600 deaths per day.  
+- Normalmente tenemos alrededor de 600.000 muertes cada año en el Reino Unido, aproximadamente 1600 muertes por día.  
 
-#### Collateral damage the cure is worse than the virus
+#### Daño colateral la cura es peor que el virus
 
-- Placing the public under virtual house arrest has caused untold damage to both physical and mental health.(1)
+- Poner al público bajo arresto domiciliario virtual ha causado un daño incalculable a la salud física y mental.(1)
 
 
 
 
-- Ventilating patients instead of oxygenating patients proved to be a deadly policy and an unwarranted failure. Ventilation resulted in many unnecessary deaths. (2)
+- Ventilar a los pacientes en lugar de oxigenar a los pacientes resultó ser una política mortal y un fracaso injustificado. La ventilación resultó en muchas muertes innecesarias. (2)
 
 
 
 
-- Sending infected people from hospitals to care homes placed the elderly and frail under unnecessary risk and resulted in many unnecessary deaths. (3)
+- El envío de personas infectadas de los hospitales a los centros de atención médica puso a los ancianos y a los débiles en un riesgo innecesario y provocó muchas muertes innecesarias. (3)
 
 
 
 
-- Blanket Do Not Resuscitate (DNR) orders were imposed on thousands of people without their consent nor the consent of their families – this is both unlawful and immoral and lead to unnecessary deaths in care homes. (4)
+- Las órdenes de no resucitar se impusieron a miles de personas sin su consentimiento ni el de sus familias, lo que es ilegal e inmoral y conduce a muertes innecesarias en los centros de atención. (4)
 
 
 
 
-- Hospitals became essentially ‘covid only’ centres vast numbers of patients were wilfully neglected, resulting in many thousands of unnecessary deaths. (5)
-
-
-
-
-
- 
-
-- The government’s own report estimates that some two hundred thousand (200,000) people will die as a direct result of lockdown – not the virus. Hospitals being closed, suicide and poverty will result in more deaths than the virus. (6)
-
-
-
-
-- The cure is worse than the disease!
-
-
-
-#### Death certificates (1)
-
-- The majority of people who died had significant comorbidities, such as Alzheimer’s, cancer, cardiovascular disease and diabetes.  
-
-
-
-
-- Counting death certificates with a ‘mention’ of covid as being a death caused by covid is a gross misrepresentation of the facts and has vastly over exaggerated the death toll.  
-
-
-
-
-- The rules for the signing of death certificates have been changed solely for covid by the Coronavirus 2020 Act.
-
-
-
-
-- Doctors do not even need to have physically seen the patient in order to sign death certificates.  
-
-
-
-
-- The Act has removed the need for a confirmatory medical certificate for cremations.
+- Los hospitales se convirtieron esencialmente en centros "sólo para cobijar" y un gran número de pacientes fueron descuidados intencionalmente, lo que provocó muchos miles de muertes innecesarias. (5)
 
 
 
@@ -177,256 +136,277 @@ There has been a catalogue of unscientific, non-sensical policies enacted which 
 
  
 
-- Autopsies have virtually been banned, no doubt leading to misdiagnosis of the true cause of deaths; and also reducing our understanding of the disease itself.
+- El propio informe del gobierno estima que unas doscientas mil (200.000) personas morirán como resultado directo del encierro - no del virus. El cierre de hospitales, el suicidio y la pobreza resultarán en más muertes que el virus. (6)
 
 
 
 
-- Worse still, care home staff who largely have no medical training are able to give a statement as to the cause of death.
+- ¡La cura es peor que la enfermedad!
 
 
 
+#### Certificados de defunción (1)
 
-- Covid was put on death certificates merely on the ‘suspicion’ of people having covid. This may well be unlawful, since it is a crime to falsify death certificates.
+- La mayoría de las personas que murieron tenían comorbilidades significativas, como el Alzheimer, el cáncer, las enfermedades cardiovasculares y la diabetes.  
 
 
 
 
-- People who die within 28 days of a positive pcr test are deemed to have died from covid, even if they die in a car crash or from a heart attack; clearly over inflating the death toll (2)
+- Contar los certificados de defunción con una "mención" de covid como una muerte causada por covid es una burda tergiversación de los hechos y ha exagerado enormemente el número de muertes.  
 
-#### Economic ruin
 
-- Reports now estimate that as many as six and a half million (6,500,000) people in the UK will lose their jobs as a result of lockdown. (1)
 
 
+- Las reglas para la firma de los certificados de defunción han sido cambiadas únicamente para covid por la Ley del Coronavirus 2020.
 
 
--  It is well known that poverty directly adversely affects health, we can expect to see many people suffering with poor health and resulting in many premature deaths, as a direct result of lockdown.
 
-#### Censorship
 
-- Government have acted maliciously in censoring doctors, nurses and NHS staff. The people have the perfect right to hear what is going on in hospitals, and the medical profession have a duty to look after the public and to reassure them. (1)
+- Los médicos ni siquiera necesitan haber visto físicamente al paciente para firmar los certificados de defunción.  
 
 
 
 
-- The medical profession have not been allowed to let the public know that covid wards have been empty for months, nor that covid deaths have reached an all-time low for months, and this has unnecessarily added to the public’s distress and anxiety.
-
-
-
-
-- Doctors and scientists with views that differ from the government narrative have had their videos and articles removed from the internet
-
-#### Testing - False positives
-
-- PCR tests cannot be verified for accuracy as there is no ‘gold standard’ against which to check them. The virus has not been purified. (1)
-
-
-
-
--  PCR tests cannot detect viral loads and are prone to false positives. (2)
-
-
-
-
-- A positive PCR test does not mean that an individual is infected nor infective. (3)
-
-
-
-
-- In fact approximately 90% of the PCR positive ‘cases’ are false positives. We therefore have no second wave and no pandemic. (4 , 5)
-
-
-
-
-- The government’s report estimates a false positive rate of between 0.8 to 4.0 % using data from other viral infections – not from covid (6)
-
-
-
-
-- Viral fragments may remain in people’s bodies for several weeks following recovery from infection. (7)
-
-
-
-
-- The crisis will never end if we are waiting for zero positive tests. Everyone has probably had a cold caused by a coronavirus and will likely have a few viral fragments matching those of the cousin SARS-CoV-2 virus (8)
-
-
-
-
-- Testing healthy asymptomatic individuals is non-sensical, unscientific and a colossal waste of money. The governments moon shot daily testing program will cost £100 Billion roughly two thirds of the annual NHS budget.  
-
-
-
-
-- Antibody testing is not the gold standard as many people have T-cell immunity, and antibodies may not circulate following recovery from infection.
-
-
-
-#### Hydroxychloroquine
-
-- The controversial drug Hydroxychloroquine (HCQ) has been unfairly smeared, by the WHO, CDC, NIH and the media.
-
-
-
-
-- However HCQ has very firm support from, amongst others: Professor Harvey Risch epidemiologist from Yale, The American Association of Physicians and Surgeons (AAPS), American Frontline Doctors, the Henry Ford Health System and Professor Didier Raoult microbiologist and infectious disease specialist - to name but a few. (1)
-
-
-
-
-- The Lancet was even forced to retract a study on HCQ after it was revealed by the Guardian newspaper that they had been completely fabricated and written by a sci-fi writer and a porn star. Even following this astounding revelation HCQ was still banned in most countries. (2)
-
-
-
-
--  HCQ according to AAPS has a ninety per cent (90%) cure rate when given early and alongside zinc (3)
-
-
-
-
-- HCQ is safer than many over the counter drugs such as aspirin, Benadryl and Tylenol.
-
-
-
-
-- The AAPS also point out that there has never been a vaccine as safe as HCQ. (4)
-
-
-
-
+- La ley ha eliminado la necesidad de un certificado médico de confirmación para las cremaciones.
 
  
 
-- HCQ has been licensed for over sixty years and has been safely used by billions of people worldwide. There is a very small risk of arrythmia which is easily monitored.
+- Las autopsias han sido virtualmente prohibidas, sin duda llevando a un mal diagnóstico de la verdadera causa de las muertes; y también reduciendo nuestra comprensión de la enfermedad en sí.
 
 
 
 
-- Why was HCQ banned then? Could it be that there are no huge profits to be made from this out-of-patent drug?
+- Peor aún, el personal de las residencias de ancianos, que en gran medida no tiene formación médica, puede dar una declaración sobre la causa de la muerte.
 
 
 
 
-- HCQ was used to great effect in the Sars1 outbreak of 2005 (5)
+- Covid fue puesto en los certificados de defunción simplemente por la "sospecha" de que la gente tenía covid. Esto puede ser ilegal, ya que es un crimen falsificar los certificados de defunción.
 
 
 
 
-- In short had HCQ been available then there would not have been a pandemic !
+- Las personas que mueren dentro de los 28 días de una prueba de PCR positiva se considera que han muerto por Covid, incluso si mueren en un accidente automovilístico o de un ataque al corazón; claramente sobre inflando el número de muertos (2)
 
-#### Prevention
+#### La ruina económica
 
-- Preventative measures such as hydroxychloroquine or vitamins D, C and zinc should have been recommended for the public. (1)
-
-
-
-
-- Early calcifediol (25-hydroxyvitamin D) treatment to hospitalized COVID-19 patients significantly reduced intensive care unit admissions (2)
+- Los informes ahora estiman que hasta seis millones y medio (6.500.000) de personas en el Reino Unido perderán sus trabajos como resultado del cierre. (1)
 
 
 
 
-- Vit D reduces the severity of covid. (2,3)
+- Es bien sabido que la pobreza afecta directamente a la salud, podemos esperar ver a muchas personas que sufren de mala salud y que provocan muchas muertes prematuras, como resultado directo del encierro.
+
+#### Censura
+
+- El gobierno ha actuado maliciosamente en la censura de médicos, enfermeras y personal del NHS. El pueblo tiene el perfecto derecho de escuchar lo que pasa en los hospitales, y la profesión médica tiene el deber de cuidar al público y tranquilizarlo. (1)
 
 
 
 
-- Voluntary isolation of the frail - should they so choose; in combination with preventative measures would have been a far better strategy. The rest of society could and should have continued as normal.
-
-#### Vaccine 
-
-- A rushed vaccine is clearly not in the public’s best interest  
+- No se ha permitido a la profesión médica hacer saber al público que los pabellones de los calamares han estado vacíos durante meses, ni que las muertes de calamares han alcanzado un mínimo histórico durante meses, lo que ha aumentado innecesariamente la angustia y la ansiedad del público.
 
 
 
 
-- Indemnifying vaccine manufacturers against all liability is also clearly not in the public’s best interest
+- Los médicos y científicos con puntos de vista que difieren de la narrativa del gobierno han hecho que sus videos y artículos sean retirados de la Internet
 
-#### Conflicts of interest
+#### Pruebas - Falsos positivos
 
-- Chief Scientific Officer Sir Patrick Vallance has £600,000 worth of shares in GSK Glaxo Smith Klein. He has in recent years sold £5 million of shares in GSK which he ‘earned’ whilst chief of GSK (1)
-
-
-
-
--  Sir Chris Whitty, Chief Medical Officer UK, accepted over £30 million in funding from the Bill and Melinda Gates foundation to study malaria vaccines. (2)
+- Las pruebas de PCR no pueden ser verificadas en cuanto a su exactitud ya que no hay un "patrón de oro" con el que compararlas. El virus no ha sido purificado. (1)
 
 
 
 
+- Las pruebas de PCR no pueden detectar cargas virales y son propensas a los falsos positivos. (2)
+
+
+
+
+- Una prueba PCR positiva no significa que un individuo esté infectado o sea infeccioso. (3)
+
+
+
+
+- De hecho, aproximadamente el 90% de los "casos" positivos de PCR son falsos positivos. Por lo tanto, no tenemos una segunda ola ni una pandemia. (4 , 5)
+
+
+
+
+- El informe del gobierno estima una tasa de falsos positivos de entre el 0,8 y el 4,0 % utilizando datos de otras infecciones virales - no de covid (6)
+
+
+
+
+- Los fragmentos virales pueden permanecer en el cuerpo de las personas durante varias semanas después de la recuperación de la infección. (7)
+
+
+
+
+- La crisis no terminará nunca si esperamos que las pruebas no den positivo. Todos han tenido probablemente un resfriado causado por un coronavirus y es probable que tengan algunos fragmentos virales que coincidan con los del primo virus del SARS-CoV-2 (8)
+
+
+
+
+- Analizar a individuos asintomáticos sanos no tiene sentido, no es científico y es un colosal desperdicio de dinero. El programa de pruebas diarias de tiro a la luna del gobierno costará 100.000 millones de libras aproximadamente dos tercios del presupuesto anual del NHS.  
+
+
+
+
+- Las pruebas de anticuerpos no son el estándar de oro ya que muchas personas tienen inmunidad a las células T, y los anticuerpos pueden no circular después de la recuperación de la infección.
+
+
+
+#### Hidroxicloroquina
+
+- La controvertida droga hidroxicloroquina (HCQ) ha sido injustamente difamada por la OMS, los CDC, los NIH y los medios de comunicación.
+
+
+
+
+- Sin embargo, la HCQ tiene un apoyo muy firme de, entre otros: El profesor Harvey Risch, epidemiólogo de Yale, la Asociación Americana de Médicos y Cirujanos (AAPS), American Frontline Doctors, el Sistema de Salud Henry Ford y el profesor Didier Raoult, microbiólogo y especialista en enfermedades infecciosas, por nombrar sólo algunos. (1)
+
+
+
+
+- The Lancet incluso se vio obligado a retractarse de un estudio sobre HCQ después de que el periódico The Guardian revelara que habían sido completamente fabricados y escritos por un escritor de ciencia ficción y una estrella del porno. Incluso después de esta asombrosa revelación HCQ fue prohibido en la mayoría de los países. (2)
+
+
+
+
+- La HCQ según la AAPS tiene una tasa de curación del noventa por ciento (90%) cuando se administra en forma temprana y junto con el zinc (3)
+
+
+
+
+- El HCQ es más seguro que muchos medicamentos de venta libre como la aspirina, el Benadryl y el Tylenol.
+
+
+
+
+- La AAPS también señala que nunca ha habido una vacuna tan segura como la HCQ. (4)
 
  
 
--  It has become clear that members of SAGE, Public Health England (PHE), World Health Organisation (WHO), Centre for Disease Control (CDC), National institute for Health (NIH) etc have many conflicts of interests. They all accept very large ‘donations’ from the pharmaceutical and vaccine industry. These conflicts of interests may well have effectively corrupted their integrity. (3)
+- El HCQ ha sido licenciado por más de sesenta años y ha sido usado con seguridad por miles de millones de personas en todo el mundo. Existe un riesgo muy pequeño de arrythmia que es fácilmente monitoreado.
 
 
 
 
--  It is also clear that governments are heavily lobbied by the pharmaceutical industry and the vaccine industry, again this may have compromised their integrity. (4)
-
-#### Cui bono? Who benefits?
-
-- Vaccine manufacturers will make trillions from this, as will track and trace manufacturers, and the pharmaceutical industry stand to make trillions from covid testing.
+- ¿Por qué se prohibió el HCQ entonces? ¿Podría ser que no se obtengan grandes beneficios de esta droga no patentada?
 
 
 
 
--  Prime minister Boris Johnson announced the new ‘moon shot’ testing will cost £100 Billion, approximately two thirds of the annual NHS budget.  
+- El HCQ se utilizó con gran efecto en el brote de Sars1 de 2005 (5)
 
 
 
 
+- En resumen, si el HCQ hubiera estado disponible, no habría habido una pandemia.
+
+#### Prevención
+
+- Se deberían haber recomendado al público medidas preventivas como la hidroxicloroquina o las vitaminas D, C y el zinc. (1)
+
+
+
+
+- El tratamiento precoz con calcifediol (25-hidroxivitamina D) de los pacientes hospitalizados con COVID-19 redujo significativamente los ingresos en la unidad de cuidados intensivos (2)
+
+
+
+
+- La vitamina D reduce la gravedad del covid. (2,3)
+
+
+
+
+- El aislamiento voluntario de los frágiles, si así lo desean; en combinación con medidas preventivas habría sido una estrategia mucho mejor. El resto de la sociedad podría y debería haber continuado con normalidad.
+
+#### Vacuna 
+
+- Una vacuna apresurada no es claramente en el mejor interés del público  
+
+
+
+
+- Indemnizar a los fabricantes de vacunas contra toda responsabilidad tampoco está claramente en el mejor interés del público
+
+#### Conflictos de intereses
+
+- El Director Científico Sir Patrick Vallance tiene 600.000 libras en acciones de GSK Glaxo Smith Klein. En los últimos años ha vendido 5 millones de libras de acciones de GSK que "ganó" mientras era jefe de GSK (1)
+
+
+
+
+- Sir Chris Whitty, Director Médico del Reino Unido, aceptó más de 30 millones de libras esterlinas en fondos de la Fundación Bill y Melinda Gates para estudiar las vacunas contra la malaria. (2)
 
  
 
-- Surely these vast sums would be far better spent on treating all of the neglected patients who have been wilfully neglected during lockdown and who now face huge waiting lists.
+- Ha quedado claro que los miembros de SAGE, Salud Pública de Inglaterra (PHE), Organización Mundial de la Salud (OMS), Centro de Control de Enfermedades (CDC), Instituto Nacional de Salud (NIH) etc. tienen muchos conflictos de intereses. Todos ellos aceptan grandes "donaciones" de la industria farmacéutica y de vacunas. Estos conflictos de intereses bien pueden haber corrompido efectivamente su integridad. (3)
 
-#### Conclusions 
 
-We have effective and safe treatments and preventative medications for covid,  therefore there is no need for any lockdown restrictions and associated measures. The pandemic is essentially over as can be seen by the consistent low death rate and hospital admissions over the past four months. 
 
-We demand the immediate and permanent ceasing of all lockdown measures. 
 
-Lockdowns do not save lives, that is why they have never been used before. Civil liberties and fundamental freedoms have been unnecessarily removed from the public and this must never happen again.
+- También está claro que los gobiernos están fuertemente presionados por la industria farmacéutica y la industria de las vacunas, de nuevo esto puede haber comprometido su integridad. (4)
 
-Preventative measures such as Hydroxychloroquine, vitamin C, Vitamin D and zinc must be made readily available to the public. 
+#### Cui bono? ¿Quién se beneficia?
 
-Isolation must be voluntary. People are perfectly capable of making their own assessment of the risks and must be free to go about their lives as they so choose. People must have the right to choose whether to isolate or not. 
+- Los fabricantes de vacunas ganarán billones con esto, al igual que los fabricantes de seguimiento y localización, y la industria farmacéutica ganará billones con los ensayos de vacunas.
 
-Likewise, businesses must have the right to remain open if they so choose.
 
-We demand that doctors, nurses, scientists and healthcare professionals must be permitted free speech and never be censored again.
+- El primer ministro Boris Johnson anunció que las nuevas pruebas de "tiro a la luna" costarán 100.000 millones de libras, aproximadamente dos tercios del presupuesto anual del NHS.   
 
-Professor Mark Woolhouse epidemiologist and specialist in infectious diseases, Edinburgh University Member of the Scientific Pandemic Influenza Group on Behaviours, that advises the Government stated that -
+- Seguramente estas enormes sumas se gastarían mucho mejor en el tratamiento de todos los pacientes desatendidos que han sido descuidados intencionalmente durante el encierro y que ahora se enfrentan a enormes listas de espera.
 
-‘…***Lockdown was a monumental disaster on a global scale. The cure was worse than the disease.’***
+#### Conclusiones 
 
-‘*I never want to see national lockdown again. It was always a temporary measure that simply delayed the stage of the epidemic we see now. It was never going to change anything fundamentally, however low we drove down the number of cases,’*
+Tenemos tratamientos eficaces y seguros y medicamentos preventivos para el covid, por lo que no hay necesidad de restricciones de cierre y medidas asociadas. La pandemia ha terminado, como puede verse por la baja tasa de mortalidad y los ingresos hospitalarios en los últimos cuatro meses. 
 
-‘*We absolutely should never return to a position where children cannot play or go to school.’*
+Exigimos el cese inmediato y permanente de todas las medidas de cierre. 
 
-***I believe the harm lockdown is doing to our education, health care access, and broader aspects of our economy and society will turn out to be at least as great as the harm done by Covid-19.’***(1)
+Los cierres no salvan vidas, por eso nunca se han utilizado antes. Las libertades civiles y las libertades fundamentales han sido innecesariamente quitadas del público y esto no debe volver a suceder.
 
-The World Doctors Alliance agree fully with Prof Woolhouse’s assertions, he is right! We must never lockdown again!
+Las medidas preventivas como la hidroxicloroquina, la vitamina C, la vitamina D y el zinc deben ponerse a disposición del público. 
 
-NB the term ‘covid’ has been used to represent Sars-CoV-2 and Covid-19
+El aislamiento debe ser voluntario. La gente es perfectamente capaz de hacer su propia evaluación de los riesgos y debe ser libre de seguir con su vida como lo desee. La gente debe tener el derecho de elegir si se aísla o no. 
 
-### References
+De la misma manera, las empresas deben tener el derecho de permanecer abiertas si así lo desean.
 
-#### Introduction
+Exigimos que a los médicos, enfermeras, científicos y profesionales de la salud se les permita la libertad de expresión y que nunca más sean censurados.
+
+El profesor Mark Woolhouse, epidemiólogo y especialista en enfermedades infecciosas, miembro de la Universidad de Edimburgo del Grupo Científico de Gripe Pandémica en Comportamientos, que asesora al Gobierno declaró que -
+
+El cierre fue un desastre monumental a escala mundial. La cura era peor que la enfermedad.
+
+No quiero volver a ver el encierro nacional. Siempre fue una medida temporal que simplemente retrasó la etapa de la epidemia que vemos ahora. Nunca iba a cambiar nada fundamentalmente, por más bajo que bajara el número de casos".
+
+"Nunca debemos volver a una posición en la que los niños no puedan jugar o ir a la escuela".
+
+***Creo que el daño que el encierro está haciendo a nuestra educación, acceso al cuidado de la salud, y aspectos más amplios de nuestra economía y sociedad resultará ser al menos tan grande como el daño hecho por Covid-19.
+
+La Alianza Mundial de Médicos está totalmente de acuerdo con las afirmaciones del Profesor Woolhouse, ¡tiene razón! ¡No debemos volver a encerrarnos nunca más!
+
+NB el término "covid" ha sido usado para representar a Sars-CoV-2 y Covid-19
+
+### Referencias
+
+**Inglés** 
+
+#### Introducción
 
 1. [BMJ](https://www.bmj.com/content/369/bmj.m1375)
 2. [CNN](https://edition.cnn.com/2020/06/08/health/coronavirus-asymptomatic-spread-who-bn/index.html) and [WBUR](https://www.wbur.org/npr/803158339/does-the-new-coronavirus-spread-silently)
 3. [NHS](https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2020/09/COVID-19-total-announced-deaths-28-September-2020.xlsx)
 
-#### Lockdown
+#### Cierre
 
 1. [Telegraph](https://www.telegraph.co.uk/news/2020/05/23/lockdown-saved-no-lives-may-have-cost-nobel-prize-winner-believes/)
 2. [Times](https://www.thetimes.co.uk/article/professors-model-for-coronavirus-predictions-should-not-have-been-used-z7dqrkzzd)
 3. [The Lancet](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(20)30208-X/fulltext)
 
-#### Collateral damage
+#### Daños colaterales
 
 1. [BMJ](https://www.bmj.com/content/369/bmj.m1931)
 2. [Time](https://time.com/5820556/ventilators-covid-19/)
@@ -435,20 +415,20 @@ NB the term ‘covid’ has been used to represent Sars-CoV-2 and Covid-19
 5. [BBC](https://www.bbc.co.uk/news/health-53300784)
 6. [BBC](https://www.telegraph.co.uk/news/2020/07/19/lockdown-may-cost-200k-lives-government-report-shows/)
 
-#### Death certificates 
+#### Certificados de defunción 
 
 1. [Spectator](https://www.spectator.co.uk/article/the-way-covid-deaths-are-being-counted-is-a-national-scandal)
 2. [Telegraph](https://www.telegraph.co.uk/news/2020/09/18/almost-one-third-covid-deaths-july-august-primarily-caused-conditions/)
 
-#### Economic ruin 
+#### La ruina económica 
 
 1. [Independent](https://www.independent.co.uk/news/uk/home-news/coronavirus-lockdown-job-losses-unemployment-recession-university-essex-study-a9472966.html)
 
-#### Censorship
+#### Censura
 
 1. [Guardian](https://www.theguardian.com/society/2020/apr/09/nhs-staff-forbidden-speaking-out-publicly-about-coronavirus)
 
-#### Tests
+#### Pruebas
 
 1. [BMJ](https://www.bmj.com/content/bmj/369/bmj.m1808.full.pdf)
 2. [Spectator](https://www.spectator.co.uk/article/how-many-covid-diagnoses-are-false-positives-)
@@ -469,26 +449,26 @@ NB the term ‘covid’ has been used to represent Sars-CoV-2 and Covid-19
 6. [NIH.GOV](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1232869/)
 7. [NIH.GOV](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1232869/)
 
-#### Prevention
+#### Prevención
 
 1. [BMJ](https://www.bmj.com/content/368/bmj.m1101/rr-10)
 2. [DOI.ORG](https://doi.org/10.1016/j.jsbmb.2020.105751)
 3. [DOI.ORG](https://doi.org/10.1016/j.virusres.2020.198148)
 
-#### Conflicts of interests
+#### Conflictos de intereses
 
 1. [Telegraph](https://www.telegraph.co.uk/news/2020/09/23/revealed-sir-patrick-vallance-has-600000-shareholding-firm-contracted/)
 2. [Telegraph](https://www.telegraph.co.uk/news/2020/03/13/chris-whitty-going-viral/)
 3. [Apps Online](https://aapsonline.org/cdc-compromised-by-bias-and-conflicts-of-interest/)
 4. [Statnews](https://www.statnews.com/feature/prescription-politics/prescription-politics/)
 
-#### Conclusion
+#### Conclusión
 
 1. [Express](https://www.express.co.uk/life-style/health/1320428/Coronavirus-news-lockdown-mistake-second-wave-Boris-Johnson)
 
 
 
-## Signed by:
+## Firmado por:
 
 1. DR MOHAMMAD ADIL
 2. PROFESSOR DOLORES CAHILL
@@ -497,7 +477,7 @@ NB the term ‘covid’ has been used to represent Sars-CoV-2 and Covid-19
 5. DR. ANDREW KAUFMAN, M.D
 6. DR. SCOTT JENSEN, M.D
 
-**Updated daily.**  
-Last update 19.10.2020
+**Actualizado diariamente.**  
+Last update 20.10.2020
 
-### Total signatures so far: 13500
+### Total signatures so far: 15892
