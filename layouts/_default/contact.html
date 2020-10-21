@@ -8,60 +8,32 @@
     </header>
       <div id="content">
         {{ .Content }}
-        <div class="contact-container">
-
-<form name="contact" action="https://formspree.io/f/mzbkebdd"
-  method="POST">
-  <p>
-    <label>Your Name: <input type="text" name="name" /></label>   
-  </p>
-  <p>
-    <label>Your Email: <input type="email" name="email" /></label>
-  </p>
-       <p>
-    <label>Add your name to our open letter? <select name="sign[]" >
-      <option value="yesplease">Yes, please</option>
-      <option value="nothanks">No, thanks</option>
-    </select></label>
-  </p>
-    <p>
-    <label>Your Role? <select name="role[]" >
-      <option value="General public">General Public</option>
-      <option value="Doctors nurses scientists dentists">Doctors, nurses, scientists, dentists etc</option>
-      <option value="Holistic health practitioners">Holistic health practitioners</option>
-    </select></label>
-  </p>
-    <p>
-    <label>Sign-up to our mailing list? <select name="mailinglist[]" >
-      <option value="yesplease">Yes, please</option>
-      <option value="nothanks">No, thanks</option>
-    </select></label>
-  </p>
-  <p>
-    <label>Message: <textarea name="message"></textarea></label>
-  </p>
-<div class='g-recaptcha' data-sitekey='6LdAvUIUAAAAAHjrjmjtNTcXyKm0WKwefLp-dQv9'></div>
-<noscript>
-  <div>
-  <div style="width: 302px; height: 422px; position: relative;">
-  <div style="width: 302px; height: 422px; position: absolute;">
-  <iframe src="https://www.google.com/recaptcha/api/fallback?k=6LdAvUIUAAAAAHjrjmjtNTcXyKm0WKwefLp-dQv9" frameborder="0" scrolling="no"
-    style="width: 302px; height:422px; border-style: none;">
-  </iframe>
-  </div>
-  </div>
-  <div style="width: 300px; height: 60px; border-style: none; bottom: 12px; left: 25px; margin: 0px; padding: 0px; right: 25px; background: #f9f9f9; border: 1px solid #c1c1c1; border-radius: 3px;">
-    <textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response"
-      style="width: 250px; height: 40px; border: 1px solid #c1c1c1; margin: 10px 25px; padding: 0px; resize: none;" >
-    </textarea>
-  </div>
-  </div>
-</noscript>
-</div>
-  <p>
-    <button type="submit">Send</button>
-  </p>
-</form>
+        <div class="contact-container">        
+          {{ if .Params.netlify }}
+<!--             <form name="contact" method="POST" action="thank-you" data-netlify-recaptcha="true" data-netlify="true" center width="300px"> -->
+            <form name="contact" action="https://formspree.io/f/xzbkrgey" method="POST">
+          {{ else }}
+            <form id="contact" action="//{{ .Params.emailService }}" method="post" center width="300px">
+          {{ end }}
+          <h4>{{ i18n "contact_replies" .Params.contactanswertime }}</h4>
+          <fieldset>
+            <input placeholder="{{ i18n "form_name" }}" type="text" name="name" tabindex="1" required autofocus>
+          </fieldset>
+    		<p>
+    		<label>Your Role? <select name="role[]" >
+      		<option value="General public">General Public</option>
+      		<option value="Doctors nurses scientists dentists">Doctors, nurses, scientists, dentists etc</option>
+      		<option value="Holistic health practitioners">Holistic health practitioners etc</option>
+    		</select></label>
+  			</p>
+          <fieldset>
+            <input type="hidden" name="_language" value="{{ .Lang }}">
+          </fieldset>
+          <fieldset>
+            <div data-netlify-recaptcha="false"></div>
+            <button name="submit" class="button" type="submit" id="contact-submit" tabindex="5">{{ i18n "submit" }}</button>
+          </fieldset>
+        </form>
       </div>
     </div>
   </article>
