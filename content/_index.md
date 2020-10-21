@@ -500,6 +500,6 @@ Last update 21.10.2020
 
 ### Total signatures so far: 18736
 
-**Website data:**
+**Website data:**  
 Total pageviews: 317,609  
 Total unique visitors: 159,023  
