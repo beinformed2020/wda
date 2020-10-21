@@ -42,7 +42,7 @@
   target="popupwindow"
   onsubmit="window.open('https://buttondown.email/wda', 'popupwindow')"
   class="embeddable-buttondown-form">
-  <label for="bd-email"><h2>Sign-up to our mailing-list: Enter your email</h2></label>
+  <label for="bd-email"><h3>Sign-up to our mailing-list: Enter your email</h3></label>
   <input type="email" name="email" id="bd-email"></input>
   <input type="hidden" value="1" name="embed"></input>
   <input type="submit" value="Subscribe"></input>

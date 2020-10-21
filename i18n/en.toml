@@ -16,10 +16,10 @@
 [about]
   other = "About"
 [contact]
-  other = "Contact"
+  other = "Sign the letter"
 [contact_replies]
   one = "Replies typically within 1 hour."
-  other = "Replies typically within {{ .Count }} hours."
+  other = "Signature count is updated on the website typically within {{ .Count }} hours."
 [blog]
   other = "Blog"
 [categories]

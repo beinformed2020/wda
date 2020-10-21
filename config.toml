@@ -95,7 +95,7 @@ disableLanguages        = []
 
 
   [[menu.main]]
-    name              = "Contact"
+    name              = "Sign up"
     identifier        = "contact"
     url               = "/contact/"
     pre               = "<i class='far fa-envelope'></i>"
