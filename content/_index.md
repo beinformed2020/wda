@@ -498,8 +498,8 @@ NB the term ‘covid’ has been used to represent Sars-CoV-2 and Covid-19
 **Updated daily.**  
 Last update 21.10.2020
 
-### Total signatures so far: 18736
+### Total signatures so far: 20,719
 
-**Website data since launch:**  
-Total pageviews: 317,609  
-Total unique visitors: 159,023  
+**Website data since launch (10.10.2020):**  
+Total pageviews: 357,801  
+Total unique visitors: 176,709  

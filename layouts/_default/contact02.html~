@@ -30,7 +30,7 @@
             <input type="hidden" name="_language" value="{{ .Lang }}">
           </fieldset>
           <fieldset>
-            <div data-netlify-recaptcha="true"></div>
+            <div data-netlify-recaptcha="false"></div>
             <button name="submit" class="button" type="submit" id="contact-submit" tabindex="5">{{ i18n "submit" }}</button>
           </fieldset>
         </form>
