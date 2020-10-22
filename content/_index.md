@@ -496,9 +496,13 @@ NB the term ‘covid’ has been used to represent Sars-CoV-2 and Covid-19
 6. DR. SCOTT JENSEN, M.D
 
 **Updated daily.**  
-Last update 21.10.2020
+Last update 22.10.2020
 
-### Total signatures so far: 20,719
+### Total signatures so far: 20,831
+
+**General public: 17,986**  
+**Doctors, nurses, scientists, dentists, etc: 1,254**  
+**Holistic health practitioners: 1,591**  
 
 **Website data since launch (10.10.2020):**  
 Total pageviews: 357,801  
