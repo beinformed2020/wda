@@ -40,4 +40,9 @@
     </menu>
   {{ end }}
 </header>
-
+  <div class="rss">
+  {{ with .OutputFormats.Get "rss" -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+{{ end -}}
+</div>
+<div><link rel="alternate" type="application/rss+xml" href="https://worlddoctorsalliance.com/index.xml" title="Site Title"></div>
