@@ -55,7 +55,7 @@ a.here-button:hover{
   width: 100%;
   display: flex;
   flex-wrap: wrap;
-    padding: 6px;
+    padding: 12px;
     color: #fff;
     font-weight: bolder;
     border-radius: 6px;
@@ -63,10 +63,7 @@ a.here-button:hover{
     background-color:#434faa;
     align-content: center;
 }
-#xmailing-list{
 
-  align-content: center;
-}
 .smaller-text{font-size:0.6em;
 }
 .white-text{
@@ -87,6 +84,7 @@ a.here-button:hover{
 input[type=submit], input[type=reset], input[type=button], .button {
     background-color: #434faa;
     border: 1px solid rgba(161,161,161,.3);
+    border-radius: 6px;
     color: #fff;
     cursor: pointer;
     display: inline-block;
