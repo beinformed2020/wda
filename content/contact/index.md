@@ -6,10 +6,7 @@ emailservice = "formspree.io/example@email.com"
 contactanswertime = 24
 
 +++
-
-{{< rawhtml >}}
-
-<form id="my-form"
+{{< rawhtml >}}<form id="my-form"
   action="https://formspree.io/f/xzbkrgey"
   method="POST"
 >
@@ -22,6 +19,23 @@ contactanswertime = 24
     </select></label>
   <button id="my-form-button">Submit</button>
   <p id="my-form-status"></p>
+</form>{{< /rawhtml >}}
+{{< rawhtml >}}
+
+<h2>Sign-up for our mailing list</h2>
+{{< /rawhtml >}}
+{{< rawhtml >}}
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/wda"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/wda', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email"></input>
+  <input type="hidden" value="1" name="embed"></input>
+  <input type="submit" value="Subscribe"></input>
 </form>{{< /rawhtml >}}
 
 <!-- FORMSPREE: Place this script at the end of the body tag -->
