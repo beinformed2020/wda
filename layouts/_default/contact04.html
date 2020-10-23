@@ -12,12 +12,34 @@
 
 <form name="contact" action="https://formspree.io/f/mzbkebdd"
   method="POST">
-  
-  <form action="https://formspree.io/f/mzbkebdd" method="POST">
-  <input type="text" name="name">
-  <input type="submit" value="Send">
-</form>
-
+  <p>
+    <label>Your Name: <input type="text" name="name" /></label>   
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+       <p>
+    <label>Add your name to our open letter? <select name="sign[]" >
+      <option value="yesplease">Yes, please</option>
+      <option value="nothanks">No, thanks</option>
+    </select></label>
+  </p>
+    <p>
+    <label>Your Role? <select name="role[]" >
+      <option value="General public">General Public</option>
+      <option value="Doctors nurses scientists dentists">Doctors, nurses, scientists, dentists, etc</option>
+      <option value="Holistic health practitioners">Holistic health practitioners</option>
+    </select></label>
+  </p>
+    <p>
+    <label>Sign-up to our mailing list? <select name="mailinglist[]" >
+      <option value="yesplease">Yes, please</option>
+      <option value="nothanks">No, thanks</option>
+    </select></label>
+  </p>
+  <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
 <div class='g-recaptcha' data-sitekey='6LdAvUIUAAAAAHjrjmjtNTcXyKm0WKwefLp-dQv9'></div>
 <noscript>
   <div>
@@ -36,6 +58,9 @@
   </div>
 </noscript>
 </div>
+  <p>
+    <button type="submit">Send</button>
+  </p>
 </form>
       </div>
     </div>
