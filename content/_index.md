@@ -496,7 +496,7 @@ NB the term ‘covid’ has been used to represent Sars-CoV-2 and Covid-19
 6. DR. SCOTT JENSEN, M.D
 
 **Updated daily.**  
-Last update 22.10.2020
+Last update 23.10.2020
 
 ### Total signatures so far: 22,208
 
