@@ -15,7 +15,15 @@ draft = false
 
 {{< rawhtml >}}<p style="text-align:center"><a href="/contact" class="here-button">SIGN OUR OPEN LETTER: CLICK HERE</a></p>{{< /rawhtml >}}
 
-#### Introduction
+### Total signatures so far: 22,208
+
+**General public: 19,208  
+Doctors, nurses, scientists, dentists, etc: 1,336**  
+**Holistic health practitioners: 1,664**  
+
+
+
+### Introduction  
 
 We were told initially that the premise for lockdown was to ‘flatten the curve’ and therefore protect the NHS from being overwhelmed.   
 

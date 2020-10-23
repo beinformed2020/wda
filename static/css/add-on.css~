@@ -87,7 +87,6 @@ a.here-button:hover{
 input[type=submit], input[type=reset], input[type=button], .button {
     background-color: #434faa;
     border: 1px solid rgba(161,161,161,.3);
-    border-radius: 6px;
     color: #fff;
     cursor: pointer;
     display: inline-block;

@@ -10,25 +10,49 @@
         </header>
         
               <header>
-       <h4 style="text-align:center">Sign up for our mailing list</h4>
-       <form
-  action="https://buttondown.email/api/emails/embed-subscribe/wda"
-  method="post"
-  target="popupwindow"
-  onsubmit="window.open('https://buttondown.email/wda', 'popupwindow')"
-  class="embeddable-buttondown-form">
-  <label for="bd-email">Enter your email</label>
-  <input type="email" name="email" id="bd-email"></input>
-  <input type="hidden" value="1" name="embed"></input>
-  <input type="submit" value="Subscribe"></input>
-</form>
+       <h4 style="text-align:center"><a href="/contact" class="here-button">Sign our open letter: CLICK HERE</a></h4>
       </header>
       
+          <section id="recent-posts">
+      <header>
+        <h1 style="text-align:center">{{ i18n "recent_posts" }}</h1>
+      </header>
+      {{ range first (.Site.Params.sidebar.postAmount | default 5) (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+      <article class="mini-post">
+        <section>
+          {{ .Render "featured" }}
+        </section>
         <header>
-          <p>YOUR EMAIL ADDRESS AND PERSONAL DETAILS ARE STRICTLY CONFIDENTIAL FOR OUR MAILING LIST ONLY AND WILL NOT BE SHARED WITH ANY THIRD PARTY UNDER ANY CIRCUMSTANCES.</p>
-          <p>THIS SITE IS SECURE.</p>
-          <p>YOUR INDEPENDENT OPINION IS OF VITAL INCLUSION AT THIS CRITICAL TIME IN MEDICAL HISTORY.</p>
-          <p><a href="../../content/contact">CONTACT US PRIVATELY AND SECURELY.</a></p>
+          <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+          <time class="published" datetime="">{{ default (i18n "date_format") | .Date.Format }}</time>
+        </header>
+      </article>
+      {{ end }}
+      {{ if ge (len (where site.RegularPages "Type" "in" site.Params.mainSections)) (.Site.Params.sidebar.postAmount | default 5) }}
+        <footer>
+          <a href="{{ with .Site.Params.viewMorePostsLink }}{{ . | relLangURL }}{{ else }}{{ "post" | relLangURL }}{{ end }}" class="button">{{ i18n "see_more" }}</a>
+        </footer>
+      {{ end }}
+    </section>
+ 
+			 <div id="mailing-list"><h2 style="color:white;text-align:center">Mailing list sign-up</h2>
+			<form
+			  action="https://buttondown.email/api/emails/embed-subscribe/wda"
+			  method="post"
+			  target="popupwindow"
+			  onsubmit="window.open('https://buttondown.email/wda', 'popupwindow')"
+			  class="embeddable-buttondown-form">
+			  <label class="signup-text-input" for="bd-email">Enter your email:</label>
+			  <input class="signup-text-input-field" type="email" name="email" id="bd-email"></input>
+			  <input type="hidden" value="1" name="embed"></input>
+			  <input class="signup-text-input-submit" type="submit" value="Subscribe"></input>
+			</form>
+			</div>
+     
+        <header>
+          <p class="smaller-text">YOUR EMAIL ADDRESS AND PERSONAL DETAILS ARE STRICTLY CONFIDENTIAL FOR OUR USE ONLY AND WILL NOT BE SHARED WITH ANY THIRD PARTY UNDER ANY CIRCUMSTANCES.</p>
+          <p class="smaller-text">THIS SITE IS SECURE.</p>
+          <p class="smaller-text">YOUR INDEPENDENT OPINION IS OF VITAL INCLUSION AT THIS CRITICAL TIME IN MEDICAL HISTORY.</p>
         </header>
     
 <!--              <header>
