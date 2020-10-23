@@ -498,12 +498,12 @@ NB the term ‘covid’ has been used to represent Sars-CoV-2 and Covid-19
 **Updated daily.**  
 Last update 22.10.2020
 
-### Total signatures so far: 20,831
+### Total signatures so far: 22,208
 
-**General public: 17,986**  
-**Doctors, nurses, scientists, dentists, etc: 1,254**  
-**Holistic health practitioners: 1,591**  
+**General public: 19,208  
+Doctors, nurses, scientists, dentists, etc: 1,336**  
+**Holistic health practitioners: 1,664**  
 
 **Website data since launch (10.10.2020):**  
-Total pageviews: 357,801  
-Total unique visitors: 176,709  
+Total pageviews: 390,258  
+Total unique visitors: 190,192  
