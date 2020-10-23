@@ -7,13 +7,7 @@ contactanswertime = 24
 
 +++
 
-## We are testing a new form system.  
-It won't take long.  
-Please come back soon.  
-
-
-
-{{< rawhtml >}}<p style="text-align:center"><a href="/contact" class="here-button">SIGN OUR OPEN LETTER: CLICK HERE</a></p>
+{{< rawhtml >}}
 
 <form id="my-form"
   action="https://formspree.io/f/xzbkrgey"
