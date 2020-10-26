@@ -26,7 +26,7 @@ disableLanguages        = []
   hideEmptyStats        = false
 
   [params.meta]
-    description         = "WELCOME TO THE WORLD DOCTORS ALLIANCE"
+    description         = "Doctors uniting around the world with integrity and right action."
     author              = "WORLD DOCTORS ALLIANCE"
     favicon             = false
     svg                 = true
