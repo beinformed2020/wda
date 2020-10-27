@@ -43,7 +43,7 @@ disableLanguages        = []
 
   [params.intro]
     header                = "WORLD DOCTORS ALLIANCE"
-    paragraph             = "Uniting around the world with integrity and right action."
+    paragraph             = "Doctors uniting around the world with integrity and right action."
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = false
