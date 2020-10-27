@@ -9,7 +9,7 @@ draft = false
 
 ![WDA - Who we are.](/img/main/whoarewe.jpg#center)
 
-## Open letter to the UK Government, Governments of the World and the Citizens of the World
+## Open letter to all the Citizens of the World and all the Governments of the World.
 
 [Download PDF version here](ims/WDAOpenLetter.pdf)
 

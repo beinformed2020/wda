@@ -4,7 +4,7 @@ baseurl                 = "https://www.worlddoctorsalliance.com"
 DefaultContentLanguage  = "en"
 title                   = "World Doctors Alliance"
 theme                   = "hugo-future-imperfect-slim"
-paginate                = 12
+paginate                = 48
 pluralizeListTitles     = false
 disableLanguages        = []
 
