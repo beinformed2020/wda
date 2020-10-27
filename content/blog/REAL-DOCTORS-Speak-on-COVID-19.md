@@ -4,7 +4,7 @@ categories: ["Video"]
 tags: ["Covid", "Medical"]
 date: 2020-10-23T19:23:44+01:00
 description: ""
-title: "REAL DOCTORS Speak on COVID 19"
+title: "US DOCTORS Speak on COVID 19"
 draft: false
 ---
 
