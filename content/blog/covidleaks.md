@@ -1,6 +1,6 @@
 ---
 author: "World Doctors Alliance"
-categories: [""]
+categories: ["Website"]
 tags: [""]
 date: 2020-10-12T17:33:18+01:00
 description: ""

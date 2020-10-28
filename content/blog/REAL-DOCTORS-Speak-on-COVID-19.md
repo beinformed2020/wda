@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
-categories: ["Video"]
-tags: ["Covid", "Medical"]
+categories: ["Other videos"]
+tags: [""]
 date: 2020-10-23T19:23:44+01:00
 description: ""
 title: "US DOCTORS Speak on COVID 19"

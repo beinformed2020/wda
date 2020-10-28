@@ -1,6 +1,6 @@
 ---
 author: "World Doctors Alliance"
-categories: [""]
+categories: ["WDA videos"]
 tags: [""]
 date: 2020-10-14T09:23:11+01:00
 description: ""

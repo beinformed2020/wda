@@ -1,7 +1,7 @@
 ---
 author: "World Doctors Alliance"
-categories: [""]
-tags: [""]
+categories: ["Other videos"]
+tags: ["Legal"]
 date: 2020-10-17T14:01:09+01:00
 description: ""
 title: "Crimes Against Humanity the German Corona Investigation"
@@ -75,4 +75,4 @@ draft: false
 
 
 
-[VIDEO HERE](https://youtu.be/kr04gHbP5MQ)
+[VIDEO HERE](https://www.bitchute.com/video/jTscA64Rcoko/)

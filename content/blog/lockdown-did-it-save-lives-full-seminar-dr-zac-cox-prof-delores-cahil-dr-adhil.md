@@ -1,7 +1,7 @@
 ---
 author: "World Doctors Alliance"
-categories: [""]
-tags: [""]
+categories: ["WDA videos"]
+tags: ["Lockdowns"]
 date: 2020-09-30T18:27:06+01:00
 description: ""
 title: "Lockdown: Did It Save Lives? WDA Seminar End Discussion"

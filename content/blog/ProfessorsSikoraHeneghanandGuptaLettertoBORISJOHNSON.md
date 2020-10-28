@@ -3,7 +3,7 @@
 
 
 author: "World Doctors Alliance"
-categories: [""]
+categories: ["Open letters"]
 tags: [""]
 date: 2020-10-01T13:46:56+01:00
 description: ""
