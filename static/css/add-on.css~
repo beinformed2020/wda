@@ -119,3 +119,15 @@ background-color: white;;
     -ms-word-break: break-word;
     word-break: break-word;
 }
+	.post footer .button {
+
+    display: none;
+}
+.post footer {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    flex-direction: column;
+    display: block;
+}
