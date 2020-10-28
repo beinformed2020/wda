@@ -1,0 +1,8 @@
+{{ define "main" }}
+  <div id="take-action-intro">{{ .Content }}</div>
+  {{ $paginator := .Paginate (.Pages) }}
+  {{ range $paginator.Pages }}
+    {{ .Render "content-list" }}
+  {{ end }}
+  {{ partial "pagination" . }}
+{{ end }}

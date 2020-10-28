@@ -1,4 +1,7 @@
-{{ define "main" }}
+      <header>
+       <h4 style="text-align:center"><a href="/categories" class="here-button">See news by category</a></h4>
+      </header>
+      {{ define "main" }}
   <ul class="data-post">
     <header>
       <h1>{{ i18n .Data.Plural }}</h1>

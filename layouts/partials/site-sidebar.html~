@@ -53,20 +53,7 @@
           <p class="smaller-text">YOUR EMAIL ADDRESS AND PERSONAL DETAILS ARE STRICTLY CONFIDENTIAL FOR OUR USE ONLY AND WILL NOT BE SHARED WITH ANY THIRD PARTY UNDER ANY CIRCUMSTANCES.</p>
           <p class="smaller-text">THIS SITE IS SECURE.</p>
           <p class="smaller-text">YOUR INDEPENDENT OPINION IS OF VITAL INCLUSION AT THIS CRITICAL TIME IN MEDICAL HISTORY.</p>
-        </header>
-    
-<!--              <header>
-       <h4 style="text-align:center">Download Event Poster</h4>
-       <p>REGISTER YOUR INTEREST TO JOIN THIS INITIAL PRIVATE VIEWING ON BRANDNEWTUBE AND JOIN OUR MAILING LIST.</p>
-      </header>
-        <header>
-          <h5 style="text-align:center">Form Here</h5>
-          <p>YOUR EMAIL ADDRESS AND PERSONAL DETAILS ARE STRICTLY CONFIDENTIAL FOR OUR MAILING LIST ONLY AND WILL NOT BE SHARED WITH ANY THIRD PARTY UNDER ANY CIRCUMSTANCES.</p>
-          <p>THIS SITE IS SECURE</p>
-          <p>INTEREST IN THIS CONFERENCE WILL NOT ALLY YOU WITH ANY CONTENT DISCUSSED.</p>
-          <p>YOUR INDEPENDENT OPINION IS OF VITAL INCLUSION AT THIS CRITICAL TIME IN MEDICAL HISTORY.</p>
-          <p>CONTACT US PRIVATELY AND SECURELY.</p>
-        </header>  -->  
+        </header> 
       {{ end }}
     </section>
 

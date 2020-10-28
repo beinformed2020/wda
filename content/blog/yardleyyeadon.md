@@ -1,7 +1,7 @@
 ---
 author: "World Doctors Alliance"
 categories: ["Articles"]
-tags: [""]
+tags: ["Herd Immunity", "SAGE"]
 date: 2020-10-23T16:08:53+01:00
 description: ""
 title: "U.K. is over the herd immunity threshold: Dr. Michael Yeadon"

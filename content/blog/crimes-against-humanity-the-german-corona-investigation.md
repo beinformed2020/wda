@@ -1,7 +1,7 @@
 ---
 author: "World Doctors Alliance"
 categories: ["Other videos"]
-tags: ["Legal"]
+tags: ["Legal", "ACU", "German Corona Investigative Committee"]
 date: 2020-10-17T14:01:09+01:00
 description: ""
 title: "Crimes Against Humanity the German Corona Investigation"
