@@ -1,5 +1,5 @@
 <ul class="stats">
-  <li class="posts">
+  <li class="post">
     <ul>
     {{ if isset .Params "categories" }}
       {{ if gt (len .Params.categories) 0 }}
