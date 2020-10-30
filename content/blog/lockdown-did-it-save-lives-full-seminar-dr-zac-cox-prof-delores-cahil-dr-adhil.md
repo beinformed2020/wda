@@ -12,7 +12,7 @@ SEMINAR END DISCUSSION ready to watch and share https://brandnewtube.com/v/Lsyuo
 
 DR ZAC COX, PROF DOLORES CAHIL, DR ADHI
 
-![International Congress](ims/End-Discussion.jpeg)
+![International Congress](/img/main/End-Discussion.jpeg)
 
 
 

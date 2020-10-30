@@ -1,7 +1,7 @@
 ---
 author: "World Doctors Alliance"
 categories: ["WDA videos"]
-tags: ["Lockdowns"]
+tags: ["Lockdowns", "Scott Jenson"]
 date: 2020-10-01T13:37:55+01:00
 description: ""
 title: "Lockdown Did It Save Lives? Seminar Dr Scott Jenson"

@@ -1,7 +1,7 @@
 ---
 author: "World Doctors Alliance"
 categories: ["Other videos"]
-tags: ["Legal", "ACU"]
+tags: ["Legal", "ACU", "Reiner Fuellmich"]
 date: 2020-10-17T16:22:23+01:00
 description: ""
 title: "Money Talks Update: Dr. Reiner Fuellmich"

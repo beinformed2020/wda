@@ -1,7 +1,7 @@
 ---
 author: "World Doctors Alliance"
 categories: ["WDA videos"]
-tags: [""]
+tags: ["Elke De Klerk"]
 date: 2020-10-17T13:55:20+01:00
 description: ""
 title: "Wda Berlin 10 10 20 Elke De Klerk"
