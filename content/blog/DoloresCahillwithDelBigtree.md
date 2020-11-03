@@ -4,7 +4,7 @@ categories: ["Video"]
 tags: ["Covid", "Delores Cahill"]
 date: 2020-11-02T15:42:14Z
 description: ""
-title: "Professor Dolores Cahill discusses the Covid 19 hoax with Del Bigtree."
+title: "Professor Dolores Cahill discusses Covid 19 with Del Bigtree."
 draft: false
 ---
 
