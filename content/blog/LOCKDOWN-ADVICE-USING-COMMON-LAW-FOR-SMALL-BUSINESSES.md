@@ -5,7 +5,7 @@ tags: ["Legal", "Common Law"]
 date: 2020-11-03T16:33:43Z
 description: ""
 title: "LOCKDOWN ADVICE USING COMMON LAW for SMALL BUSINESSES"
-draft: false
+draft: true
 ---
 
 **WRITE TO GOVERNMENT thus:**
