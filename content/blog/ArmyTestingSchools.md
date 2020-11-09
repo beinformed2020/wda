@@ -5,7 +5,7 @@ tags: [""]
 date: 2020-11-07T18:43:49Z
 description: ""
 title: "British Army to Begin Testing Children Without Parental Consent."
-draft: true
+draft: false
 ---
 
 **Liverpool school will also be “barcoding” individuals, and “securing” them should they test positive**
