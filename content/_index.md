@@ -15,7 +15,7 @@ draft = false
 
 {{< rawhtml >}}<p style="text-align:center"><a href="/contact" class="here-button">SIGN OUR OPEN LETTER: CLICK HERE</a></p>{{< /rawhtml >}}
 
-Data updated daily.**  
+**Data updated daily.**  
 Last update 10.11.2020
 
 ### Total signatures so far: 41,888
