@@ -17,9 +17,14 @@
     font-weight: bolder;
 }
 .center {
+    width: auto;
   display: block;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
+}
+.no-border{
+    border: none;
 }
 .flyout-menu {
     background-color: #00a39b;
@@ -63,7 +68,9 @@ a.here-button:hover{
     background-color:#434faa;
     align-content: center;
 }
-
+#telegram{
+    padding: 1em;
+}
 .smaller-text{font-size:0.6em;
 }
 .white-text{
