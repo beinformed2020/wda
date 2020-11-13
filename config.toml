@@ -50,7 +50,7 @@ disableLanguages        = []
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "img/main/logo.jpg"
+      src                 = "img/main/logo.png"
       shape               = "rectangle"
       width               = "184px"
       alt                 = "WORLD DOCTORS ALLIANCE"
