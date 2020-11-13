@@ -1,6 +1,6 @@
 ---
 author: "World Doctors Alliance"
-categories: ["Other Video"]
+categories: ["Other videos"]
 tags: ["Covid", "Vaccines", "Masks"]
 date: 2020-11-09T20:30:04Z
 description: ""

@@ -1,6 +1,6 @@
 ---
 author: "World Doctors Alliance"
-categories: ["Other Video"]
+categories: ["Other videos"]
 tags: ["Covid", "Medical", "Censorship"]
 date: 2020-11-10T10:01:11Z
 description: ""

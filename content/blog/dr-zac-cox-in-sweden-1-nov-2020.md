@@ -1,6 +1,6 @@
 ---
 author: "World Doctors Alliance"
-categories: ["Video"]
+categories: ["WDA videos"]
 tags: ["Lockdowns"]
 date: 2020-11-02T15:44:40Z
 description: ""

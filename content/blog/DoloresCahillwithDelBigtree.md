@@ -1,6 +1,6 @@
 ---
 author: "World Doctors Alliance"
-categories: ["Video"]
+categories: ["Other videos"]
 tags: ["Covid", "Delores Cahill"]
 date: 2020-11-02T15:42:14Z
 description: ""
