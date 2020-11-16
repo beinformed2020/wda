@@ -15,9 +15,14 @@ draft = false
 
 {{< rawhtml >}}<p style="text-align:center"><a href="/contact" class="here-button">SIGN OUR OPEN LETTER: CLICK HERE</a></p>{{< /rawhtml >}}
 
+**Data updated daily.**  
 Last update 16.11.2020
 
 ### Total signatures so far: 44,151
+
+**Website data since launch (10.10.2020):**  
+Total pageviews: 925,239  
+Total unique visitors: 374,665   
 
 ### Introduction  
 
@@ -500,6 +505,10 @@ NB the term ‘covid’ has been used to represent Sars-CoV-2 and Covid-19
 6. DR. SCOTT JENSEN, M.D
 
 **Data updated daily.**  
-Last update 16.11.2020
+Last update 14.11.2020
 
-### Total signatures so far: 44,151
+### Total signatures so far: 43,488
+
+**Website data since launch (10.10.2020):**  
+Total pageviews: 926,503  
+Total unique visitors: 374,665     
