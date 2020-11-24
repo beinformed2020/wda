@@ -4,13 +4,12 @@ categories: ["Articles"]
 tags: ["Medical", "British Medical Journal"]
 date: 2020-11-14T15:47:43Z
 description: ""
-title: "When Good Science Is Suppressed"
+title: "When Good Science Is Suppressed: Kamran Abbasi, executive editor, British Medical Journal."
 draft: false
 ---
 
-**When good science is suppressed by the medical-political complex, people die**  
-
-By Kamran Abbasi, executive editor British Medical Journal
+**When good science is suppressed by the medical-political complex, people die.**  
+By **Kamran Abbasi**, executive editor **British Medical Journal**
 
 > Politicians and governments are suppressing science. They do so in the public interest, they say, to accelerate availability of  diagnostics and treatments. They do so to support innovation, to bring  products to market at unprecedented speed. Both of these reasons are  partly plausible; the greatest deceptions are founded in a grain of  truth. But the underlying behaviour is troubling.
 >
