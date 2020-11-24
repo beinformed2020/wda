@@ -4,11 +4,11 @@ categories: ["Other videos"]
 tags: ["Masks","Testing"]
 date: 2020-11-18T19:57:40Z
 description: ""
-title: "Dr. Roger Hodkinson, Chairman of the Royal College of Physicians and Surgeons: "
+title: "Dr. Roger Hodkinson, Fellow of the Royal College of Physicians and Surgeons: "
 draft: false
 ---
 
-**Dr. Roger Hodkinson, Chairman of the Royal College of Physicians and  Surgeons committee in Ottawa, CEO of a large private medical laboratory  in Edmonton, Alberta and Chairman of a Medical Biotechnology company  SELLING THE COVID-19 TEST:**    
+**Dr. Roger Hodkinson, Fellow of the Royal College of Physicians and  Surgeons committee in Ottawa, CEO of a large private medical laboratory  in Edmonton, Alberta and Chairman of a Medical Biotechnology company  SELLING THE COVID-19 TEST:**    
 
 "There is utterly unfounded public hysteria driven by the media and politicians. This is the biggest hoax  ever perpetrated on an unsuspected public. There is absolutely nothing  that can be done to contain this virus. This is nothing more than a bad  flu season. It's politics playing medicine and that's a very dangerous  game.    
 
