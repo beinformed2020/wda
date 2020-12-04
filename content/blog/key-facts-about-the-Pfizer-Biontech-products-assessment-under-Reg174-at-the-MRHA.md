@@ -1,6 +1,6 @@
 ---
 author: "World Doctors Alliance"
-categories: ["Article"]
+categories: ["Articles"]
 tags: ["Vaccines"]
 date: 2020-12-04T13:44:37Z
 description: ""

@@ -1,7 +1,7 @@
 ---
 author: "World Doctors Alliance"
-categories: [""]
-tags: [""]
+categories: ["Articles"]
+tags: ["Mike Yeadon"]
 date: 2020-12-03T12:14:20Z
 description: ""
 title: "Dr Wodarg and Dr Yeadon Request a Stop of All Corona Vaccination Studies Call to Sign the Petition"

@@ -1,6 +1,6 @@
 ---
 author: "World Doctors Alliance"
-categories: ["Artciles"]
+categories: ["Articles"]
 tags: ["BMJ", "Vaccines"]
 date: 2020-12-04T15:37:39Z
 description: ""
