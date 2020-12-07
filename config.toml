@@ -100,7 +100,14 @@ disableLanguages        = []
     url               = "/contact/"
     pre               = "<i class='far fa-envelope'></i>"
     weight            = 6
-
+    
+   [[menu.main]]
+    name              = "Telegram"
+    identifier        = "Telegram"
+    url               = "https://t.me/worlddoctorsalliance"
+    pre               = "<i class='fab fa-telegram-plane'></i>"
+    weight            = 6
+    
 [Languages]
 
   [Languages.en]

@@ -31,7 +31,12 @@
     {{ if .Site.Params.header.languageMenu }}<a href="#lang-menu" class="nav lang-toggle" lang="{{ .Site.Language.Lang }}">{{ .Site.Language.Lang }}</a>{{ end }}
     <a href="#site-nav" class="nav nav-toggle"><i class="fas fa-bars fa-2x"></i></a>
     
-    </nav>
+            <menu id="" class="">
+      <a class="no-border" href="https://t.me/worlddoctorsalliance"><img src="/img/main/telegram-logo.png" alt="Telegram Logo" style="width:36px;height:36px;">
+           </a> 
+    </menu>
+    
+  </nav>
   {{ if .Site.Params.header.searchMenu }}<menu id="search" class="menu"><input id="search-input" class="search-input menu"></input><div id="search-results" class="search-results menu"></div></menu>{{ end }}
   {{ if .Site.Params.header.languageMenu }}{{ partial "language-menu" . }}{{ end }}
   {{ if .Site.Params.header.shareMenu }}
