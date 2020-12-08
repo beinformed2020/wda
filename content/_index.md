@@ -15,13 +15,13 @@ draft = false
 
 {{< rawhtml >}}<p style="text-align:center"><a href="/contact" class="here-button">SIGN OUR OPEN LETTER: CLICK HERE</a></p>{{< /rawhtml >}}
 
-Last update 06.12.2020
+Last update 08.12.2020
 
-### Total signatures so far: 55,295
+### Total signatures so far: 55,801
 
 **Website data last 30 days:**  
-Total pageviews: 901,871  
-Total unique visitors: 222,563       
+Total pageviews: 914,775  
+Total unique visitors: 225,358       
 
 ### Introduction  
 
@@ -211,12 +211,12 @@ There has been a catalogue of unscientific, non-sensical policies enacted which 
 
 #### Censorship
 
-- Government have acted maliciously in censoring doctors, nurses and NHS staff. The people have the perfect right to hear what is going on in hospitals, and the medical profession have a duty to look after the public and to reassure them. (1)
+- Governments have acted maliciously in censoring doctors, nurses and NHS staff. The people have the perfect right to hear what is going on in hospitals, and the medical profession have a duty to look after the public and to reassure them. (1)
 
 
 
 
-- The medical profession have not been allowed to let the public know that covid wards have been empty for months, nor that covid deaths have reached an all-time low for months, and this has unnecessarily added to the public’s distress and anxiety.
+- The medical profession has not been allowed to let the public know that covid wards have been empty for months, nor that covid deaths have reached an all-time low for months, and this has unnecessarily added to the public’s distress and anxiety.
 
 
 
@@ -503,10 +503,10 @@ NB the term ‘covid’ has been used to represent Sars-CoV-2 and Covid-19
 5. DR. ANDREW KAUFMAN, M.D
 6. DR. SCOTT JENSEN, M.D
 
-Last update 06.12.2020
+Last update 08.12.2020
 
-### Total signatures so far: 55,295
+### Total signatures so far: 55,801
 
 **Website data last 30 days:**  
-Total pageviews: 901,871  
-Total unique visitors: 222,563    
+Total pageviews: 914,775  
+Total unique visitors: 225,358    
