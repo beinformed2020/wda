@@ -18,3 +18,4 @@ draft: false
 - No pre-existing condition: England – 4169
 - No pre-existing condition: Wales – 294
 
+With thanks to the WDA supporter who supplied this information.
