@@ -6,6 +6,8 @@ emailservice = "formspree.io/example@email.com"
 contactanswertime = 24
 
 +++
+[**Please find the letter on the frontpage of this website**.](https://worlddoctorsalliance.com/)
+
 {{< rawhtml >}}<form id="ajaxForm"
   action="https://getform.io/f/72e0967f-e3ae-46a6-9c11-5da244f57f67"
   method="POST"
