@@ -51,9 +51,9 @@ As a holistic dentist he combines the knowledge and findings of traditional dent
 
 ===========================================================================
 
-### Dr. Heiko Schöning, M.D.
+### Heiko Schöning, M.D.   
 
-Managing Director at MedCooling GmbH  
+Founder of The COVID-19 Extra-Parliamentary Inquiry Committee ([www.acu2020.org](http://www.acu2020.org))   
 
 ![Dr. Heiko Schöning](ims/HeikoSchöning.jpeg#center)
 
