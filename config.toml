@@ -154,6 +154,7 @@ disableLanguages        = []
       url               = "/contact/"
       pre               = "<i class='far fa-envelope'></i>"
       weight            = 6
+      
     [[Languages.es.menu.main]]
       name              = "Telegram"
       identifier        = "Telegram"
@@ -181,6 +182,7 @@ disableLanguages        = []
       url               = "/contact/"
       pre               = "<i class='far fa-envelope'></i>"
       weight            = 6
+      
     [[Languages.de.menu.main]]
     name              = "Telegram"
     identifier        = "Telegram"
