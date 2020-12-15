@@ -77,7 +77,33 @@ disableLanguages        = []
       siteKey           = ""
       encryptedKey      = ""
 
-[menu]
+  [Languages]
+
+  [Languages.en]
+    LanguageCode        = "en"
+    LanguageName        = "English"
+    title               = "World Doctors Alliance"
+    description         = "Uniting around the world with integrity and right action."
+    weight              = 1
+    contentDir          = "content/english"
+            
+  [Languages.es]
+    LanguageCode        = "es"
+    LanguageName        = "Español"
+    title               = "ALIANZA MUNDIAL DE MÉDICOS"
+    description         = "Uniéndose en todo el mundo con la integridad y la acción correcta."
+    weight              = 2
+    contentDir          = "content/spanish"
+    
+   [Languages.de]
+     LanguageCode        = "de"
+     LanguageName        = "Deutsche"
+     title               = "WELTÄRZTEALLIANZ"
+     description         = "Weltweit vereint mit Integrität und richtigem Handeln."
+     weight              = 3
+     contentDir          = "content/german"
+     
+  [menu]
 
   [[menu.main]]
     name              = "News"
@@ -107,32 +133,6 @@ disableLanguages        = []
     url               = "https://t.me/worlddoctorsalliance"
     pre               = "<i class='fab fa-telegram-plane'></i>"
     weight            = 8
-    
-[Languages]
-
-  [Languages.en]
-    LanguageCode        = "en"
-    LanguageName        = "English"
-    title               = "World Doctors Alliance"
-    description         = "Uniting around the world with integrity and right action."
-    weight              = 1
-    contentDir          = "content/english"
-            
-  [Languages.es]
-    LanguageCode        = "es"
-    LanguageName        = "Español"
-    title               = "ALIANZA MUNDIAL DE MÉDICOS"
-    description         = "Uniéndose en todo el mundo con la integridad y la acción correcta."
-    weight              = 2
-    contentDir          = "content/spanish"
-    
-   [Languages.de]
-     LanguageCode        = "de"
-     LanguageName        = "Deutsche"
-     title               = "WELTÄRZTEALLIANZ"
-     description         = "Weltweit vereint mit Integrität und richtigem Handeln."
-     weight              = 3
-     contentDir          = "content/german"
 
    [[Languages.es.menu.main]]
       name              = "Sobre nos"
