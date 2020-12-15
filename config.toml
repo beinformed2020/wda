@@ -153,7 +153,7 @@ disableLanguages        = []
       pre               = "<i class='fab fa-telegram-plane'></i>"
       weight            = 8
 
-          [Languages.de]
+  [Languages.de]
     LanguageCode        = "de"
     LanguageName        = "Deutsche"
     title               = "WELTÄRZTEALLIANZ"
