@@ -125,6 +125,14 @@ disableLanguages        = []
     description         = "Uniéndose en todo el mundo con la integridad y la acción correcta."
     weight              = 2
     contentDir          = "content/spanish"
+    
+   [Languages.de]
+     LanguageCode        = "de"
+     LanguageName        = "Deutsche"
+     title               = "WELTÄRZTEALLIANZ"
+     description         = "Weltweit vereint mit Integrität und richtigem Handeln."
+     weight              = 3
+     contentDir          = "content/german"
 
    [[Languages.es.menu.main]]
       name              = "Sobre nos"
@@ -152,14 +160,6 @@ disableLanguages        = []
       url               = "https://t.me/worlddoctorsalliance"
       pre               = "<i class='fab fa-telegram-plane'></i>"
       weight            = 8
-
-  [Languages.de]
-    LanguageCode        = "de"
-    LanguageName        = "Deutsche"
-    title               = "WELTÄRZTEALLIANZ"
-    description         = "Weltweit vereint mit Integrität und richtigem Handeln."
-    weight              = 3
-    contentDir          = "content/german"
 
    [[Languages.de.menu.main]]
       name              = "Über uns"
