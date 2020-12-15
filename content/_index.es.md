@@ -13,7 +13,7 @@ draft = false
 
 [Download PDF version here](ims/WDAOpenLetter.pdf)
 
-{{< rawhtml >}}<p style="text-align:center"><a href="/contact" class="here-button">FIRME NUESTRA CARTA ABIERTA: HAGA CLIC AQUÍ</a></p>{{< /rawhtml >}}  
+{{< rawhtml >}}<p style="text-align:center"><a href="/es/contact/" class="here-button">FIRME NUESTRA CARTA ABIERTA: HAGA CLIC AQUÍ</a></p>{{< /rawhtml >}}  
 
 Última actualización 15.12.2020
 
