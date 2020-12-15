@@ -13,7 +13,7 @@ draft = true
 
 [Download PDF version here](ims/WDAOpenLetter.pdf)
 
-{{< rawhtml >}}<p style="text-align:center"><a href="/contact" class="here-button">UNTERZEICHNEN SIE UNSEREN OFFENEN BRIEF: HIER KLICKEN</a></p>{{< /rawhtml >}}
+{{< rawhtml >}}<p style="text-align:center"><a href="/de/contact/" class="here-button">UNTERZEICHNEN SIE UNSEREN OFFENEN BRIEF: HIER KLICKEN</a></p>{{< /rawhtml >}}
 
 Letzte Aktualisierung 15.12.2020
 
