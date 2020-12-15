@@ -97,7 +97,7 @@ disableLanguages        = []
     
    [Languages.de]
      LanguageCode        = "de"
-     LanguageName        = "Deutsche"
+     LanguageName        = "Deutsch"
      title               = "WELTÄRZTEALLIANZ"
      description         = "Weltweit vereint mit Integrität und richtigem Handeln."
      weight              = 3
