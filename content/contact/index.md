@@ -2,7 +2,7 @@
 title = "Contact"
 layout = "contact"
 netlify = false
-emailservice = "formspree.io/example@email.com"
+emailservice = ""
 contactanswertime = 24
 
 +++
@@ -10,9 +10,7 @@ contactanswertime = 24
 
 {{< rawhtml >}}<form id="ajaxForm"
   action="https://getform.io/f/72e0967f-e3ae-46a6-9c11-5da244f57f67"
-  method="POST"
-
->
+  method="POST">
   <label>Your name:</label>
   <input type="text" name="name" required/>
     <label>Your Role? <select name="role[]" >
@@ -23,9 +21,12 @@ contactanswertime = 24
   <button class="button">Submit</button>
   <p id="my-form-status"></p>
 </form>{{< /rawhtml >}}
+
+------
+
 {{< rawhtml >}}
 
-<h2>Sign-up for our mailing list</h2>
+<h2>Sign-up for our mailing list: </h2>
 {{< /rawhtml >}}
 {{< rawhtml >}}
 
@@ -34,13 +35,35 @@ contactanswertime = 24
   method="post"
   target="popupwindow"
   onsubmit="window.open('https://buttondown.email/wda', 'popupwindow')"
-  class="embeddable-buttondown-form"
->
+  class="embeddable-buttondown-form">
   <label for="bd-email">Enter your email</label>
   <input type="email" name="email" id="bd-email"></input>
   <input type="hidden" value="1" name="embed"></input>
   <input type="submit" value="Subscribe"></input>
 </form>{{< /rawhtml >}}
+
+
+------
+
+{{< rawhtml >}}
+
+<h2>Contact us:</h2>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}<form id="ajaxForm"
+  action="https://getform.io/f/a2d75ba7-916c-406f-9b21-9567ecd325b6"
+  method="POST">
+  <label>Your name:</label>
+  <input type="text" name="name" required/>
+  <label>Your email:</label>
+  <input type="email" name="email" required>
+  <label>Your message:</label>
+  <input type="textarea" name="message" required>
+  <button class="button">Submit</button>
+
+  <p id="my-form-status"></p>
+</form>{{< /rawhtml >}}
+
 <!-- Getform: Place this script at the end of the body tag -->
 
 <script>
