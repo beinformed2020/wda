@@ -60,6 +60,7 @@
 
 # Post
 [reading_time]
+   one = "1 Minute Lesen"
   other = "Lesezeit: {{ .Count }} Minuten"
 [read_more]
   other = "Weiterlesen"
