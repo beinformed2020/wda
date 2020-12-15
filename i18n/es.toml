@@ -1,16 +1,38 @@
 # Format
 [date_format]
-  other = "2 de Enero, 2006"
-
+  other = "02.01.2006"
+#Header
+[navbartitle]
+  other = "BIENVENIDOS AL ALIANZA MUNDIAL DE MÉDICOS"
+[sitetitle]
+  other = "ALIANZA MUNDIAL DE MÉDICOS"
 # Sidebar
+[first_do_no_harm]
+  other = "Primero no haga daño"
+[sign_our_open_letter]
+  other = "Firme nuestra carta abierta"
 [recent_posts]
-  other = "Posts Recientes"
+  other = "Noticias recientes - Inglés"
+[mailing_list_sign_up]
+  other = "Lista de correo - Inglés"
+[subscribe]
+  other = "Suscríbete"
 [see_more]
   other = "Ver Más"
 [learn_more]
   other = "Aprende Más"
 [attribution]
   other = "Tema: <a href='https://github.com/pacollins/hugo-future-imperfect-slim' target='_blank' rel='noopener'>Hugo Future Imperfect Slim</a><br>Adaptado de <a href='https://html5up.net/future-imperfect' target='_blank' rel='noopener'>HTML5 UP</a> | Impulsado por <a href='https://gohugo.io/' title='{{ .Site.Hugo.Version }}' target='_blank' rel='noopener'>Hugo</a>"
+[your_personal_details]
+  other = "SU DIRECCIÓN DE CORREO ELECTRÓNICO Y SUS DATOS PERSONALES SON ESTRICTAMENTE CONFIDENCIALES PARA NUESTRO USO Y NO SERÁN COMPARTIDOS BAJO NINGUNA CIRCUNSTANCIA."
+[site_secure]
+  other = "ESTA PÁGINA ES SEGURA."
+[independent_opinion]
+  other = "SU OPINIÓN INDEPENDIENTE ES DE VITAL INCLUSIÓN EN ESTE MOMENTO CRÍTICO DE LA HISTORIA MÉDICA."
+[follow_telegram]
+  other = "Síganos y reciba las últimas noticias en nuestro canal de Telegram - Inglés."
+[uniting]
+  other = "Uniéndose en todo el mundo con la integridad y la acción correcta."
 
 # Sections
 [about]

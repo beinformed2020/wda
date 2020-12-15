@@ -1,16 +1,39 @@
 # Format
 [date_format]
   other = "02.01.2006"
+#Header
+[navbartitle]
+  other = "WILLKOMMEN BEI DER WELTÄRZTEALLIANZ"
+[sitetitle]
+  other = "WELTÄRZTEALLIANZ"
 
 # Sidebar
+[first_do_no_harm]
+  other = "Erst keinen Schaden anrichten"
+[sign_our_open_letter]
+  other = "Unterschreiben Sie unseren offenen Brief"
+[mailing_list_sign_up]
+  other = "Mailingliste - Englisch"
+[subscribe]
+  other = "Abonnieren"
 [recent_posts]
-  other = "Neuste Artikel"
+  other = "Aktuelle Nachrichten - Englisch"
 [see_more]
   other = "Mehr erfahren"
 [learn_more]
   other = "Mehr erfahren"
 [attribution]
   other = "Theme: <a href='https://github.com/pacollins/hugo-future-imperfect-slim' target='_blank' rel='noopener'>Hugo Future Imperfect Slim</a><br>Ein <a href='https://html5up.net/future-imperfect' target='_blank' rel='noopener'>HTML5 Port</a> | Unterstützt von: <a href='https://gohugo.io/' title='{{ .Site.Hugo.Version }}' target='_blank' rel='noopener'>Hugo</a>"
+[your_personal_details]
+  other = "IHRE E-MAIL-ADRESSE UND IHRE PERSÖNLICHEN DATEN SIND STRENG VERTRAULICH UND WERDEN NUR VON UNS VERWENDET UND UNTER KEINEN UMSTÄNDEN WEITERGEGEBEN."
+[site_secure]
+  other = "DIESE SEITE IST SICHER."
+[independent_opinion]
+  other = "IHRE UNABHÄNGIGE MEINUNG IST IN DIESER KRITISCHEN ZEIT DER MEDIZINGESCHICHTE VON ENTSCHEIDENDER BEDEUTUNG."
+[follow_telegram]
+  other = "Folgen Sie uns und erhalten Sie die neuesten Nachrichten auf unserem Telegram-Kanal."
+[uniting]
+  other = "Weltweit vereint mit Integrität und richtigem Handeln."
 
 # Sections
 [about]

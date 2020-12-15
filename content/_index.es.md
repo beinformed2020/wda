@@ -13,7 +13,15 @@ draft = false
 
 [Download PDF version here](ims/WDAOpenLetter.pdf)
 
-{{< rawhtml >}}<p style="text-align:center"><a href="/contact" class="here-button">FIRME NUESTRA CARTA ABIERTA: HAGA CLIC AQUÍ</a></p>{{< /rawhtml >}}
+{{< rawhtml >}}<p style="text-align:center"><a href="/contact" class="here-button">FIRME NUESTRA CARTA ABIERTA: HAGA CLIC AQUÍ</a></p>{{< /rawhtml >}}  
+
+Última actualización 15.12.2020
+
+### Total de firmas hasta ahora: 59,461
+
+**Datos de la página web los últimos 30 días:**  
+Total de páginas vistas: 1,008,385  
+Total de visitantes únicos: 236,489 
 
 #### Introducción
 
@@ -477,7 +485,10 @@ NB el término "covid" ha sido usado para representar a Sars-CoV-2 y Covid-19
 5. DR. ANDREW KAUFMAN, M.D
 6. DR. SCOTT JENSEN, M.D
 
-**Actualizado diariamente.**  
-Last update 20.10.2020
+Última actualización 15.12.2020
 
-### Total signatures so far: 15892
+### Total de firmas hasta ahora: 59,461
+
+**Datos de la página web los últimos 30 días:**  
+Total de páginas vistas: 1,008,385  
+Total de visitantes únicos: 236,489 

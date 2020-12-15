@@ -39,7 +39,7 @@ disableLanguages        = []
     dynamicTitles       = false
     searchMenu          = true
     shareMenu           = true
-    languageMenu        = false
+    languageMenu        = true
 
   [params.intro]
     header                = "WORLD DOCTORS ALLIANCE"
@@ -106,7 +106,7 @@ disableLanguages        = []
     identifier        = "Telegram"
     url               = "https://t.me/worlddoctorsalliance"
     pre               = "<i class='fab fa-telegram-plane'></i>"
-    weight            = 6
+    weight            = 8
     
 [Languages]
 
@@ -116,25 +116,27 @@ disableLanguages        = []
     title               = "World Doctors Alliance"
     description         = "Uniting around the world with integrity and right action."
     weight              = 1
+    contentDir          = "content/english"
       
     [Languages.de]
     LanguageCode        = "de"
     LanguageName        = "Deutsche"
     weight              = 5
+    contentDir          = "content/german"
 
    [[Languages.de.menu.main]]
       name              = "Über uns"
       identifier        = "about"
       url               = "/about/"
       pre               = "<i class='far fa-id-card'></i>"
-      weight            = 2
+      weight            = 4
 
     [[Languages.de.menu.main]]
       name              = "Nachrichten"
       identifier        = "blog"
       url               = "/blog/"
       pre               = "<i class='far fa-newspaper'></i>"
-      weight            = 3
+      weight            = 2
 
     [[Languages.de.menu.main]]
       name              = "Kontakt"
@@ -142,27 +144,34 @@ disableLanguages        = []
       url               = "/contact/"
       pre               = "<i class='far fa-envelope'></i>"
       weight            = 6
+    [[Languages.de.menu.main]]
+    name              = "Telegram"
+    identifier        = "Telegram"
+    url               = "https://t.me/worlddoctorsalliance"
+    pre               = "<i class='fab fa-telegram-plane'></i>"
+    weight            = 8
       
   [Languages.es]
     LanguageCode        = "es"
     LanguageName        = "Espanol"
-    title               = ""
-    description         = "."
+    title               = "ALIANZA MUNDIAL DE MÉDICOS"
+    description         = "Uniéndose en todo el mundo con la integridad y la acción correcta."
     weight              = 2
+    contentDir          = "content/spanish"
 
    [[Languages.es.menu.main]]
-      name              = "Sobre"
+      name              = "Sobre nos"
       identifier        = "about"
       url               = "/about/"
       pre               = "<i class='far fa-id-card'></i>"
-      weight            = 2
-
+      weight            = 4
+      
     [[Languages.es.menu.main]]
       name              = "Noticias"
       identifier        = "blog"
       url               = "/blog/"
       pre               = "<i class='far fa-newspaper'></i>"
-      weight            = 3
+      weight            = 2
 
     [[Languages.es.menu.main]]
       name              = "Contacto"
@@ -170,6 +179,12 @@ disableLanguages        = []
       url               = "/contact/"
       pre               = "<i class='far fa-envelope'></i>"
       weight            = 6
+    [[Languages.es.menu.main]]
+      name              = "Telegram"
+      identifier        = "Telegram"
+      url               = "https://t.me/worlddoctorsalliance"
+      pre               = "<i class='fab fa-telegram-plane'></i>"
+      weight            = 8
 
 [social]
   # Coding Communities

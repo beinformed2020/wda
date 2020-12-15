@@ -15,6 +15,14 @@ draft = true
 
 {{< rawhtml >}}<p style="text-align:center"><a href="/contact" class="here-button">UNTERZEICHNEN SIE UNSEREN OFFENEN BRIEF: HIER KLICKEN</a></p>{{< /rawhtml >}}
 
+Letzte Aktualisierung 15.12.2020
+
+### Bisherige Unterschriften insgesamt: 59,461
+
+**Website-Daten letzte 30 Tage:**  
+Gesamte Seitenaufrufe: 1,008,385  
+Gesamte eindeutige Besucher: 236,489 
+
 #### Einführung
 
 Ursprünglich wurde uns gesagt, dass die Prämisse für den Lockdown sei, "die Kurve abzuflachen" und damit den NHS vor einer Überlastung zu schützen.   
@@ -361,7 +369,10 @@ NB: Der Begriff "Covid" wurde verwendet, um Sars-CoV-2 und Covid-19 zu repräsen
 5. DR. ANDREW KAUFMAN, M.D
 6. DR. SCOTT JENSEN, M.D
 
-**Täglich aktualisiert.**  
-Letzte Aktualisierung 20.10.2020
+Letzte Aktualisierung 15.12.2020
 
-### Gesamtzahl der bisherigen Unterschriften: 15892
+### Bisherige Unterschriften insgesamt: 59,461
+
+**Website-Daten letzte 30 Tage:**  
+Gesamte Seitenaufrufe: 1,008,385  
+Gesamte eindeutige Besucher: 236,489 

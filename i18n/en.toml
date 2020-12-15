@@ -1,8 +1,22 @@
 # Format
 [date_format]
   other = "January 2, 2006"
+  
+#Header
+[navbartitle]
+  other = "WELCOME TO THE WORLD DOCTORS ALLIANCE"
+[sitetitle]
+  other = "WORLD DOCTORS ALLIANCE"
 
 # Sidebar
+[first_do_no_harm]
+  other = "First Do No Harm"
+[sign_our_open_letter]
+  other = "Sign our open letter"
+[mailing_list_sign_up]
+  other = "Mailing list sign-up"
+[subscribe]
+  other = "Subscribe"
 [recent_posts]
   other = "Recent News"
 [see_more]
@@ -11,7 +25,16 @@
   other = "Learn More"
 [attribution]
   other = "Theme: <a href='https://github.com/pacollins/hugo-future-imperfect-slim' target='_blank' rel='noopener'>Hugo Future Imperfect Slim</a><br>A <a href='https://html5up.net/future-imperfect' target='_blank' rel='noopener'>HTML5 UP port</a> | Powered by <a href='https://gohugo.io/' title='{{ .Site.Hugo.Version }}' target='_blank' rel='noopener'>Hugo</a>"
-
+[your_personal_details]
+  other = "YOUR EMAIL ADDRESS AND PERSONAL DETAILS ARE STRICTLY CONFIDENTIAL FOR OUR USE ONLY AND WILL NOT BE SHARED UNDER ANY CIRCUMSTANCES."
+[site_secure]
+  other = "THIS SITE IS SECURE."
+[independent_opinion]
+  other = "YOUR INDEPENDENT OPINION IS OF VITAL INCLUSION AT THIS CRITICAL TIME IN MEDICAL HISTORY."
+[follow_telegram]
+  other = "Follow us and get the latest news updates on our Telegram channel."
+[uniting]
+  other = "Uniting around the world with integrity and right action."
 # Sections
 [about]
   other = "About"
