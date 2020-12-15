@@ -7,6 +7,10 @@
   other = "WELCOME TO THE WORLD DOCTORS ALLIANCE"
 [sitetitle]
   other = "WORLD DOCTORS ALLIANCE"
+  
+#category page
+[see_category]
+  other = "See news by category"
 
 # Sidebar
 [first_do_no_harm]

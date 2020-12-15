@@ -6,7 +6,9 @@
   other = "WILLKOMMEN BEI DER WELTÄRZTEALLIANZ"
 [sitetitle]
   other = "WELTÄRZTEALLIANZ"
-
+#category page
+[see_category]
+  other = "Nachrichten nach Kategorie anzeigen"
 # Sidebar
 [first_do_no_harm]
   other = "Erst keinen Schaden anrichten"

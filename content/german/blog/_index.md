@@ -8,6 +8,6 @@ title: "Blog"
 draft: false
 ---
 
-### Latest News
+### Aktuelle Nachrichten 
 
 {{< categories >}} 

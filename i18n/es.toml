@@ -6,6 +6,9 @@
   other = "BIENVENIDOS AL ALIANZA MUNDIAL DE MÉDICOS"
 [sitetitle]
   other = "ALIANZA MUNDIAL DE MÉDICOS"
+#category page
+[see_category]
+  other = "Ver noticias por categoría"
 # Sidebar
 [first_do_no_harm]
   other = "Primero no haga daño"
