@@ -15,13 +15,13 @@ draft = false
 
 {{< rawhtml >}}<p style="text-align:center"><a href="/contact" class="here-button">FIRME NUESTRA CARTA ABIERTA: HAGA CLIC AQUÍ</a></p>{{< /rawhtml >}}  
 
-Última actualización 15.12.2020
+Última actualización 16.12.2020
 
-### Total de firmas hasta ahora: 59,461
+### Total de firmas hasta ahora: 59,823
 
 **Datos de la página web los últimos 30 días:**  
-Total de páginas vistas: 1,008,385  
-Total de visitantes únicos: 236,489 
+Total de páginas vistas: 1,008,829  
+Total de visitantes únicos: 236,359 
 
 #### Introducción
 
@@ -485,10 +485,10 @@ NB el término "covid" ha sido usado para representar a Sars-CoV-2 y Covid-19
 5. DR. ANDREW KAUFMAN, M.D
 6. DR. SCOTT JENSEN, M.D
 
-Última actualización 15.12.2020
+Última actualización 16.12.2020
 
-### Total de firmas hasta ahora: 59,461
+### Total de firmas hasta ahora: 59,823
 
 **Datos de la página web los últimos 30 días:**  
-Total de páginas vistas: 1,008,385  
-Total de visitantes únicos: 236,489 
+Total de páginas vistas: 1,008,829  
+Total de visitantes únicos: 236,359 
