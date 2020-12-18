@@ -118,6 +118,42 @@ disableLanguages        = []
     pre               = "<i class='fab fa-telegram-plane'></i>"
     weight            = 8
 
+   [Languages.de]
+     LanguageCode        = "de"
+     LanguageName        = "Deutsch"
+     title               = "WELTÄRZTEALLIANZ"
+     description         = "Weltweit vereint mit Integrität und richtigem Handeln."
+     weight              = 3
+     contentDir          = "content/german"
+     
+    [[Languages.de.menu.main]]
+      name              = "Nachrichten"
+      identifier        = "blog"
+      url               = "/blog/"
+      pre               = "<i class='far fa-newspaper'></i>"
+      weight            = 2
+      
+    [[Languages.de.menu.main]]
+      name              = "Über uns"
+      identifier        = "about"
+      url               = "/about/"
+      pre               = "<i class='far fa-id-card'></i>"
+      weight            = 4
+
+    [[Languages.de.menu.main]]
+      name              = "Kontakt"
+      identifier        = "contact"
+      url               = "/contact/"
+      pre               = "<i class='far fa-envelope'></i>"
+      weight            = 6
+      
+    [[Languages.de.menu.main]]
+    name              = "Telegram"
+    identifier        = "Telegram"
+    url               = "https://t.me/worlddoctorsalliance"
+    pre               = "<i class='fab fa-telegram-plane'></i>"
+    weight            = 8
+    
   [Languages.es]
     LanguageCode        = "es"
     LanguageName        = "Español"
@@ -153,43 +189,6 @@ disableLanguages        = []
       url               = "https://t.me/worlddoctorsalliance"
       pre               = "<i class='fab fa-telegram-plane'></i>"
       weight            = 8
-    
-   [Languages.de]
-     LanguageCode        = "de"
-     LanguageName        = "Deutsch"
-     title               = "WELTÄRZTEALLIANZ"
-     description         = "Weltweit vereint mit Integrität und richtigem Handeln."
-     weight              = 3
-     contentDir          = "content/german"
-     
-    [[Languages.de.menu.main]]
-      name              = "Nachrichten"
-      identifier        = "blog"
-      url               = "/blog/"
-      pre               = "<i class='far fa-newspaper'></i>"
-      weight            = 2
-      
-    
-    [[Languages.de.menu.main]]
-      name              = "Über uns"
-      identifier        = "about"
-      url               = "/about/"
-      pre               = "<i class='far fa-id-card'></i>"
-      weight            = 4
-
-    [[Languages.de.menu.main]]
-      name              = "Kontakt"
-      identifier        = "contact"
-      url               = "/contact/"
-      pre               = "<i class='far fa-envelope'></i>"
-      weight            = 6
-      
-    [[Languages.de.menu.main]]
-    name              = "Telegram"
-    identifier        = "Telegram"
-    url               = "https://t.me/worlddoctorsalliance"
-    pre               = "<i class='fab fa-telegram-plane'></i>"
-    weight            = 8
 
 
 [social]
