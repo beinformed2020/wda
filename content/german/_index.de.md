@@ -1,7 +1,7 @@
 +++
 title = "ALLIANZ DER WELTÄRZTE"
 date = "2020-06-15T19:57:09+05:30"
-draft = true
+draft = false
 
 +++
 
