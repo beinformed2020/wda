@@ -86,23 +86,7 @@ disableLanguages        = []
     description         = "Uniting around the world with integrity and right action."
     weight              = 1
     contentDir          = "content/english"
-            
-  [Languages.es]
-    LanguageCode        = "es"
-    LanguageName        = "Español"
-    title               = "ALIANZA MUNDIAL DE MÉDICOS"
-    description         = "Uniéndose en todo el mundo con la integridad y la acción correcta."
-    weight              = 2
-    contentDir          = "content/spanish"
-    
-   [Languages.de]
-     LanguageCode        = "de"
-     LanguageName        = "Deutsch"
-     title               = "WELTÄRZTEALLIANZ"
-     description         = "Weltweit vereint mit Integrität und richtigem Handeln."
-     weight              = 3
-     contentDir          = "content/german"
-     
+
   [menu]
 
   [[menu.main]]
@@ -134,7 +118,15 @@ disableLanguages        = []
     pre               = "<i class='fab fa-telegram-plane'></i>"
     weight            = 8
 
-   [[Languages.es.menu.main]]
+  [Languages.es]
+    LanguageCode        = "es"
+    LanguageName        = "Español"
+    title               = "ALIANZA MUNDIAL DE MÉDICOS"
+    description         = "Uniéndose en todo el mundo con la integridad y la acción correcta."
+    weight              = 2
+    contentDir          = "content/spanish"
+    
+    [[Languages.es.menu.main]]
       name              = "Sobre nos"
       identifier        = "about"
       url               = "/about/"
@@ -161,20 +153,29 @@ disableLanguages        = []
       url               = "https://t.me/worlddoctorsalliance"
       pre               = "<i class='fab fa-telegram-plane'></i>"
       weight            = 8
-
-   [[Languages.de.menu.main]]
-      name              = "Über uns"
-      identifier        = "about"
-      url               = "/about/"
-      pre               = "<i class='far fa-id-card'></i>"
-      weight            = 4
-
+    
+   [Languages.de]
+     LanguageCode        = "de"
+     LanguageName        = "Deutsch"
+     title               = "WELTÄRZTEALLIANZ"
+     description         = "Weltweit vereint mit Integrität und richtigem Handeln."
+     weight              = 3
+     contentDir          = "content/german"
+     
     [[Languages.de.menu.main]]
       name              = "Nachrichten"
       identifier        = "blog"
       url               = "/blog/"
       pre               = "<i class='far fa-newspaper'></i>"
       weight            = 2
+      
+    
+    [[Languages.de.menu.main]]
+      name              = "Über uns"
+      identifier        = "about"
+      url               = "/about/"
+      pre               = "<i class='far fa-id-card'></i>"
+      weight            = 4
 
     [[Languages.de.menu.main]]
       name              = "Kontakt"
