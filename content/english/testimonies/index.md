@@ -4,8 +4,165 @@ description = ""
 author = ""
 date = "2020-12-10"
 layout = "about"
+draft = true
 
 +++
+
+========================================================================
+
+========================================================================
+
+========================================================================
+
+========================================================================
+
+========================================================================
+
+========================================================================
+
+========================================================================
+
+**Lockdowns** -
+
+The main impact that has occurred with regard to children and young people was the long period of school closures from March until September 2020.  Some pupils (especially those with SEND or classified as vulnerable alongside those whose parents were key worker) were able to attend but this was essentially childminding with little in the way of education.  As an EP I was expected to carry out assessments by phone or purely by summarising others prior reports – no direct work with children or vital cognitive assessments took place.  In short I was expected to write psychological advice with no input from the child in a system that is meant to be child-centred.  In terms of education, remote learning has been proven to be next to useless.  Only very motivated older pupils may have been able to access this.  School is about so much more than learning content – it is about development of social skills, life skills, motor skills and exercise.  Children moving from primary to secondary school had no transition.  Pupils transitioning into college also have no transition.  My workload since September is overwhelming and the level of needs especially in terms of social, emotional and mental health, behavioural and speech and language issues have increased.  These issues are all directly linked to the  governmental choice to close schools and not the virus.
+
+**PCR testing**  
+
+These have been a curse in terms of causing chaos  and disruption to children’s education since September. Every time a  pupil/teacher tests positive (regardless of symptoms) the entire ‘bubble’ (often a whole year group) have to  isolate at home for 2 weeks and its back to virtual learning again. If  there was ever any place to use the lateral flow tests to prevent this  nonsense it should be to enable pupils/staff to remain in school. This has also meant schools struggling to cover  some classes and many TAs have been tasked to do this which is not in  their remit – they are paid very poorly compared to teachers. 
+
+**Facemasks**
+
+These have become more prevalent in schools  unfortunately and staff have been observed teaching young pupils in  visors! Many secondary pupils have been placed in isolation for ‘fiddling’ with or not wearing masks correctly – excluded from education because of masks – unthinkable. 
+
+The impact of all of this on young people is, in my professional  opinion, a crime. Unfortunately, many of my peers continue to believe  that more testing and more school closures is needed. I believe to  counter this nonsense two myths need to be focused upon and exposed:
+
+- Asymptomatic people with positive PCR tests are ‘superspreaders’
+- The PCR is a ‘gold standard’ test
+
+**Dr Jane L Heslop**  
+**Educational Psychologist in Hull, UK**
+
+========================================================================
+
+ **Lockdowns and related restrictions**
+The whole restriction plan of the dutch government makes people scared and paralyzed. They literally stop living. They follow the rules without thinking. A lot of my patients stop going outside, stop social activities, stop exercising, stop working on there immuunsysteem. I have patients who gain 30 kg weight in 6 months; patients who couldn't walk anymore in 3 months because the daycare system stopped and they only stayed in bed or moved a little in there homes; My oncology patients stopped coming for exercises; I have patients with hyperventilation, burnout, depression because of these restrictions. Especially people with high overweight and lung problems; When they finally come to our practice they do there exercises with a mask, they are too scared to take it of. We have all windows open and we tell them that is not good for there health. They are too scared! There are also patients who clean there hands every 30 minutes with the antibacterial gel because they are so scared. I explain of course that Covid is not a bacterie, but they are too scared to change.
+The restrictions should stop immediately! That's with I think. All these rules are really bad for our immuunsystem and mental health. We have to work on that in a healthy way by going outside, excersice, socialysing, eating healthy food.
+
+**The PCR test**
+I read a lot what scientists have to say about the test. I know about the peer review which has been done in November by Peter Borger and other scientists. So I agree that this test is illegal and I know that our covernment is not listening to these genuine scientists. It seems that they have one goal only and that is mass vaccination. This tests should stop immediately!! And we have to go back to normal!
+
+**Vaccine-safety and testing**
+A Vaccine can't be made and be safe in a few months, especially when it is a completely new kind of vaccin!
+I don't understand why healthy people should be vaccinated, when the people who died or had to be cured at the IC are mostly older than 70 year and have several severe other health issues. And there is proper medication for this disease! I also think that we already must have group-immunity. So this vaccin is totally unnecessary!
+The vaccin is based on de PCR test, but because the PCR test doesn't test specific on Covid; Because the specific covid 19 entity is not found yet. What is this vaccination made for???
+
+**Face masks:**
+Are really bad for your immuunsystem!
+Don't work for a Virus!
+Are really bad for social behavior!
+When you take them on and off all day, it is even more begrimed, because they get dirty. It is really stupid to oblige everyone who are healthy to wear a mask. Because wearing it increases the change of getting sick!
+Even more stupid: we are forced to wear a NOT working mask!! It is therefor completely useless!! Unless the government want to make the population mass Hysteric; to make them all get a experimental vaccin!! That's in my opinion the only reason why al these rules are obliged.
+
+**Censorship**
+On TV there are only guests that agree with the government. People, lawyers, scientists, doctors, nurses and so on who disagree are not invited. Journalists who are working for the normal newspapers stopped doing research. They stopped criticysing! TV, newspapers, radio; they all are propaganda of our government! 
+
+**Elsje van der Veer**  
+ **I work as a Physiotherapist since 1993; and allround pilates, sports instructor since 1994. Psychosomatic Physiotherapist since 1996; FCE certificate: FysicCapacityEvaluation tester since 2009; Epigenetic Orthomoleculair Therapist since 2017; Life style coach for Diabetic and obesitas groups (GLI program in The Netherlands) sinds 2019; At the moment studying Oncologie.  
+The Netherlands, Plesmanlaan 131, 1066CX Amsterdam is my primary practice and I work as a company-fysio at Sanquin in Amsterdam.**   
+
+========================================================================
+
+**Lockdown and restrictions**
+
+**What didn’t happen:**
+
+The “Hot Sites” that we were planned in my area never happened. We were sent various emails in March asking staff to volunteer for these sites ( they would understand if staff declined due to the high risk of infection) and rotas were drawn up to staff the sites, but-
+
+Nothing happened. There was no rise in acutely unwell patients. Emails stopped being sent with no explanation that the sites weren’t required, nothing more was said about the contingency plans. There has not been a single Hot Site in my area. 
+
+The Nightingale Hospitals weren’t full to capacity. I’m not even aware of the one in Bristol ever being used. 
+
+**What did happen:**
+
+GP surgeries closed their doors. All face to face appointments were stopped. 9 months on, GPs are still only seeing a limited number of face to face patients. The vast majority of consultations are now via Zoom or over the phone. I can’t ever see this changing. 
+
+New CPR guidance advised thinking twice before attempting resuscitation due to potential cross infection and the lack of ITU beds available due to them being filled by Covid patients. I don’t believe this became an issue. 
+
+“Covid related” appeared on nearly all death notifications that the surgery received. What does that actually mean?!
+
+Hospitals cancelled appointments and surgeries. Never in my years of working for the NHS has it ever closed its doors to patients. Chemotherapy was cancelled; people were attending late to see their GP with symptoms of serious disease. We had requests from Paediatricians asking GPs to continue referring children to them as some children were not being seen as early as they should with given illnesses. 
+
+Families were denied access to their dying relatives. I have four friends who lost their fathers’ (not to Covid19). None of them were allowed to be by their bedside at end of life. One friend had to drop her seriously ill father at the door of the hospital before he was wheeled away alone. She was offered a Zoom call to say goodbye to him before he passed away. This is utterly cruel. 
+
+Grandparents were too scared to visit their new-born Grandchildren. I didn’t see my granddaughter for 8 weeks because her mum was so scared of me passing on the virus.
+Mothers gave birth alone. 
+Mental health issues increased. Loneliness increased. Isolation increased. 
+People lost their jobs and businesses. 
+
+**PCR testing**
+
+I have never known a time when a “case” was based on a positive pcr test rather than on how many symptomatic patients there are who need hospitalisation. I believe the WHO changed its definition of a case in 2009. I question their reason behind this. 
+Why are healthy people being tested? Since when did a person with no symptoms be considered a potential threat of transmission. 
+
+**Vaccine-safety and testing**
+
+I believe the Pfizer vaccine cannot be declared safe based on the lack of correct testing. It hasn’t gone through animal testing trials and its long term effects aren’t known. It cannot even claim to prevent infection or spread of the virus. Scientists have been trying to develop a coronavirus vaccine for decades with no success. How can a mrna vaccine, that hasn’t been tested on animals, be allowed to be given to the general population? I work with a doctor who will not have the vaccine but is instrumental in setting up vaccination hubs. Where are the ethics here?
+People believe that by having the vaccine, society will return to normal. This is perpetuated in the media. It is based on the premise that a pandemic actually exists and that Covid 19 doesn’t discriminate. However, studies have shown that the vast majority of those who develop complications and die from the virus are elderly or have long term conditions. 
+I believe the vaccine will become mandatory through shaming and coercion. People may be coerced into having it in order to travel or attend events. 
+
+**Face masks**
+
+Face masks have caused immense psychological and emotional problems. Their use has divided communities and families. They are not being used as they should, ie in sterile operating theatres or when barrier nursing patients, but are used and recycled incorrectly. I don’t believe they should be used in a population that has no symptoms. 
+I believe they have created fear and will cause long term psychological problems in children and adolescents. 
+
+**Censorship**
+
+I’m shocked by the censorship within the medical and nursing community. I personally have been asked not to express my views as it reflects badly on my workplace. Challenging such censorship or even asking for honest debate has resulted in people and groups being shamed. I’m aware that doctors and other health workers have lost their jobs through speaking out, and others have to challenge the narrative anonymously. I believe this is a very dangerous precedence for the future of our democracy.   
+
+**Karen Moore**  
+**Practice Nurse** 
+**Somerset** 
+
+========================================================================
+
+This year at the beginning I had a gut feeling a 6th sense that this  pandemic was wrong & planned. My initial red flag was now that  governments have taken our freedoms, why is this ok & why are we  accepting this?
+
+**Lockdowns:** 
+
+Do nothing for health & will only benefit greed. 
+It will increase health issue which has more red flags of corruption.
+
+**PCR test**; 
+
+The science & facts are there for all to see that the PCR test are  being manipulated to serve a agenda of big pharma & socialist  control. 
+
+**Vaccine safety & testing;** 
+
+Why do we need a vaccine for a virus that is 99.8% risk free. 
+Why do we not allow treatments available.
+Why do we never talk about boosting our own immune system. 
+Health should be a choice between you & a health professional. 
+Not a government mandate to force something that has corruption & greed all over it. 
+
+**Face mask**; 
+
+This needs to be a free choice.   
+The science & facts state that they do zero to protect against a virus, however increase harm to yourself, yet the propaganda is to brainwash  with mind control.   The full cycle is get people sicker with mask, &  fear, get false positive with amplified PCR test get fraudulent vaccine  to make $ & control everyone with socialist take over.   
+
+**Censorship**;
+
+When you produce a fact or assumption against the propaganda & agenda it is censored, this is pure criminal & all need to go to jail today. 
+Or give back there billions to humanity..
+Once you loose freedom of speech & MSM use lies & one sided agenda propaganda, there is no freedom. 
+The bigger picture is this power profit control is not how our consciousness is meant to involve.
+We are a light wave energy beings & this blinkered approach to  humanity is like trying to milk a cow with Edward scissor hands. 
+There is so much knowledge available & we are being control & used like slaves..
+
+**Cameron Parry ** 
+
+I’m a carpenter & licences contractor. For over 25 years.  
+I’ve trained as a Yoga teacher for over 10years  & coach football for passed 3 years .  
+**Dry Creek NSW 2337 Australia.** 
 
 ========================================================================
 
