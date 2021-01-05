@@ -15,13 +15,13 @@ draft = false
 
 {{< rawhtml >}}<p style="text-align:center"><a href="/de/contact/" class="here-button">UNTERZEICHNEN SIE UNSEREN OFFENEN BRIEF: HIER KLICKEN</a></p>{{< /rawhtml >}}
 
-Letzte Aktualisierung 23.12.2020
+Letzte Aktualisierung 06.01.2020
 
-### Bisherige Unterschriften insgesamt: 61,258
+### Bisherige Unterschriften insgesamt: 65,033
 
 **Website-Daten letzte 30 Tage:**  
-Gesamte Seitenaufrufe: 903,794  
-Gesamte eindeutige Besucher: 204,641 
+Gesamte Seitenaufrufe: 709,623  
+Gesamte eindeutige Besucher: 173,430 
 
 #### Einführung
 
@@ -369,10 +369,10 @@ NB: Der Begriff "Covid" wurde verwendet, um Sars-CoV-2 und Covid-19 zu repräsen
 5. DR. ANDREW KAUFMAN, M.D
 6. DR. SCOTT JENSEN, M.D
 
-Letzte Aktualisierung 23.12.2020
+Letzte Aktualisierung 06.01.2020
 
-### Bisherige Unterschriften insgesamt: 61,258
+### Bisherige Unterschriften insgesamt: 65,033
 
 **Website-Daten letzte 30 Tage:**  
-Gesamte Seitenaufrufe: 903,794  
-Gesamte eindeutige Besucher: 204,641 
+Gesamte Seitenaufrufe: 709,623  
+Gesamte eindeutige Besucher: 173,430 

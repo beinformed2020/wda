@@ -15,13 +15,13 @@ draft = false
 
 {{< rawhtml >}}<p style="text-align:center"><a href="/contact" class="here-button">SIGN OUR OPEN LETTER: CLICK HERE</a></p>{{< /rawhtml >}}
 
-Last update 23.12.2020
+Last update 06.01.2020
 
-### Total signatures so far: 61,258
+### Total signatures so far: 65,033
 
 **Website data last 30 days:**  
-Total pageviews: 903,794  
-Total unique visitors: 204,641 
+Total pageviews: 709,623  
+Total unique visitors: 173,430 
 
 ### Introduction  
 
@@ -503,10 +503,10 @@ NB the term ‘covid’ has been used to represent Sars-CoV-2 and Covid-19
 5. DR. ANDREW KAUFMAN, M.D
 6. DR. SCOTT JENSEN, M.D
 
-Last update 23.12.2020
+Last update 06.01.2020
 
-### Total signatures so far: 61,258
+### Total signatures so far: 65,033
 
 **Website data last 30 days:**  
-Total pageviews: 903,794  
-Total unique visitors: 204,641 
+Total pageviews: 709,623  
+Total unique visitors: 173,430 
