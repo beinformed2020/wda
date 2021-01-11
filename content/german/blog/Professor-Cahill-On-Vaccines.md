@@ -1,7 +1,7 @@
 ---
 author: "World Doctors Alliance"
 categories: ["Other videos"]
-tags: ["Delores Cahill"]
+tags: ["Professor Dolores Cahill"]
 date: 2020-12-03T12:06:35Z
 description: ""
 title: "Professor Delores Cahill on Vaccines"

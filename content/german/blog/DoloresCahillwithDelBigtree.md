@@ -1,7 +1,7 @@
 ---
 author: "World Doctors Alliance"
 categories: ["Other videos"]
-tags: ["Covid", "Delores Cahill"]
+tags: ["Covid", "Professor Dolores Cahill"]
 date: 2020-11-02T15:42:14Z
 description: ""
 title: "Professor Dolores Cahill discusses Covid 19 with Del Bigtree."

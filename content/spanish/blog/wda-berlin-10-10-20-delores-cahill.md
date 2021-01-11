@@ -1,7 +1,7 @@
 ---
 author: "World Doctors Alliance"
 categories: ["WDA videos"]
-tags: ["Delores Cahill"]
+tags: ["Professor Dolores Cahill"]
 date: 2020-10-30T13:55:20+01:00
 description: ""
 title: "Wda Berlin 10 10 20 Delores Cahill"
