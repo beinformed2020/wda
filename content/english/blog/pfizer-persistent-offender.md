@@ -14,4 +14,4 @@ draft: false
 
 [Read here: Tough on Crime? Pfizer and the CIHR](https://pubmed.ncbi.nlm.nih.gov/21532766/)  
 
-![](../ims/Pfizer _ Violation Tracker p1.png)
+![](../ims/Pfizer_ViolationTracker.png)
