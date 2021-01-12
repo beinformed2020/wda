@@ -8,8 +8,10 @@ title: "Pfizer Persistent Offender"
 draft: false
 ---
 
-### National Center for Biotechnology Information 2010
+**Since 2000 the company and its subsidiaries have been assessed $4.7 billion in fines for criminal convictions, civil penalties and jury awards.**  
 
-Since 2002 the company and its subsidiaries have been assessed $3  billion in criminal convictions, civil penalties and jury awards.  
+[DATA DETAILS HERE: VIOLATION TRACKER](https://violationtracker.goodjobsfirst.org/parent/pfizer)  
 
-[Read here: Tough on Crime? Pfizer and the CIHR](https://pubmed.ncbi.nlm.nih.gov/21532766/)
+[Read here: Tough on Crime? Pfizer and the CIHR](https://pubmed.ncbi.nlm.nih.gov/21532766/)  
+
+![](../ims/Pfizer _ Violation Tracker p1.png)
