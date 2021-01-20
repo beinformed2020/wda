@@ -2,7 +2,7 @@
 author: "World Doctors Alliance"
 categories: ["WDA videos"]
 tags: ["Vaccines"]
-date: 2020-12-08T13:31:34Z
+date: 2021-01-20T14:55:24Z
 description: ""
 title: "Ask the Experts Covid19 Vaccines"
 draft: false
