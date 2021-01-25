@@ -15,13 +15,13 @@ draft = false
 
 {{< rawhtml >}}<p style="text-align:center"><a href="/de/contact/" class="here-button">UNTERZEICHNEN SIE UNSEREN OFFENEN BRIEF: HIER KLICKEN</a></p>{{< /rawhtml >}}
 
-Letzte Aktualisierung 22.01.2020
+Letzte Aktualisierung 26.01.2020
 
-### Bisherige Unterschriften insgesamt: 69,240
+### Bisherige Unterschriften insgesamt: 71,357
 
 **Website-Daten letzte 30 Tage:**  
-Gesamte Seitenaufrufe: 507,199  
-Gesamte eindeutige Besucher: 157,812
+Gesamte Seitenaufrufe: 505,816  
+Gesamte eindeutige Besucher: 167,207
 
 #### Einführung
 
