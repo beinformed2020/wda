@@ -76,3 +76,26 @@ He has held leadership positions in academic medicine and professional organizat
 Physician, American politician, and member of the Minnesota Senate. A member of the Republican Party of Minnesota, he represents District 47 in the western Twin Cities metropolitan area.
 
 ![Dr. Heiko Schöning](ims/ScottJensen.jpg#center)
+
+===========================================================================
+
+### Dr. Hilde De Smet, M.D.  
+Belgium
+
+![Dr. Heiko Schöning](ims/dr-smet-hilde.jpeg#center)
+
+===========================================================================
+
+### Dr. Vernon Coleman, MB ChB DSc FRSA.
+
+[Biog here: http://www.vernoncoleman.com/biog.htm](http://www.vernoncoleman.com/biog.htm)
+
+![Dr. Heiko Schöning](ims/Dr_Vernon_Coleman.jpeg#center)
+
+===========================================================================
+
+### Dr. Johan Denis, M.D.
+
+[Biog here: https://drjohandenislier.weebly.com/](https://drjohandenislier.weebly.com/)
+
+![Dr. Heiko Schöning](ims/dr-johan-denis.jpeg#center)
