@@ -9,7 +9,7 @@ draft = false
 
 ![WDA - Who we are.](/img/main/whoarewe.jpg#center)
 
-## Offener Brief an die britische Regierung, die Regierungen der Welt und die Bürger der Welt
+## Offener Brief an alle Bürger der Welt und alle Regierungen der Welt.
 
 [Download PDF version here](ims/WDAOpenLetter.pdf)
 

@@ -9,7 +9,7 @@ draft = false
 
 ![WDA - Who we are.](/img/main/whoarewe.jpg#center)
 
-## Carta abierta al gobierno del Reino Unido, a los gobiernos del mundo y a los ciudadanos del mundo
+## Carta abierta a todos los ciudadanos del mundo y a todos los gobiernos del mundo.
 
 [Download PDF version here](ims/WDAOpenLetter.pdf)
 
