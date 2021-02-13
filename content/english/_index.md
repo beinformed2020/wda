@@ -5,7 +5,9 @@ draft = false
 
 +++
 
-**An independent non-profit alliance of doctors, nurses, healthcare professionals and staff around the world who have united in the wake of the Covid-19 response chapter to share experiences with a view to ending all lockdowns and related damaging measures and to re-establish universal health determinance of psychological and physical wellbeing for all humanity.**
+**An independent non-profit alliance of doctors, nurses, healthcare professionals and staff around the world who have united in the wake of the Covid-19 response chapter to share experiences with a view to ending all lockdowns and related damaging measures and to re-establish universal health determinance of psychological and physical wellbeing for all humanity.**  
+
+WDA represents a diverse range of opinions of health care professionals and does not have a consensus of opinions on the origin of covid-19 or the political ramifications of the lockdown per se. WDA is however committed to debate the causes of harm resulting from the coronavirus act measures and to raise issues that expose harmful medical and life limiting practices detrimental to the well being of all living men women and children.  
 
 ![WDA - Who we are.](/img/main/whoarewe.jpg#center)
 

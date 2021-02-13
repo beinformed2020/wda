@@ -5,7 +5,9 @@ draft = false
 
 +++
 
-**Eine unabhängige, gemeinnützige Allianz von Ärzten, Krankenschwestern, medizinischem Fachpersonal und Mitarbeitern auf der ganzen Welt, die sich im Anschluss an das Reaktionskapitel von Covid-19 zusammengeschlossen haben, um Erfahrungen auszutauschen mit dem Ziel, alle Abriegelungen und damit verbundenen schädlichen Maßnahmen zu beenden und die universelle Gesundheitsdeterminierung des psychischen und physischen Wohlbefindens für die gesamte Menschheit wiederherzustellen.**   
+**Eine unabhängige, gemeinnützige Allianz von Ärzten, Krankenschwestern, medizinischem Fachpersonal und Mitarbeitern auf der ganzen Welt, die sich im Anschluss an das Reaktionskapitel von Covid-19 zusammengeschlossen haben, um Erfahrungen auszutauschen mit dem Ziel, alle Abriegelungen und damit verbundenen schädlichen Maßnahmen zu beenden und die universelle Gesundheitsdeterminierung des psychischen und physischen Wohlbefindens für die gesamte Menschheit wiederherzustellen.**    
+
+Die WDA repräsentiert ein vielfältiges Spektrum an Meinungen von Fachleuten des Gesundheitswesens und hat keinen Konsens der Meinungen über den Ursprung von Covid-19 oder die politischen Verzweigungen des Lockdowns an sich. Der WDA ist jedoch bestrebt, die Ursachen des Schadens, der durch die Maßnahmen der Coronavirus-Gesetzgebung entstanden ist, zu diskutieren und Fragen aufzuwerfen, die schädliche medizinische und lebenseinschränkende Praktiken aufdecken, die dem Wohlergehen aller lebenden Männer, Frauen und Kinder schaden.  
 
 ![WDA - Who we are.](/img/main/whoarewe.jpg#center)
 

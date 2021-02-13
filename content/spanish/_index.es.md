@@ -7,6 +7,8 @@ draft = false
 
 **Una alianza independiente sin fines de lucro de médicos, enfermeras, profesionales de la salud y personal de todo el mundo que se han unido a raíz del capítulo de respuesta de Covid-19 para compartir experiencias con el fin de poner fin a todos los cierres y las medidas perjudiciales conexas y restablecer la determinación universal de la salud del bienestar psicológico y físico de toda la humanidad**.
 
+ADM representa una gama diversa de opiniones de profesionales de la salud y no tiene un consenso de opiniones sobre el origen del covid-19 o las ramificaciones políticas del cierre per se. Sin embargo, la WDA se compromete a debatir las causas de los daños resultantes de las medidas de actuación contra el coronavirus y a plantear cuestiones que pongan al descubierto prácticas médicas perjudiciales y que limitan la vida, en detrimento del bienestar de todos los hombres, mujeres y niños vivos.  
+
 ![WDA - Who we are.](/img/main/whoarewe.jpg#center)
 
 ## Carta abierta a todos los ciudadanos del mundo y a todos los gobiernos del mundo.
