@@ -9,7 +9,9 @@ draft: false
 ---
 
 **World Doctors Alliance doctors offer their thoughts on the issues surrounding the new vaccines for Covid-19.** 
-UPDATED 01.02.21  
+
+Make up your own mind!  
+Share: #daretothink   
 
 [WATCH ON BRAND NEW TUBE](https://brandnewtube.com/watch/ask-the-experts-covid19_eZsej9Uiah1gNlP.html)
 
