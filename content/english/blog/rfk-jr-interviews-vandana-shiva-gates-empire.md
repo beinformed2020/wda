@@ -4,7 +4,7 @@ categories: ["Other videos"]
 tags: ["RFK", "Vandana Shiva"]
 date: 2021-02-15T12:03:44Z
 description: ""
-title: "Rfk Jr Interviews Vandana Shiva Gates Empire"
+title: "Rfk Jr Interviews Vandana Shiva: The Gates Empire"
 draft: false
 ---
 
@@ -13,3 +13,4 @@ In an interview with Robert F. Kennedy, Jr., Vandana Shiva discusses how [Bill G
 Shiva, who has a Ph.D. in quantum physics, is founder of [Navdanya International](https://navdanyainternational.org/about-us-navdanya-international/), an organization dedicated to protecting seed and food sovereignty, and small farmers around the world.  
 
 [Watch here: Children's Health Defense](https://childrenshealthdefense.org/defender/rfk-jr-interviews-vandana-shiva-gates-empire/)
+
