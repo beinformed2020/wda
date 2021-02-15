@@ -2,9 +2,9 @@
 author: "World Doctors Alliance"
 categories: ["WDA videos"]
 tags: ["Vaccines"]
-date: 2021-02-01T15:55:24Z
+date: 2021-02-15T15:55:24Z
 description: ""
-title: "Ask the Experts Covid19 Vaccines: UPDATED 01.02.21"
+title: "Ask the Experts Covid19 Vaccines: Make up your own mind!"
 draft: false
 ---
 
