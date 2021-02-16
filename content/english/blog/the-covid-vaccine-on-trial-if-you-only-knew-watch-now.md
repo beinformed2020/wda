@@ -2,7 +2,7 @@
 author: "World Doctors Alliance"
 categories: ["Other videos"]
 tags: ["Vaccines"]
-date: 2021-02-16T19:01:44Z
+date: 2021-02-16T18:01:44Z
 description: ""
 title: "The Covid Vaccine on Trial if You Only Knew Watch Now"
 draft: false
