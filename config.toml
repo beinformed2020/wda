@@ -57,7 +57,7 @@ disableLanguages        = []
 
   [params.sidebar]
     about               = "Uniting around the world with integrity and right action."
-    postAmount          = 3
+    postAmount          = 6
     categories          = true
     categoriesByCount   = true
 
