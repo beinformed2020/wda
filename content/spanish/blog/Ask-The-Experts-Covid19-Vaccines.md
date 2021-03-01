@@ -2,13 +2,17 @@
 author: "World Doctors Alliance"
 categories: ["WDA videos"]
 tags: ["Vaccines"]
-date: 2021-02-01T15:55:24Z
+date: 2021-02-16T18:55:24Z
 description: ""
-title: "Ask the Experts Covid19 Vaccines"
+title: "Ask the Experts Covid19 Vaccines: Make up your own mind!"
 draft: false
 ---
 
-**World Doctors Alliance doctors offer their thoughts on the issues surrounding the new vaccines for Covid-19.**
+**World Doctors Alliance doctors offer their thoughts on the issues surrounding the new vaccines for Covid-19.**  
+**As seen on BBC Panorama!**
+
+Make up your own mind!  
+Share: #daretothink   
 
 [WATCH ON BRAND NEW TUBE](https://brandnewtube.com/watch/ask-the-experts-covid19_eZsej9Uiah1gNlP.html)
 

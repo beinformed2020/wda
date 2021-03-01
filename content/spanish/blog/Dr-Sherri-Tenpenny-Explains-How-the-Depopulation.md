@@ -2,7 +2,7 @@
 author: "World Doctors Alliance"
 categories: ["Other videos"]
 tags: [""]
-date: 2021-02-08T15:30:05Z
+date: 2021-02-07T15:30:05Z
 description: ""
 title: "Dr. Sherri Tenpenny Explains How the Depopulation COVID Vaccines Will Start Working in 3-6 Months"
 draft: false
