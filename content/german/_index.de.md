@@ -17,13 +17,21 @@ Die WDA repräsentiert ein vielfältiges Spektrum an Meinungen von Fachleuten de
 
 {{< rawhtml >}}<p style="text-align:center"><a href="/de/contact/" class="here-button">UNTERZEICHNEN SIE UNSEREN OFFENEN BRIEF: HIER KLICKEN</a></p>{{< /rawhtml >}}
 
-Letzte Aktualisierung 06.03.2020
+Letzte Aktualisierung 16.03.2020
 
 ### Bisherige Unterschriften insgesamt: 80,136
 
 **Website-Daten letzte 30 Tage:**  
 Gesamte Seitenaufrufe: 371,047  
 Gesamte eindeutige Besucher: 124,254  
+
+Última actualización 16.03.2020
+
+### Total de firmas hasta ahora: 80,192
+
+**Datos de la página web los últimos 30 días:**  
+Total de páginas vistas: 348,828  
+Total de visitantes únicos: 111,415   
 
 #### Einführung
 

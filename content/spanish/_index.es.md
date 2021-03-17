@@ -17,13 +17,13 @@ ADM representa una gama diversa de opiniones de profesionales de la salud y no t
 
 {{< rawhtml >}}<p style="text-align:center"><a href="/contact" class="here-button">FIRME NUESTRA CARTA ABIERTA: HAGA CLIC AQUÍ</a></p>{{< /rawhtml >}}  
 
-Última actualización 06.03.2020
+Última actualización 16.03.2020
 
-### Total de firmas hasta ahora: 80,136
+### Total de firmas hasta ahora: 80,192
 
 **Datos de la página web los últimos 30 días:**  
-Total de páginas vistas: 371,047  
-Total de visitantes únicos: 124,254  
+Total de páginas vistas: 348,828  
+Total de visitantes únicos: 111,415   
 
 #### Introducción
 
@@ -487,10 +487,10 @@ NB el término "covid" ha sido usado para representar a Sars-CoV-2 y Covid-19
 5. DR. ANDREW KAUFMAN, M.D
 6. DR. SCOTT JENSEN, M.D
 
-Última actualización 06.03.2020
+Última actualización 16.03.2020
 
-### Total de firmas hasta ahora: 80,136
+### Total de firmas hasta ahora: 80,192
 
 **Datos de la página web los últimos 30 días:**  
-Total de páginas vistas: 371,047  
-Total de visitantes únicos: 124,254  
+Total de páginas vistas: 348,828  
+Total de visitantes únicos: 111,415   
