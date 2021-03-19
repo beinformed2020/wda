@@ -17,13 +17,13 @@ WDA represents a diverse range of opinions of health care professionals and does
 
 {{< rawhtml >}}<p style="text-align:center"><a href="/contact" class="here-button">SIGN OUR OPEN LETTER: CLICK HERE</a></p>{{< /rawhtml >}}
 
-Last update 16.03.2020
+Last update 19.03.2020
 
-### Total signatures so far: 80,192
+### Total signatures so far: 81,534
 
 **Website data last 30 days:**  
-Total pageviews: 348,828  
-Total unique visitors: 111,415   
+Total pageviews: 342,526  
+Total unique visitors: 107,743   
 
 ### Introduction  
 
@@ -505,10 +505,10 @@ NB the term ‘covid’ has been used to represent Sars-CoV-2 and Covid-19
 5. DR. ANDREW KAUFMAN, M.D
 6. DR. SCOTT JENSEN, M.D
 
-Last update 16.03.2020
+Last update 19.03.2020
 
-### Total signatures so far: 80,192
+### Total signatures so far: 81,534
 
 **Website data last 30 days:**  
-Total pageviews: 348,828  
-Total unique visitors: 111,415  
+Total pageviews: 342,526  
+Total unique visitors: 107,743
