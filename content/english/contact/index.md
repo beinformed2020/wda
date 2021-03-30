@@ -24,6 +24,8 @@ contactanswertime = 24
 
 ------
 
+------
+
 {{< rawhtml >}}
 
 <h2>Sign-up for our mailing list: </h2>
@@ -41,6 +43,10 @@ contactanswertime = 24
   <input type="hidden" value="1" name="embed"></input>
   <input type="submit" value="Subscribe"></input>
 </form>{{< /rawhtml >}}
+------
+
+------
+
 ------
 
 {{< rawhtml >}}
