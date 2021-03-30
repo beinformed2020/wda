@@ -60,8 +60,8 @@ contactanswertime = 24
 - Media :  wda-media protonmail com   
 - Tech support :  wda-support protonmail com   
 
-- Above emails addresses fully written should read address@protonmail.com
-  Characters excluded as spam protection
+- Above emails addresses fully written should read address@protonmail.com  
+  Characters excluded as spam protection  
 
 *Please note that the WMA media is run by a small team of volunteers.  
 We cannot respond to all correspondence, but we will read all of it.  
