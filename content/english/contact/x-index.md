@@ -41,21 +41,28 @@ contactanswertime = 24
   <input type="hidden" value="1" name="embed"></input>
   <input type="submit" value="Subscribe"></input>
 </form>{{< /rawhtml >}}
+
+
 ------
 
 {{< rawhtml >}}
 
-<h2>Contact us by email:</h2>  
-
+<h2>Contact us:</h2>
 {{< /rawhtml >}}
 
-- General :  wdasecretary protonmail com  
-- Medical :   wda-medical protonmail com   
-- Media :  wda-media protonmail com   
-- Tech support :  wda-support protonmail com   
+{{< rawhtml >}}<form id="ajaxForm"
+  action="https://getform.io/f/a2d75ba7-916c-406f-9b21-9567ecd325b6"
+  method="POST">
+  <label>Your name:</label>
+  <input type="text" name="name" required/>
+  <label>Your email:</label>
+  <input type="email" name="email" required>
+  <label>Your message:</label>
+  <input type="textarea" name="message" required>
+  <button class="button">Submit</button>
 
-- Above emails addresses fully written should read address@protonmail.com
-  Characters excluded as spam protection
+  <p id="my-form-status"></p>
+</form>{{< /rawhtml >}}
 
 *Please note that the WMA media is run by a small team of volunteers.  
 We cannot respond to all correspondence, but we will read all of it.  
