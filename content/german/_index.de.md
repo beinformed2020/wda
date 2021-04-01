@@ -369,7 +369,6 @@ NB: Der Begriff "Covid" wurde verwendet, um Sars-CoV-2 und Covid-19 zu repräsen
 3. DR. R. ZAC COX, BDS
 4. DR. HEIKO SCHÖNING
 5. DR. ANDREW KAUFMAN, M.D
-6. DR. SCOTT JENSEN, M.D
 
 Letzte Aktualisierung 29.03.2020
 

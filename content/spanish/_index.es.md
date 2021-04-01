@@ -485,7 +485,6 @@ NB el término "covid" ha sido usado para representar a Sars-CoV-2 y Covid-19
 3. DR. R. ZAC COX, BDS
 4. DR. HEIKO SCHÖNING
 5. DR. ANDREW KAUFMAN, M.D
-6. DR. SCOTT JENSEN, M.D
 
 Última actualización 29.03.2020
 
