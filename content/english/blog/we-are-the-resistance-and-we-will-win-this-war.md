@@ -10,4 +10,4 @@ draft: false
 
 **Dr Vernon Coleman.**  
 
-[WATCH ON BRAND NEW TUBE](https://brandnewtube.com/watch/we-are-the-resistance-and-we-will-win-this-war_yz96TU5OWcAKIEC.html)
+[WATCH ON BRAND NEW TUBE](https://brandnewtube.com/watch/we-are-the-resistance-and-we-will-win-this-war_yz96TU5OWcAKIEC.html)  
