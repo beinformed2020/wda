@@ -17,13 +17,13 @@ Die WDA repräsentiert ein vielfältiges Spektrum an Meinungen von Fachleuten de
 
 {{< rawhtml >}}<p style="text-align:center"><a href="/de/contact/" class="here-button">UNTERZEICHNEN SIE UNSEREN OFFENEN BRIEF: HIER KLICKEN</a></p>{{< /rawhtml >}}
 
-Letzte Aktualisierung 05.04.2020
+Letzte Aktualisierung 13.04.2020
 
-### Bisherige Unterschriften insgesamt: 83,043
+### Bisherige Unterschriften insgesamt: 84,429
 
 **Website-Daten letzte 30 Tage:**  
-Gesamte Seitenaufrufe: 415,354  
-Gesamte eindeutige Besucher: 85,019
+Gesamte Seitenaufrufe: 415,780  
+Gesamte eindeutige Besucher: 83,846
 
 #### Einführung
 
@@ -45,7 +45,7 @@ Es wurde ein Katalog unwissenschaftlicher, unsinniger Politiken erlassen, die un
 
 #### Sperrung
 
-- Covid hat sich als weniger tödlich erwiesen als frühere Grippesaisonen - Von Dezember 2017 bis März 2018 gab es in England und Wales 50.100 Grippetodesfälle. Im Jahr 1969 gab es 80.000 Grippetodesfälle. Bis heute haben wir ca. 42.000 Todesfälle im Zusammenhang mit Covid in Großbritannien.
+- Covid hat sich als weniger tödlich erwiesen als frühere Grippesaisonen - Von Dezember 2017 bis März 2018 gab es in England und Wales 50.100 Grippetodesfälle. Im Jahr 1969 gab es 80.000 Grippetodesfälle. Bis heute haben wir ca.
 
 
 - Wir haben die Gesellschaft noch nie wegen eines Atemwegsvirus eingesperrt.
@@ -370,10 +370,10 @@ NB: Der Begriff "Covid" wurde verwendet, um Sars-CoV-2 und Covid-19 zu repräsen
 4. DR. HEIKO SCHÖNING
 5. DR. ANDREW KAUFMAN, M.D
 
-Letzte Aktualisierung 05.04.2020
+Letzte Aktualisierung 13.04.2020
 
-### Bisherige Unterschriften insgesamt: 83,043
+### Bisherige Unterschriften insgesamt: 84,429
 
 **Website-Daten letzte 30 Tage:**  
-Gesamte Seitenaufrufe: 415,354  
-Gesamte eindeutige Besucher: 85,019
+Gesamte Seitenaufrufe: 415,780  
+Gesamte eindeutige Besucher: 83,846

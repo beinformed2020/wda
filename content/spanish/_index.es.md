@@ -17,13 +17,13 @@ ADM representa una gama diversa de opiniones de profesionales de la salud y no t
 
 {{< rawhtml >}}<p style="text-align:center"><a href="/contact" class="here-button">FIRME NUESTRA CARTA ABIERTA: HAGA CLIC AQUÍ</a></p>{{< /rawhtml >}}  
 
-Última actualización 05.04.2020
+Última actualización 13.04.2020
 
-### Total de firmas hasta ahora: 83,043
+### Total de firmas hasta ahora: 84,429
 
 **Datos de la página web los últimos 30 días:**  
-Total de páginas vistas: 415,354  
-Total de visitantes únicos: 85,019   
+Total de páginas vistas: 415,780  
+Total de visitantes únicos: 83,846   
 
 #### Introducción
 
@@ -45,7 +45,7 @@ Ha habido un catálogo de políticas no científicas, no sensatas, promulgadas q
 
 #### Cierre
 
-- El Covid ha demostrado ser menos mortal que las temporadas de gripe anteriores - Hubo 50.100 muertes por gripe desde diciembre de 2017 hasta marzo de 2018 en Inglaterra y Gales. Hubo 80.000 muertes por gripe en 1969. Hasta la fecha tenemos alrededor de 42.000 muertes relacionadas con la Covid en el Reino Unido.
+- El Covid ha demostrado ser menos mortal que las temporadas de gripe anteriores - Hubo 50.100 muertes por gripe desde diciembre de 2017 hasta marzo de 2018 en Inglaterra y Gales. Hubo 80.000 muertes por gripe en 1969. 
 
 
 
@@ -486,10 +486,10 @@ NB el término "covid" ha sido usado para representar a Sars-CoV-2 y Covid-19
 4. DR. HEIKO SCHÖNING
 5. DR. ANDREW KAUFMAN, M.D
 
-Última actualización 05.04.2020
+Última actualización 13.04.2020
 
-### Total de firmas hasta ahora: 83,043
+### Total de firmas hasta ahora: 84,429
 
 **Datos de la página web los últimos 30 días:**  
-Total de páginas vistas: 415,354  
-Total de visitantes únicos: 85,019   
+Total de páginas vistas: 415,780  
+Total de visitantes únicos: 83,846   

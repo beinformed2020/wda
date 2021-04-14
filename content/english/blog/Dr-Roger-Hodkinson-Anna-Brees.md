@@ -2,7 +2,7 @@
 author: "World Doctors Alliance"
 categories: ["Other videos"]
 tags: [""]
-date: 2020-12-02T12:32:29Z
+date: 2021-04-12T12:32:29Z
 description: ""
 title: "Dr Roger Hodkinson interviewed by Anna Brees"
 draft: false
@@ -19,4 +19,4 @@ He has spent 20+ years in the trenches of public health as an  activist tackling
 
 Dr Hodkinson is a passionate admirer of Churchill, and was for a time President of the world’s oldest Sir Winston Spencer Churchill Society.  
 
-{{< vimeo 485062851 >}}
+[WATCH HERE](https://twitter.com/BreesAnna/status/1380634755989970945)

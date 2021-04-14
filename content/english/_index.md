@@ -17,13 +17,13 @@ WDA represents a diverse range of opinions of health care professionals and does
 
 {{< rawhtml >}}<p style="text-align:center"><a href="/contact" class="here-button">SIGN OUR OPEN LETTER: CLICK HERE</a></p>{{< /rawhtml >}}
 
-Last update 05.04.2020
+Last update 13.04.2020
 
-### Total signatures so far: 83,043
+### Total signatures so far: 84,429
 
 **Website data last 30 days:**  
-Total pageviews: 415,354  
-Total unique visitors: 85,019   
+Total pageviews: 415,780  
+Total unique visitors: 83, 846   
 
 ### Introduction  
 
@@ -45,7 +45,7 @@ There has been a catalogue of unscientific, non-sensical policies enacted which 
 
 #### Lockdown
 
-- Covid has proved less deadly than previous influenza seasons – There were 50,100 flu deaths from December 2017 to March 2018 in England and Wales. There were 80,000 flu deaths in 1969. To date we have circa 42,000 covid related deaths in the UK.
+- Covid has proved less deadly than previous influenza seasons – There were 50,100 flu deaths from December 2017 to March 2018 in England and Wales. There were 80,000 flu deaths in 1969.
 
 
 
@@ -504,10 +504,12 @@ NB the term ‘covid’ has been used to represent Sars-CoV-2 and Covid-19
 4. DR. HEIKO SCHÖNING
 5. DR. ANDREW KAUFMAN, M.D
 
-Last update 05.04.2020
+Last update 13.04.2020
 
-### Total signatures so far: 83,043
+### Total signatures so far: 84,429
 
 **Website data last 30 days:**  
-Total pageviews: 415,354  
-Total unique visitors: 85,019    
+Total pageviews: 415,780  
+Total unique visitors: 83, 846   
+
+###  
