@@ -2,7 +2,7 @@
 author: "World Doctors Alliance"
 categories: ["Other videos"]
 tags: ["Big Pharma"]
-date: 2021-04-20T17:03:56+01:00
+date: 2021-04-20T17:43:56+01:00
 description: ""
 title: "Perspectives on the Pandemic | 'The Illusion of Evidence Based Medicine | Leemon McHenry, PhD'"
 draft: false
