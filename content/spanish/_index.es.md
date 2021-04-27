@@ -17,13 +17,13 @@ ADM representa una gama diversa de opiniones de profesionales de la salud y no t
 
 {{< rawhtml >}}<p style="text-align:center"><a href="/contact" class="here-button">FIRME NUESTRA CARTA ABIERTA: HAGA CLIC AQUÍ</a></p>{{< /rawhtml >}}  
 
-Última actualización 20.04.2020
+Última actualización 27.04.2020
 
-### Total de firmas hasta ahora: 85,288
+### Total de firmas hasta ahora: 85,937
 
 **Datos de la página web los últimos 30 días:**  
-Total de páginas vistas: 416,068  
-Total de visitantes únicos: 82,748   
+Total de páginas vistas: 358,665  
+Total de visitantes únicos: 84,407   
 
 #### Introducción
 
@@ -486,10 +486,10 @@ NB el término "covid" ha sido usado para representar a Sars-CoV-2 y Covid-19
 4. DR. HEIKO SCHÖNING
 5. DR. ANDREW KAUFMAN, M.D
 
-Última actualización 20.04.2020
+Última actualización 27.04.2020
 
-### Total de firmas hasta ahora: 85,288
+### Total de firmas hasta ahora: 85,937
 
 **Datos de la página web los últimos 30 días:**  
-Total de páginas vistas: 416,068  
-Total de visitantes únicos: 82,748     
+Total de páginas vistas: 358,665  
+Total de visitantes únicos: 84,407   
