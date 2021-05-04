@@ -10,7 +10,7 @@ draft: false
 
 ### Letter of Notice – Appeal   
 
-Letter of Notice – Send to your Prime Minister/President + Health Minister.  
+**Send to your Prime Minister/President + Health Minister. **
 
 [WORLD FREEDOM ALLIANCE - Documents](https://worldfreedomalliance.org/documents/)
 
