@@ -17,13 +17,13 @@ Die WDA repräsentiert ein vielfältiges Spektrum an Meinungen von Fachleuten de
 
 {{< rawhtml >}}<p style="text-align:center"><a href="/de/contact/" class="here-button">UNTERZEICHNEN SIE UNSEREN OFFENEN BRIEF: HIER KLICKEN</a></p>{{< /rawhtml >}}
 
-Letzte Aktualisierung 27.04.2020
+Letzte Aktualisierung 04.05.2020
 
-### Bisherige Unterschriften insgesamt: 85,937
+### Bisherige Unterschriften insgesamt: 86,541
 
 **Website-Daten letzte 30 Tage:**  
-Gesamte Seitenaufrufe: 358,665  
-Gesamte eindeutige Besucher: 84,407 
+Gesamte Seitenaufrufe: 316,417  
+Gesamte eindeutige Besucher: 84,620
 
 #### Einführung
 
@@ -370,10 +370,10 @@ NB: Der Begriff "Covid" wurde verwendet, um Sars-CoV-2 und Covid-19 zu repräsen
 4. DR. HEIKO SCHÖNING
 5. DR. ANDREW KAUFMAN, M.D
 
-Letzte Aktualisierung 27.04.2020
+Letzte Aktualisierung 04.05.2020
 
-### Bisherige Unterschriften insgesamt: 85,937
+### Bisherige Unterschriften insgesamt: 86,541
 
 **Website-Daten letzte 30 Tage:**  
-Gesamte Seitenaufrufe: 358,665  
-Gesamte eindeutige Besucher: 84,407 
+Gesamte Seitenaufrufe: 316,417  
+Gesamte eindeutige Besucher: 84,620 
