@@ -2,7 +2,7 @@
 author: "World Doctors Alliance"
 categories: ["Other videos"]
 tags: ["NHS", "Whistleblower"]
-date: 2021-05-04T19:58:04+01:00
+date: 2021-05-04T18:58:04+01:00
 description: ""
 title: "Senior Nhs Board Member Warns Stop the Genocide or Our Children Are Next"
 draft: false
