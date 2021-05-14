@@ -17,13 +17,13 @@ WDA represents a diverse range of opinions of health care professionals and does
 
 {{< rawhtml >}}<p style="text-align:center"><a href="/contact" class="here-button">SIGN OUR OPEN LETTER: CLICK HERE</a></p>{{< /rawhtml >}}
 
-Last update 05.05.2020
+Last update 13.05.2020
 
-### Total signatures so far: 86,541
+### Total signatures so far: 87,527
 
 **Website data last 30 days:**  
-Total pageviews: 316,417  
-Total unique visitors: 84,620    
+Total pageviews: 304,748  
+Total unique visitors: 78,423    
 
 ### Introduction  
 
@@ -504,10 +504,10 @@ NB the term ‘covid’ has been used to represent Sars-CoV-2 and Covid-19
 4. DR. HEIKO SCHÖNING
 5. DR. ANDREW KAUFMAN, M.D
 
-Last update 05.05.2020
+Last update 13.05.2020
 
-### Total signatures so far: 86,541
+### Total signatures so far: 87,527
 
 **Website data last 30 days:**  
-Total pageviews: 316,417  
-Total unique visitors: 84,620 
+Total pageviews: 304,748  
+Total unique visitors: 78,423
