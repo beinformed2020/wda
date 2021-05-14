@@ -2,7 +2,7 @@
 author: "World Doctors Alliance"
 categories: ["Data"]
 tags: [""]
-date: 2021-05-14T16:00:00+01:00
+date: 2021-05-14T15:19:00+01:00
 description: ""
 title: "India COVID-19 Vaccine Tracker "
 draft: false
@@ -14,4 +14,3 @@ The dashboards below visualize daily updates of data from CoWIN for the district
 District administrators, elected representatives, policymakers and the public-at-large can use this data to understand how vaccine distribution is progressing and respond effectively. 
 
 [See here: Harvard Center for Population and Development Studies](https://geographicinsights.iq.harvard.edu/IndiaVaccine)
-
