@@ -2,7 +2,7 @@
 author: "World Doctors Alliance"
 categories: ["Article"]
 tags: [""]
-date: 2021-05-21T13:49:25+01:00
+date: 2021-05-21T13:49:24+01:00
 description: ""
 title: "160+ experts slam COVID vaccines as ‘unnecessary, ineffective and unsafe’"
 draft: false

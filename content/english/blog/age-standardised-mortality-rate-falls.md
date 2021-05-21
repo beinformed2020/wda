@@ -2,7 +2,7 @@
 author: "World Doctors Alliance"
 categories: ["Article"]
 tags: ["Mortality Rate"]
-date: 2021-05-21T13:39:25+01:00
+date: 2021-05-21T13:39:24+01:00
 description: ""
 title: "Age Standardised Mortality Rate Falls"
 draft: false

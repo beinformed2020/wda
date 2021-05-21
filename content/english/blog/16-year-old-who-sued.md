@@ -2,7 +2,7 @@
 author: "World Doctors Alliance"
 categories: ["Article"]
 tags: ["Legal"]
-date: 2021-05-21T13:41:36+01:00
+date: 2021-05-21T13:41:35+01:00
 description: ""
 title: "16-year-old who sued over swine flu vaccine awarded €1.28m"
 draft: false

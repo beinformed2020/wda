@@ -2,7 +2,7 @@
 author: "World Doctors Alliance"
 categories: ["Article"]
 tags: [""]
-date: 2021-05-21T13:46:56+01:00
+date: 2021-05-21T13:46:55+01:00
 description: ""
 title: "Yale University Epidemiologist: 60% of new COVID cases are in vaccinated people"
 draft: false
