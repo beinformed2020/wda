@@ -17,15 +17,9 @@ Die WDA repräsentiert ein vielfältiges Spektrum an Meinungen von Fachleuten de
 
 {{< rawhtml >}}<p style="text-align:center"><a href="/de/contact/" class="here-button">UNTERZEICHNEN SIE UNSEREN OFFENEN BRIEF: HIER KLICKEN</a></p>{{< /rawhtml >}}
 
-Letzte Aktualisierung 21.05.2020
+Letzte Aktualisierung 25.06.2020
 
-### Bisherige Unterschriften insgesamt: 88,365
-
-**Website-Daten letzte 30 Tage:**  
-Gesamte Seitenaufrufe: 302,616  
-Gesamte eindeutige Besucher: 75,806  
-
-#### Einführung
+Einführung
 
 Ursprünglich wurde uns gesagt, dass die Prämisse für den Lockdown sei, "die Kurve abzuflachen" und damit den NHS vor einer Überlastung zu schützen.   
 
@@ -370,10 +364,4 @@ NB: Der Begriff "Covid" wurde verwendet, um Sars-CoV-2 und Covid-19 zu repräsen
 4. DR. HEIKO SCHÖNING
 5. DR. ANDREW KAUFMAN, M.D
 
-Letzte Aktualisierung 21.05.2020
-
-### Bisherige Unterschriften insgesamt: 88,365
-
-**Website-Daten letzte 30 Tage:**  
-Gesamte Seitenaufrufe: 302,616  
-Gesamte eindeutige Besucher: 75,806 
+Letzte Aktualisierung 25.06.2020
