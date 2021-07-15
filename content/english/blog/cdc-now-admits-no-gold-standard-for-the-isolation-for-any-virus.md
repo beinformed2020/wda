@@ -11,3 +11,4 @@ draft: false
 NO ONE HAS EVER ISOLATED, PURIFIED AND/OR SCIENTIFICALLY VERIFIED AND PROVEN THE EXISTENCE OF ANY AND ALL VIRUSES AT ANYTIME, AT ANY PLACE, ANYWHERE IN THE WORLD!  
 
 [READ HERE:](https://www.drrobertyoung.com/post/cdc-now-admits-no-gold-standard-for-the-isolation-for-any-virus)
+
