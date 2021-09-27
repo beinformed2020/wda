@@ -1,7 +1,7 @@
 ---
 title: "Notice of Liability Schools R2"
 date: 2021-09-27T12:39:51+01:00
-draft: true
+draft: false
 ---
 
 **Document name: Notice of Liability Schools r2**
