@@ -16,4 +16,6 @@ Drafted by Lawyers and Doctors for the self-empowerment of Mums and Dads or Guar
 
 Download and complete the Notice of Liability template with your details and those of the School.
 
-This can then be emailed or sent Recorded Delivery to the 'Respondent' ie Headteachers, Governors and CEOs where appropriate.  The important thing is that you hold a copy of proof of delivery
+This can then be emailed or sent Recorded Delivery to the 'Respondent' ie Headteachers, Governors and CEOs where appropriate.
+
+*The important thing is that you hold a copy of proof of delivery.*

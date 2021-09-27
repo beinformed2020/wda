@@ -16,4 +16,4 @@ Drafted by Lawyers and Doctors for the self-empowerment of Mums and Dads to take
 
 Download and complete the Notice of Liability template with your details and those of the other person for whom you hold joint parental responsibility (Respondent).
 
-Provide two copies of this notice to ensure both parents hold signed copies, both should be signed by yourself and the Respondent
+*Provide two copies of this notice to ensure both parents hold signed copies, both should be signed by yourself and the Respondent.*
