@@ -1,4 +1,0 @@
-      
-      <header>
-       <h4 style="text-align:center"><a href="/categories" class="here-button">{{default (i18n "see_category")}}See news by category</a></h4>
-      </header>
